@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import pandas as pd
 import numpy as np
 import plotly.express as px
@@ -48,14 +42,6 @@ jobs_2['Max Salary'] = np.where((jobs_2['Type'] == "week"),(jobs_2['Max Salary']
 
 app = dash.Dash(__name__,external_stylesheets=[dbc.themes.LUX])
 app.layout = html.Div([
-        dbc.Row([
-        html.Img(src='/assets/clipart1617907.png',style={'height':'12%',
-                                                 'width':'12%',
-                                                 'position' : 'relative',
-                                                 'padding-top' : 10,
-                                                 'padding-left' : 10})
-        ],style={'textAlign': 'left','padding-left' : 25,'padding-bottom' : 25}),
-    
         dbc.Row([
             dbc.Col([
                 dbc.Card([
