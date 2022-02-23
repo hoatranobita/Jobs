@@ -9,7 +9,6 @@ import dash_bootstrap_components as dbc
 import plotly.graph_objects as go
 from io import BytesIO
 import base64
-import dash_table
 import dash.dependencies as dd
 from wordcloud import WordCloud
 
@@ -100,13 +99,13 @@ def update_data(n):
 
     cur = db.cursor()
     cur.execute("SELECT * FROM jobs")
-    data = pd.DataFrame(cur.fetchall())
+    jobs_2 = pd.DataFrame(cur.fetchall())
     db.close()
     data.rename(columns = {1:'Url',2:'Job Link',3:'Title',4:'Company',5:'Rating',6:'Location',
                        7:'Posted',8:'Job Description',9:'Min Salary',10:'Max Salary'}, inplace = True)
-    data.to_dict()
-    data = data[data['Max Salary'].notnull()] 
-    jobs_2 = data.loc[:,['Title','Company','Rating','Location','Max Salary']]
+    jobs_2.to_dict()
+    jobs_2 = jobs_2[jobs_2['Max Salary'].notnull()] 
+    jobs_2 = jobs_2.loc[:,['Title','Company','Rating','Location','Max Salary']]
     jobs_2['Rating'].fillna(0,inplace=True) 
     jobs_2 = jobs_2.dropna(subset=['Max Salary'])    
     jobs_2['Max Salary'] = jobs_2['Max Salary'].str.replace(',','')
