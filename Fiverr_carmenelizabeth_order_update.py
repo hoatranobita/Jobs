@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import pandas as pd
 import numpy as np
 import plotly.express as px
@@ -18,8 +12,6 @@ import base64
 import dash_table
 import dash.dependencies as dd
 from wordcloud import WordCloud
-frame = pd.DataFrame({'Title':[],'Company':[],'Rating':[],'Location':[],'Max Salary':[]}) 
-
 
 app = dash.Dash(__name__,external_stylesheets=[dbc.themes.LUX])
 app.layout = html.Div([
