@@ -101,7 +101,7 @@ def update_data(n):
     cur.execute("SELECT * FROM jobs")
     jobs_2 = pd.DataFrame(cur.fetchall())
     db.close()
-    data.rename(columns = {1:'Url',2:'Job Link',3:'Title',4:'Company',5:'Rating',6:'Location',
+    jobs_2.rename(columns = {1:'Url',2:'Job Link',3:'Title',4:'Company',5:'Rating',6:'Location',
                        7:'Posted',8:'Job Description',9:'Min Salary',10:'Max Salary'}, inplace = True)
     jobs_2.to_dict()
     jobs_2 = jobs_2[jobs_2['Max Salary'].notnull()] 
