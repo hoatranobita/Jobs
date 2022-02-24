@@ -91,6 +91,7 @@ app.layout = html.Div([
              [Input('update', 'n_intervals')])
 
 def update_data(n):
+    global jobs_2
     db = mysql.connector.connect(
         host="localhost",              
         user="root",            
