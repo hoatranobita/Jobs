@@ -11,6 +11,7 @@ from io import BytesIO
 import base64
 import dash.dependencies as dd
 from wordcloud import WordCloud
+import mysql.connector
 
 app = dash.Dash(__name__,external_stylesheets=[dbc.themes.LUX])
 app.layout = html.Div([
