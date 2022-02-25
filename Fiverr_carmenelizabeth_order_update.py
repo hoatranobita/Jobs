@@ -85,7 +85,7 @@ app.layout = html.Div([
     ]),  
         
     dcc.Store(id='store-data', data=[], storage_type='memory'), # 'local' or 'session'    
-    dcc.Interval(id='update', n_intervals = 0, interval=1000*5)
+    dcc.Interval(id='update', n_intervals = 0, interval=1000*30)
 ])
     
 @app.callback(Output('store-data','data'),
@@ -101,10 +101,10 @@ def update_data(n):
 
     cur = db.cursor()
     cur.execute("SELECT * FROM jobs")
-    jobs_2 = pd.DataFrame(cur.fetchall())
+    columns = [col[0] for col in mycursor.description]
+    data = mycursor.fetchall()
+    jobs_2 = pd.DataFrame(data, columns=columns)
     db.close()
-    jobs_2.rename(columns = {1:'Url',2:'Job Link',3:'Title',4:'Company',5:'Rating',6:'Location',
-                       7:'Posted',8:'Job Description',9:'Min Salary',10:'Max Salary'}, inplace = True)
     jobs_2.to_dict()
     jobs_2 = jobs_2[jobs_2['Max Salary'].notnull()] 
     jobs_2 = jobs_2.loc[:,['Title','Company','Rating','Location','Max Salary']]
