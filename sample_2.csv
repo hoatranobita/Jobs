@@ -1,2269 +1,2269 @@
-Country/Region,Province/State,Month, Confirmed 
-Australia,Australian Capital Territory,2020-01, -   
-Australia,Australian Capital Territory,2020-02, -   
-Australia,Australian Capital Territory,2020-03, 579.00 
-Australia,Australian Capital Territory,2020-04," 3,028.00 "
-Australia,Australian Capital Territory,2020-05," 3,314.00 "
-Australia,Australian Capital Territory,2020-06," 3,235.00 "
-Australia,Australian Capital Territory,2020-07," 3,470.00 "
-Australia,Australian Capital Territory,2020-08," 3,503.00 "
-Australia,Australian Capital Territory,2020-09," 3,390.00 "
-Australia,Australian Capital Territory,2020-10," 3,514.00 "
-Australia,Australian Capital Territory,2020-11," 3,443.00 "
-Australia,Australian Capital Territory,2020-12," 3,639.00 "
-Australia,Australian Capital Territory,2021-01," 3,658.00 "
-Australia,Australian Capital Territory,2021-02," 3,304.00 "
-Australia,Australian Capital Territory,2021-03," 3,793.00 "
-Australia,Australian Capital Territory,2021-04," 3,692.00 "
-Australia,Australian Capital Territory,2021-05," 3,844.00 "
-Australia,Australian Capital Territory,2021-06," 3,720.00 "
-Australia,Australian Capital Territory,2021-07," 3,844.00 "
-Australia,Australian Capital Territory,2021-08," 6,607.00 "
-Australia,Australian Capital Territory,2021-09," 20,954.00 "
-Australia,Australian Capital Territory,2021-10," 46,670.00 "
-Australia,Australian Capital Territory,2021-11," 59,247.00 "
-Australia,Australian Capital Territory,2021-12," 77,470.00 "
-Australia,Australian Capital Territory,2022-01," 684,834.00 "
-Australia,Australian Capital Territory,2022-02," 1,201,574.00 "
-Australia,Australian Capital Territory,2022-03," 1,980,709.00 "
-Australia,Australian Capital Territory,2022-04," 2,254,127.00 "
-Australia,New South Wales,2020-01, 23.00 
-Australia,New South Wales,2020-02, 116.00 
-Australia,New South Wales,2020-03," 15,757.00 "
-Australia,New South Wales,2020-04," 84,561.00 "
-Australia,New South Wales,2020-05," 95,130.00 "
-Australia,New South Wales,2020-06," 94,155.00 "
-Australia,New South Wales,2020-07," 109,877.00 "
-Australia,New South Wales,2020-08," 122,019.00 "
-Australia,New South Wales,2020-09," 125,176.00 "
-Australia,New South Wales,2020-10," 134,117.00 "
-Australia,New South Wales,2020-11," 135,076.00 "
-Australia,New South Wales,2020-12," 146,392.00 "
-Australia,New South Wales,2021-01," 156,463.00 "
-Australia,New South Wales,2021-02," 143,935.00 "
-Australia,New South Wales,2021-03," 162,604.00 "
-Australia,New South Wales,2021-04," 161,175.00 "
-Australia,New South Wales,2021-05," 172,090.00 "
-Australia,New South Wales,2021-06," 169,704.00 "
-Australia,New South Wales,2021-07," 218,148.00 "
-Australia,New South Wales,2021-08," 499,097.00 "
-Australia,New South Wales,2021-09," 1,437,924.00 "
-Australia,New South Wales,2021-10," 2,195,840.00 "
-Australia,New South Wales,2021-11," 2,365,268.00 "
-Australia,New South Wales,2021-12," 3,353,566.00 "
-Australia,New South Wales,2022-01," 22,772,993.00 "
-Australia,New South Wales,2022-02," 34,037,344.00 "
-Australia,New South Wales,2022-03," 48,070,913.00 "
-Australia,New South Wales,2022-04," 51,622,859.00 "
-Australia,Northern Territory,2020-01, -   
-Australia,Northern Territory,2020-02, -   
-Australia,Northern Territory,2020-03, 126.00 
-Australia,Northern Territory,2020-04, 815.00 
-Australia,Northern Territory,2020-05, 897.00 
-Australia,Northern Territory,2020-06, 870.00 
-Australia,Northern Territory,2020-07, 955.00 
-Australia,Northern Territory,2020-08," 1,023.00 "
-Australia,Northern Territory,2020-09, 990.00 
-Australia,Northern Territory,2020-10," 1,041.00 "
-Australia,Northern Territory,2020-11," 1,339.00 "
-Australia,Northern Territory,2020-12," 2,063.00 "
-Australia,Northern Territory,2021-01," 2,857.00 "
-Australia,Northern Territory,2021-02," 2,870.00 "
-Australia,Northern Territory,2021-03," 3,280.00 "
-Australia,Northern Territory,2021-04," 3,884.00 "
-Australia,Northern Territory,2021-05," 5,243.00 "
-Australia,Northern Territory,2021-06," 5,286.00 "
-Australia,Northern Territory,2021-07," 5,888.00 "
-Australia,Northern Territory,2021-08," 6,194.00 "
-Australia,Northern Territory,2021-09," 6,153.00 "
-Australia,Northern Territory,2021-10," 6,827.00 "
-Australia,Northern Territory,2021-11," 7,514.00 "
-Australia,Northern Territory,2021-12," 11,380.00 "
-Australia,Northern Territory,2022-01," 234,871.00 "
-Australia,Northern Territory,2022-02," 866,485.00 "
-Australia,Northern Territory,2022-03," 1,417,124.00 "
-Australia,Northern Territory,2022-04," 1,398,681.00 "
-Australia,Queensland,2020-01, 6.00 
-Australia,Queensland,2020-02, 136.00 
-Australia,Queensland,2020-03," 6,277.00 "
-Australia,Queensland,2020-04," 29,303.00 "
-Australia,Queensland,2020-05," 32,606.00 "
-Australia,Queensland,2020-06," 31,929.00 "
-Australia,Queensland,2020-07," 33,242.00 "
-Australia,Queensland,2020-08," 34,018.00 "
-Australia,Queensland,2020-09," 34,394.00 "
-Australia,Queensland,2020-10," 36,085.00 "
-Australia,Queensland,2020-11," 35,612.00 "
-Australia,Queensland,2020-12," 38,128.00 "
-Australia,Queensland,2021-01," 39,943.00 "
-Australia,Queensland,2021-02," 36,938.00 "
-Australia,Queensland,2021-03," 43,346.00 "
-Australia,Queensland,2021-04," 45,465.00 "
-Australia,Queensland,2021-05," 49,329.00 "
-Australia,Queensland,2021-06," 49,723.00 "
-Australia,Queensland,2021-07," 54,356.00 "
-Australia,Queensland,2021-08," 60,180.00 "
-Australia,Queensland,2021-09," 60,274.00 "
-Australia,Queensland,2021-10," 64,171.00 "
-Australia,Queensland,2021-11," 63,251.00 "
-Australia,Queensland,2021-12," 119,486.00 "
-Australia,Queensland,2022-01," 6,716,565.00 "
-Australia,Queensland,2022-02," 14,106,852.00 "
-Australia,Queensland,2022-03," 20,409,168.00 "
-Australia,Queensland,2022-04," 22,087,230.00 "
-Australia,South Australia,2020-01, -   
-Australia,South Australia,2020-02, 58.00 
-Australia,South Australia,2020-03," 2,675.00 "
-Australia,South Australia,2020-04," 12,734.00 "
-Australia,South Australia,2020-05," 13,609.00 "
-Australia,South Australia,2020-06," 13,206.00 "
-Australia,South Australia,2020-07," 13,787.00 "
-Australia,South Australia,2020-08," 14,271.00 "
-Australia,South Australia,2020-09," 13,975.00 "
-Australia,South Australia,2020-10," 14,921.00 "
-Australia,South Australia,2020-11," 16,068.00 "
-Australia,South Australia,2020-12," 17,532.00 "
-Australia,South Australia,2021-01," 18,313.00 "
-Australia,South Australia,2021-02," 16,997.00 "
-Australia,South Australia,2021-03," 19,682.00 "
-Australia,South Australia,2021-04," 20,516.00 "
-Australia,South Australia,2021-05," 23,026.00 "
-Australia,South Australia,2021-06," 23,359.00 "
-Australia,South Australia,2021-07," 25,814.00 "
-Australia,South Australia,2021-08," 26,913.00 "
-Australia,South Australia,2021-09," 26,787.00 "
-Australia,South Australia,2021-10," 28,306.00 "
-Australia,South Australia,2021-11," 27,655.00 "
-Australia,South Australia,2021-12," 78,721.00 "
-Australia,South Australia,2022-01," 2,176,645.00 "
-Australia,South Australia,2022-02," 3,688,087.00 "
-Australia,South Australia,2022-03," 6,059,154.00 "
-Australia,South Australia,2022-04," 8,305,104.00 "
-Australia,Tasmania,2020-01, -   
-Australia,Tasmania,2020-02, -   
-Australia,Tasmania,2020-03, 565.00 
-Australia,Tasmania,2020-04," 4,666.00 "
-Australia,Tasmania,2020-05," 7,027.00 "
-Australia,Tasmania,2020-06," 6,840.00 "
-Australia,Tasmania,2020-07," 7,080.00 "
-Australia,Tasmania,2020-08," 7,120.00 "
-Australia,Tasmania,2020-09," 6,901.00 "
-Australia,Tasmania,2020-10," 7,130.00 "
-Australia,Tasmania,2020-11," 6,900.00 "
-Australia,Tasmania,2020-12," 7,225.00 "
-Australia,Tasmania,2021-01," 7,254.00 "
-Australia,Tasmania,2021-02," 6,552.00 "
-Australia,Tasmania,2021-03," 7,254.00 "
-Australia,Tasmania,2021-04," 7,020.00 "
-Australia,Tasmania,2021-05," 7,254.00 "
-Australia,Tasmania,2021-06," 7,020.00 "
-Australia,Tasmania,2021-07," 7,254.00 "
-Australia,Tasmania,2021-08," 7,282.00 "
-Australia,Tasmania,2021-09," 7,050.00 "
-Australia,Tasmania,2021-10," 7,334.00 "
-Australia,Tasmania,2021-11," 7,137.00 "
-Australia,Tasmania,2021-12," 10,055.00 "
-Australia,Tasmania,2022-01," 546,659.00 "
-Australia,Tasmania,2022-02," 1,034,865.00 "
-Australia,Tasmania,2022-03," 2,030,403.00 "
-Australia,Tasmania,2022-04," 2,859,744.00 "
-Australia,Victoria,2020-01, 9.00 
-Australia,Victoria,2020-02, 119.00 
-Australia,Victoria,2020-03," 6,924.00 "
-Australia,Victoria,2020-04," 37,825.00 "
-Australia,Victoria,2020-05," 47,713.00 "
-Australia,Victoria,2020-06," 54,306.00 "
-Australia,Victoria,2020-07," 173,438.00 "
-Australia,Victoria,2020-08," 508,954.00 "
-Australia,Victoria,2020-09," 596,178.00 "
-Australia,Victoria,2020-10," 629,229.00 "
-Australia,Victoria,2020-11," 610,350.00 "
-Australia,Victoria,2020-12," 630,980.00 "
-Australia,Victoria,2021-01," 633,101.00 "
-Australia,Victoria,2021-02," 573,123.00 "
-Australia,Victoria,2021-03," 634,965.00 "
-Australia,Victoria,2021-04," 614,893.00 "
-Australia,Victoria,2021-05," 637,003.00 "
-Australia,Victoria,2021-06," 620,166.00 "
-Australia,Victoria,2021-07," 644,916.00 "
-Australia,Victoria,2021-08," 661,575.00 "
-Australia,Victoria,2021-09," 845,821.00 "
-Australia,Victoria,2021-10," 2,028,205.00 "
-Australia,Victoria,2021-11," 3,212,929.00 "
-Australia,Victoria,2021-12," 4,502,254.00 "
-Australia,Victoria,2022-01," 17,913,911.00 "
-Australia,Victoria,2022-02," 27,276,523.00 "
-Australia,Victoria,2022-03," 36,006,797.00 "
-Australia,Victoria,2022-04," 35,425,452.00 "
-Australia,Western Australia,2020-01, -   
-Australia,Western Australia,2020-02, 2.00 
-Australia,Western Australia,2020-03," 2,776.00 "
-Australia,Western Australia,2020-04," 15,274.00 "
-Australia,Western Australia,2020-05," 17,329.00 "
-Australia,Western Australia,2020-06," 18,070.00 "
-Australia,Western Australia,2020-07," 19,871.00 "
-Australia,Western Australia,2020-08," 20,183.00 "
-Australia,Western Australia,2020-09," 19,895.00 "
-Australia,Western Australia,2020-10," 22,327.00 "
-Australia,Western Australia,2020-11," 23,726.00 "
-Australia,Western Australia,2020-12," 26,087.00 "
-Australia,Western Australia,2021-01," 27,423.00 "
-Australia,Western Australia,2021-02," 25,471.00 "
-Australia,Western Australia,2021-03," 28,725.00 "
-Australia,Western Australia,2021-04," 29,065.00 "
-Australia,Western Australia,2021-05," 31,449.00 "
-Australia,Western Australia,2021-06," 30,597.00 "
-Australia,Western Australia,2021-07," 32,248.00 "
-Australia,Western Australia,2021-08," 33,041.00 "
-Australia,Western Australia,2021-09," 32,724.00 "
-Australia,Western Australia,2021-10," 34,407.00 "
-Australia,Western Australia,2021-11," 33,479.00 "
-Australia,Western Australia,2021-12," 35,033.00 "
-Australia,Western Australia,2022-01," 40,886.00 "
-Australia,Western Australia,2022-02," 93,325.00 "
-Australia,Western Australia,2022-03," 2,408,190.00 "
-Australia,Western Australia,2022-04," 6,797,690.00 "
-Canada,Alberta,2020-01, -   
-Canada,Alberta,2020-02, -   
-Canada,Alberta,2020-03," 5,662.00 "
-Canada,Alberta,2020-04," 76,102.00 "
-Canada,Alberta,2020-05," 200,503.00 "
-Canada,Alberta,2020-06," 225,082.00 "
-Canada,Alberta,2020-07," 286,502.00 "
-Canada,Alberta,2020-08," 378,646.00 "
-Canada,Alberta,2020-09," 479,121.00 "
-Canada,Alberta,2020-10," 685,933.00 "
-Canada,Alberta,2020-11," 1,224,690.00 "
-Canada,Alberta,2020-12," 2,573,776.00 "
-Canada,Alberta,2021-01," 3,559,487.00 "
-Canada,Alberta,2021-02," 3,611,874.00 "
-Canada,Alberta,2021-03," 4,338,742.00 "
-Canada,Alberta,2021-04," 5,034,774.00 "
-Canada,Alberta,2021-05," 6,677,134.00 "
-Canada,Alberta,2021-06," 6,914,142.00 "
-Canada,Alberta,2021-07," 7,217,973.00 "
-Canada,Alberta,2021-08," 7,480,455.00 "
-Canada,Alberta,2021-09," 8,236,090.00 "
-Canada,Alberta,2021-10," 9,715,887.00 "
-Canada,Alberta,2021-11," 9,899,011.00 "
-Canada,Alberta,2021-12," 10,621,958.00 "
-Canada,Alberta,2022-01," 13,511,010.00 "
-Canada,Alberta,2022-02," 14,409,057.00 "
-Canada,Alberta,2022-03," 16,510,184.00 "
-Canada,Alberta,2022-04," 13,745,113.00 "
-Canada,British Columbia,2020-01, 4.00 
-Canada,British Columbia,2020-02, 128.00 
-Canada,British Columbia,2020-03," 9,118.00 "
-Canada,British Columbia,2020-04," 47,020.00 "
-Canada,British Columbia,2020-05," 74,469.00 "
-Canada,British Columbia,2020-06," 82,436.00 "
-Canada,British Columbia,2020-07," 99,349.00 "
-Canada,British Columbia,2020-08," 140,512.00 "
-Canada,British Columbia,2020-09," 223,013.00 "
-Canada,British Columbia,2020-10," 352,954.00 "
-Canada,British Columbia,2020-11," 684,592.00 "
-Canada,British Columbia,2020-12," 1,342,337.00 "
-Canada,British Columbia,2021-01," 1,863,238.00 "
-Canada,British Columbia,2021-02," 2,062,419.00 "
-Canada,British Columbia,2021-03," 2,765,907.00 "
-Canada,British Columbia,2021-04," 3,459,108.00 "
-Canada,British Columbia,2021-05," 4,285,814.00 "
-Canada,British Columbia,2021-06," 4,391,870.00 "
-Canada,British Columbia,2021-07," 4,602,222.00 "
-Canada,British Columbia,2021-08," 4,862,784.00 "
-Canada,British Columbia,2021-09," 5,293,313.00 "
-Canada,British Columbia,2021-10," 6,101,988.00 "
-Canada,British Columbia,2021-11," 6,379,978.00 "
-Canada,British Columbia,2021-12," 7,073,611.00 "
-Canada,British Columbia,2022-01," 9,113,178.00 "
-Canada,British Columbia,2022-02," 9,503,681.00 "
-Canada,British Columbia,2022-03," 10,939,263.00 "
-Canada,British Columbia,2022-04," 8,966,434.00 "
-Canada,Diamond Princess,2020-01, -   
-Canada,Diamond Princess,2020-02, -   
-Canada,Diamond Princess,2020-03, -   
-Canada,Diamond Princess,2020-04, -   
-Canada,Diamond Princess,2020-05, 31.00 
-Canada,Diamond Princess,2020-06, 1.00 
-Canada,Diamond Princess,2020-07, -   
-Canada,Diamond Princess,2020-08, -   
-Canada,Diamond Princess,2020-09, -   
-Canada,Diamond Princess,2020-10, -   
-Canada,Diamond Princess,2020-11, -   
-Canada,Diamond Princess,2020-12, -   
-Canada,Diamond Princess,2021-01, -   
-Canada,Diamond Princess,2021-02, -   
-Canada,Diamond Princess,2021-03, -   
-Canada,Diamond Princess,2021-04, -   
-Canada,Diamond Princess,2021-05, -   
-Canada,Diamond Princess,2021-06, -   
-Canada,Diamond Princess,2021-07, -   
-Canada,Diamond Princess,2021-08, -   
-Canada,Diamond Princess,2021-09, -   
-Canada,Diamond Princess,2021-10, -   
-Canada,Diamond Princess,2021-11, -   
-Canada,Diamond Princess,2021-12, -   
-Canada,Diamond Princess,2022-01, -   
-Canada,Diamond Princess,2022-02, -   
-Canada,Diamond Princess,2022-03, -   
-Canada,Diamond Princess,2022-04, -   
-Canada,Grand Princess,2020-01, -   
-Canada,Grand Princess,2020-02, -   
-Canada,Grand Princess,2020-03, 184.00 
-Canada,Grand Princess,2020-04, 390.00 
-Canada,Grand Princess,2020-05, 403.00 
-Canada,Grand Princess,2020-06, 390.00 
-Canada,Grand Princess,2020-07, 403.00 
-Canada,Grand Princess,2020-08, 403.00 
-Canada,Grand Princess,2020-09, 390.00 
-Canada,Grand Princess,2020-10, 403.00 
-Canada,Grand Princess,2020-11, 390.00 
-Canada,Grand Princess,2020-12, 403.00 
-Canada,Grand Princess,2021-01, 403.00 
-Canada,Grand Princess,2021-02, 364.00 
-Canada,Grand Princess,2021-03, 403.00 
-Canada,Grand Princess,2021-04, 390.00 
-Canada,Grand Princess,2021-05, 403.00 
-Canada,Grand Princess,2021-06, 390.00 
-Canada,Grand Princess,2021-07, 403.00 
-Canada,Grand Princess,2021-08, 403.00 
-Canada,Grand Princess,2021-09, 390.00 
-Canada,Grand Princess,2021-10, 403.00 
-Canada,Grand Princess,2021-11, 390.00 
-Canada,Grand Princess,2021-12, 403.00 
-Canada,Grand Princess,2022-01, 403.00 
-Canada,Grand Princess,2022-02, 364.00 
-Canada,Grand Princess,2022-03, 403.00 
-Canada,Grand Princess,2022-04, 325.00 
-Canada,Manitoba,2020-01, -   
-Canada,Manitoba,2020-02, -   
-Canada,Manitoba,2020-03, 600.00 
-Canada,Manitoba,2020-04," 7,106.00 "
-Canada,Manitoba,2020-05," 8,950.00 "
-Canada,Manitoba,2020-06," 9,225.00 "
-Canada,Manitoba,2020-07," 10,903.00 "
-Canada,Manitoba,2020-08," 22,952.00 "
-Canada,Manitoba,2020-09," 45,842.00 "
-Canada,Manitoba,2020-10," 102,160.00 "
-Canada,Manitoba,2020-11," 335,032.00 "
-Canada,Manitoba,2020-12," 664,825.00 "
-Canada,Manitoba,2021-01," 844,725.00 "
-Canada,Manitoba,2021-02," 862,767.00 "
-Canada,Manitoba,2021-03," 1,021,544.00 "
-Canada,Manitoba,2021-04," 1,080,279.00 "
-Canada,Manitoba,2021-05," 1,396,482.00 "
-Canada,Manitoba,2021-06," 1,630,373.00 "
-Canada,Manitoba,2021-07," 1,767,606.00 "
-Canada,Manitoba,2021-08," 1,800,463.00 "
-Canada,Manitoba,2021-09," 1,785,227.00 "
-Canada,Manitoba,2021-10," 1,922,598.00 "
-Canada,Manitoba,2021-11," 1,972,845.00 "
-Canada,Manitoba,2021-12," 2,216,942.00 "
-Canada,Manitoba,2022-01," 3,274,068.00 "
-Canada,Manitoba,2022-02," 3,542,704.00 "
-Canada,Manitoba,2022-03," 4,131,779.00 "
-Canada,Manitoba,2022-04," 3,432,517.00 "
-Canada,New Brunswick,2020-01, -   
-Canada,New Brunswick,2020-02, -   
-Canada,New Brunswick,2020-03, 473.00 
-Canada,New Brunswick,2020-04," 3,327.00 "
-Canada,New Brunswick,2020-05," 3,756.00 "
-Canada,New Brunswick,2020-06," 4,637.00 "
-Canada,New Brunswick,2020-07," 5,198.00 "
-Canada,New Brunswick,2020-08," 5,651.00 "
-Canada,New Brunswick,2020-09," 5,845.00 "
-Canada,New Brunswick,2020-10," 8,748.00 "
-Canada,New Brunswick,2020-11," 11,851.00 "
-Canada,New Brunswick,2020-12," 17,430.00 "
-Canada,New Brunswick,2021-01," 28,637.00 "
-Canada,New Brunswick,2021-02," 38,690.00 "
-Canada,New Brunswick,2021-03," 46,292.00 "
-Canada,New Brunswick,2021-04," 52,885.00 "
-Canada,New Brunswick,2021-05," 64,089.00 "
-Canada,New Brunswick,2021-06," 68,832.00 "
-Canada,New Brunswick,2021-07," 72,662.00 "
-Canada,New Brunswick,2021-08," 79,017.00 "
-Canada,New Brunswick,2021-09," 97,882.00 "
-Canada,New Brunswick,2021-10," 172,434.00 "
-Canada,New Brunswick,2021-11," 219,851.00 "
-Canada,New Brunswick,2021-12," 322,778.00 "
-Canada,New Brunswick,2022-01," 705,141.00 "
-Canada,New Brunswick,2022-02," 928,526.00 "
-Canada,New Brunswick,2022-03," 1,316,012.00 "
-Canada,New Brunswick,2022-04," 1,389,539.00 "
-Canada,Newfoundland and Labrador,2020-01, -   
-Canada,Newfoundland and Labrador,2020-02, -   
-Canada,Newfoundland and Labrador,2020-03, 863.00 
-Canada,Newfoundland and Labrador,2020-04," 7,179.00 "
-Canada,Newfoundland and Labrador,2020-05," 8,058.00 "
-Canada,Newfoundland and Labrador,2020-06," 7,830.00 "
-Canada,Newfoundland and Labrador,2020-07," 8,148.00 "
-Canada,Newfoundland and Labrador,2020-08," 8,297.00 "
-Canada,Newfoundland and Labrador,2020-09," 8,133.00 "
-Canada,Newfoundland and Labrador,2020-10," 8,810.00 "
-Canada,Newfoundland and Labrador,2020-11," 9,242.00 "
-Canada,Newfoundland and Labrador,2020-12," 11,371.00 "
-Canada,Newfoundland and Labrador,2021-01," 12,276.00 "
-Canada,Newfoundland and Labrador,2021-02," 19,360.00 "
-Canada,Newfoundland and Labrador,2021-03," 31,323.00 "
-Canada,Newfoundland and Labrador,2021-04," 31,197.00 "
-Canada,Newfoundland and Labrador,2021-05," 37,059.00 "
-Canada,Newfoundland and Labrador,2021-06," 41,102.00 "
-Canada,Newfoundland and Labrador,2021-07," 43,985.00 "
-Canada,Newfoundland and Labrador,2021-08," 45,034.00 "
-Canada,Newfoundland and Labrador,2021-09," 47,277.00 "
-Canada,Newfoundland and Labrador,2021-10," 58,590.00 "
-Canada,Newfoundland and Labrador,2021-11," 60,763.00 "
-Canada,Newfoundland and Labrador,2021-12," 73,759.00 "
-Canada,Newfoundland and Labrador,2022-01," 369,299.00 "
-Canada,Newfoundland and Labrador,2022-02," 575,938.00 "
-Canada,Newfoundland and Labrador,2022-03," 970,168.00 "
-Canada,Newfoundland and Labrador,2022-04," 1,029,228.00 "
-Canada,Northwest Territories,2020-01, -   
-Canada,Northwest Territories,2020-02, -   
-Canada,Northwest Territories,2020-03, 6.00 
-Canada,Northwest Territories,2020-04, 139.00 
-Canada,Northwest Territories,2020-05, 155.00 
-Canada,Northwest Territories,2020-06, 150.00 
-Canada,Northwest Territories,2020-07, 155.00 
-Canada,Northwest Territories,2020-08, 155.00 
-Canada,Northwest Territories,2020-09, 150.00 
-Canada,Northwest Territories,2020-10, 201.00 
-Canada,Northwest Territories,2020-11, 392.00 
-Canada,Northwest Territories,2020-12, 634.00 
-Canada,Northwest Territories,2021-01, 848.00 
-Canada,Northwest Territories,2021-02," 1,188.00 "
-Canada,Northwest Territories,2021-03," 1,457.00 "
-Canada,Northwest Territories,2021-04," 1,520.00 "
-Canada,Northwest Territories,2021-05," 3,497.00 "
-Canada,Northwest Territories,2021-06," 3,840.00 "
-Canada,Northwest Territories,2021-07," 3,968.00 "
-Canada,Northwest Territories,2021-08," 7,358.00 "
-Canada,Northwest Territories,2021-09," 21,404.00 "
-Canada,Northwest Territories,2021-10," 49,494.00 "
-Canada,Northwest Territories,2021-11," 59,651.00 "
-Canada,Northwest Territories,2021-12," 64,670.00 "
-Canada,Northwest Territories,2022-01," 121,338.00 "
-Canada,Northwest Territories,2022-02," 212,567.00 "
-Canada,Northwest Territories,2022-03," 302,821.00 "
-Canada,Northwest Territories,2022-04," 290,958.00 "
-Canada,Nova Scotia,2020-01, -   
-Canada,Nova Scotia,2020-02, -   
-Canada,Nova Scotia,2020-03, 931.00 
-Canada,Nova Scotia,2020-04," 17,060.00 "
-Canada,Nova Scotia,2020-05," 31,814.00 "
-Canada,Nova Scotia,2020-06," 31,806.00 "
-Canada,Nova Scotia,2020-07," 33,051.00 "
-Canada,Nova Scotia,2020-08," 33,335.00 "
-Canada,Nova Scotia,2020-09," 32,584.00 "
-Canada,Nova Scotia,2020-10," 33,942.00 "
-Canada,Nova Scotia,2020-11," 35,071.00 "
-Canada,Nova Scotia,2020-12," 44,035.00 "
-Canada,Nova Scotia,2021-01," 47,942.00 "
-Canada,Nova Scotia,2021-02," 44,799.00 "
-Canada,Nova Scotia,2021-03," 51,988.00 "
-Canada,Nova Scotia,2021-04," 56,515.00 "
-Canada,Nova Scotia,2021-05," 138,916.00 "
-Canada,Nova Scotia,2021-06," 172,280.00 "
-Canada,Nova Scotia,2021-07," 181,983.00 "
-Canada,Nova Scotia,2021-08," 184,163.00 "
-Canada,Nova Scotia,2021-09," 188,490.00 "
-Canada,Nova Scotia,2021-10," 219,285.00 "
-Canada,Nova Scotia,2021-11," 236,071.00 "
-Canada,Nova Scotia,2021-12," 345,205.00 "
-Canada,Nova Scotia,2022-01," 902,477.00 "
-Canada,Nova Scotia,2022-02," 1,180,012.00 "
-Canada,Nova Scotia,2022-03," 1,540,752.00 "
-Canada,Nova Scotia,2022-04," 1,706,823.00 "
-Canada,Nunavut,2020-01, -   
-Canada,Nunavut,2020-02, -   
-Canada,Nunavut,2020-03, -   
-Canada,Nunavut,2020-04, -   
-Canada,Nunavut,2020-05, -   
-Canada,Nunavut,2020-06, -   
-Canada,Nunavut,2020-07, -   
-Canada,Nunavut,2020-08, -   
-Canada,Nunavut,2020-09, -   
-Canada,Nunavut,2020-10, -   
-Canada,Nunavut,2020-11," 1,852.00 "
-Canada,Nunavut,2020-12," 7,565.00 "
-Canada,Nunavut,2021-01," 8,390.00 "
-Canada,Nunavut,2021-02," 8,969.00 "
-Canada,Nunavut,2021-03," 11,926.00 "
-Canada,Nunavut,2021-04," 12,626.00 "
-Canada,Nunavut,2021-05," 18,687.00 "
-Canada,Nunavut,2021-06," 19,625.00 "
-Canada,Nunavut,2021-07," 20,367.00 "
-Canada,Nunavut,2021-08," 20,367.00 "
-Canada,Nunavut,2021-09," 19,796.00 "
-Canada,Nunavut,2021-10," 20,782.00 "
-Canada,Nunavut,2021-11," 20,220.00 "
-Canada,Nunavut,2021-12," 21,329.00 "
-Canada,Nunavut,2022-01," 36,681.00 "
-Canada,Nunavut,2022-02," 63,248.00 "
-Canada,Nunavut,2022-03," 101,074.00 "
-Canada,Nunavut,2022-04," 88,039.00 "
-Canada,Ontario,2020-01, 26.00 
-Canada,Ontario,2020-02, 202.00 
-Canada,Ontario,2020-03," 26,325.00 "
-Canada,Ontario,2020-04," 325,924.00 "
-Canada,Ontario,2020-05," 726,869.00 "
-Canada,Ontario,2020-06," 983,666.00 "
-Canada,Ontario,2020-07," 1,170,978.00 "
-Canada,Ontario,2020-08," 1,280,004.00 "
-Canada,Ontario,2020-09," 1,417,792.00 "
-Canada,Ontario,2020-10," 2,030,590.00 "
-Canada,Ontario,2020-11," 2,955,099.00 "
-Canada,Ontario,2020-12," 4,746,538.00 "
-Canada,Ontario,2021-01," 7,365,032.00 "
-Canada,Ontario,2021-02," 8,112,092.00 "
-Canada,Ontario,2021-03," 10,167,565.00 "
-Canada,Ontario,2021-04," 12,496,308.00 "
-Canada,Ontario,2021-05," 15,901,717.00 "
-Canada,Ontario,2021-06," 16,333,114.00 "
-Canada,Ontario,2021-07," 17,103,675.00 "
-Canada,Ontario,2021-08," 17,399,564.00 "
-Canada,Ontario,2021-09," 17,456,318.00 "
-Canada,Ontario,2021-10," 18,562,948.00 "
-Canada,Ontario,2021-11," 18,410,040.00 "
-Canada,Ontario,2021-12," 20,789,025.00 "
-Canada,Ontario,2022-01," 29,721,162.00 "
-Canada,Ontario,2022-02," 30,454,564.00 "
-Canada,Ontario,2022-03," 35,424,667.00 "
-Canada,Ontario,2022-04," 30,179,492.00 "
-Canada,Prince Edward Island,2020-01, -   
-Canada,Prince Edward Island,2020-02, -   
-Canada,Prince Edward Island,2020-03, 99.00 
-Canada,Prince Edward Island,2020-04, 747.00 
-Canada,Prince Edward Island,2020-05, 837.00 
-Canada,Prince Edward Island,2020-06, 810.00 
-Canada,Prince Edward Island,2020-07," 1,055.00 "
-Canada,Prince Edward Island,2020-08," 1,258.00 "
-Canada,Prince Edward Island,2020-09," 1,630.00 "
-Canada,Prince Edward Island,2020-10," 1,941.00 "
-Canada,Prince Edward Island,2020-11," 2,030.00 "
-Canada,Prince Edward Island,2020-12," 2,681.00 "
-Canada,Prince Edward Island,2021-01," 3,241.00 "
-Canada,Prince Edward Island,2021-02," 3,207.00 "
-Canada,Prince Edward Island,2021-03," 4,491.00 "
-Canada,Prince Edward Island,2021-04," 5,008.00 "
-Canada,Prince Edward Island,2021-05," 5,909.00 "
-Canada,Prince Edward Island,2021-06," 6,168.00 "
-Canada,Prince Edward Island,2021-07," 6,442.00 "
-Canada,Prince Edward Island,2021-08," 6,752.00 "
-Canada,Prince Edward Island,2021-09," 7,797.00 "
-Canada,Prince Edward Island,2021-10," 9,562.00 "
-Canada,Prince Edward Island,2021-11," 10,037.00 "
-Canada,Prince Edward Island,2021-12," 16,004.00 "
-Canada,Prince Edward Island,2022-01," 131,949.00 "
-Canada,Prince Edward Island,2022-02," 297,963.00 "
-Canada,Prince Edward Island,2022-03," 635,666.00 "
-Canada,Prince Edward Island,2022-04," 741,544.00 "
-Canada,Quebec,2020-01, -   
-Canada,Quebec,2020-02, 7.00 
-Canada,Quebec,2020-03," 27,346.00 "
-Canada,Quebec,2020-04," 521,776.00 "
-Canada,Quebec,2020-05," 1,310,342.00 "
-Canada,Quebec,2020-06," 1,614,848.00 "
-Canada,Quebec,2020-07," 1,772,904.00 "
-Canada,Quebec,2020-08," 1,889,695.00 "
-Canada,Quebec,2020-09," 2,016,613.00 "
-Canada,Quebec,2020-10," 2,856,518.00 "
-Canada,Quebec,2020-11," 3,760,807.00 "
-Canada,Quebec,2020-12," 5,354,891.00 "
-Canada,Quebec,2021-01," 7,427,825.00 "
-Canada,Quebec,2021-02," 7,738,297.00 "
-Canada,Quebec,2021-03," 9,267,249.00 "
-Canada,Quebec,2021-04," 9,991,642.00 "
-Canada,Quebec,2021-05," 11,250,309.00 "
-Canada,Quebec,2021-06," 11,206,820.00 "
-Canada,Quebec,2021-07," 11,663,299.00 "
-Canada,Quebec,2021-08," 11,857,783.00 "
-Canada,Quebec,2021-09," 12,003,179.00 "
-Canada,Quebec,2021-10," 12,977,609.00 "
-Canada,Quebec,2021-11," 13,078,713.00 "
-Canada,Quebec,2021-12," 15,266,836.00 "
-Canada,Quebec,2022-01," 23,951,756.00 "
-Canada,Quebec,2022-02," 25,161,202.00 "
-Canada,Quebec,2022-03," 29,187,321.00 "
-Canada,Quebec,2022-04," 25,094,458.00 "
-Canada,Saskatchewan,2020-01, -   
-Canada,Saskatchewan,2020-02, -   
-Canada,Saskatchewan,2020-03," 1,192.00 "
-Canada,Saskatchewan,2020-04," 9,017.00 "
-Canada,Saskatchewan,2020-05," 17,798.00 "
-Canada,Saskatchewan,2020-06," 21,023.00 "
-Canada,Saskatchewan,2020-07," 29,783.00 "
-Canada,Saskatchewan,2020-08," 47,070.00 "
-Canada,Saskatchewan,2020-09," 52,556.00 "
-Canada,Saskatchewan,2020-10," 73,193.00 "
-Canada,Saskatchewan,2020-11," 160,187.00 "
-Canada,Saskatchewan,2020-12," 385,123.00 "
-Canada,Saskatchewan,2021-01," 614,780.00 "
-Canada,Saskatchewan,2021-02," 742,292.00 "
-Canada,Saskatchewan,2021-03," 961,175.00 "
-Canada,Saskatchewan,2021-04," 1,123,884.00 "
-Canada,Saskatchewan,2021-05," 1,373,577.00 "
-Canada,Saskatchewan,2021-06," 1,440,713.00 "
-Canada,Saskatchewan,2021-07," 1,531,027.00 "
-Canada,Saskatchewan,2021-08," 1,601,860.00 "
-Canada,Saskatchewan,2021-09," 1,818,371.00 "
-Canada,Saskatchewan,2021-10," 2,279,732.00 "
-Canada,Saskatchewan,2021-11," 2,388,013.00 "
-Canada,Saskatchewan,2021-12," 2,550,700.00 "
-Canada,Saskatchewan,2022-01," 3,119,961.00 "
-Canada,Saskatchewan,2022-02," 3,487,386.00 "
-Canada,Saskatchewan,2022-03," 4,013,713.00 "
-Canada,Saskatchewan,2022-04," 3,339,316.00 "
-Canada,Yukon,2020-01, -   
-Canada,Yukon,2020-02, -   
-Canada,Yukon,2020-03, 23.00 
-Canada,Yukon,2020-04, 259.00 
-Canada,Yukon,2020-05, 341.00 
-Canada,Yukon,2020-06, 330.00 
-Canada,Yukon,2020-07, 379.00 
-Canada,Yukon,2020-08, 459.00 
-Canada,Yukon,2020-09, 450.00 
-Canada,Yukon,2020-10, 530.00 
-Canada,Yukon,2020-11, 878.00 
-Canada,Yukon,2020-12," 1,785.00 "
-Canada,Yukon,2021-01," 2,125.00 "
-Canada,Yukon,2021-02," 1,991.00 "
-Canada,Yukon,2021-03," 2,240.00 "
-Canada,Yukon,2021-04," 2,300.00 "
-Canada,Yukon,2021-05," 2,582.00 "
-Canada,Yukon,2021-06," 4,790.00 "
-Canada,Yukon,2021-07," 15,426.00 "
-Canada,Yukon,2021-08," 20,237.00 "
-Canada,Yukon,2021-09," 21,520.00 "
-Canada,Yukon,2021-10," 26,052.00 "
-Canada,Yukon,2021-11," 37,558.00 "
-Canada,Yukon,2021-12," 50,057.00 "
-Canada,Yukon,2022-01," 79,104.00 "
-Canada,Yukon,2022-02," 92,787.00 "
-Canada,Yukon,2022-03," 111,984.00 "
-Canada,Yukon,2022-04," 99,599.00 "
-US,Alabama,2020-01, -   
-US,Alabama,2020-02, -   
-US,Alabama,2020-03," 6,735.00 "
-US,Alabama,2020-04," 127,476.00 "
-US,Alabama,2020-05," 377,501.00 "
-US,Alabama,2020-06," 812,738.00 "
-US,Alabama,2020-07," 1,938,938.00 "
-US,Alabama,2020-08," 3,358,162.00 "
-US,Alabama,2020-09," 4,214,797.00 "
-US,Alabama,2020-10," 5,351,525.00 "
-US,Alabama,2020-11," 6,594,967.00 "
-US,Alabama,2020-12," 9,513,716.00 "
-US,Alabama,2021-01," 12,918,813.00 "
-US,Alabama,2021-02," 13,436,108.00 "
-US,Alabama,2021-03," 15,701,638.00 "
-US,Alabama,2021-04," 15,647,349.00 "
-US,Alabama,2021-05," 16,644,019.00 "
-US,Alabama,2021-06," 16,436,393.00 "
-US,Alabama,2021-07," 17,403,982.00 "
-US,Alabama,2021-08," 19,824,481.00 "
-US,Alabama,2021-09," 22,697,489.00 "
-US,Alabama,2021-10," 25,232,343.00 "
-US,Alabama,2021-11," 25,199,142.00 "
-US,Alabama,2021-12," 26,636,596.00 "
-US,Alabama,2022-01," 32,662,269.00 "
-US,Alabama,2022-02," 35,299,657.00 "
-US,Alabama,2022-03," 39,968,914.00 "
-US,Alabama,2022-04," 32,436,562.00 "
-US,Alaska,2020-01, -   
-US,Alaska,2020-02, -   
-US,Alaska,2020-03, 808.00 
-US,Alaska,2020-04," 8,403.00 "
-US,Alaska,2020-05," 12,588.00 "
-US,Alaska,2020-06," 23,332.00 "
-US,Alaska,2020-07," 68,426.00 "
-US,Alaska,2020-08," 156,847.00 "
-US,Alaska,2020-09," 222,884.00 "
-US,Alaska,2020-10," 370,876.00 "
-US,Alaska,2020-11," 725,439.00 "
-US,Alaska,2020-12," 1,286,130.00 "
-US,Alaska,2021-01," 1,592,043.00 "
-US,Alaska,2021-02," 1,584,216.00 "
-US,Alaska,2021-03," 1,883,029.00 "
-US,Alaska,2021-04," 1,971,363.00 "
-US,Alaska,2021-05," 2,152,331.00 "
-US,Alaska,2021-06," 2,123,004.00 "
-US,Alaska,2021-07," 2,255,515.00 "
-US,Alaska,2021-08," 2,523,878.00 "
-US,Alaska,2021-09," 2,992,768.00 "
-US,Alaska,2021-10," 3,952,314.00 "
-US,Alaska,2021-11," 4,379,464.00 "
-US,Alaska,2021-12," 4,780,751.00 "
-US,Alaska,2022-01," 5,663,361.00 "
-US,Alaska,2022-02," 6,494,968.00 "
-US,Alaska,2022-03," 7,558,325.00 "
-US,Alaska,2022-04," 6,238,302.00 "
-US,American Samoa,2020-01, -   
-US,American Samoa,2020-02, -   
-US,American Samoa,2020-03, -   
-US,American Samoa,2020-04, -   
-US,American Samoa,2020-05, -   
-US,American Samoa,2020-06, -   
-US,American Samoa,2020-07, -   
-US,American Samoa,2020-08, -   
-US,American Samoa,2020-09, -   
-US,American Samoa,2020-10, -   
-US,American Samoa,2020-11, -   
-US,American Samoa,2020-12, -   
-US,American Samoa,2021-01, -   
-US,American Samoa,2021-02, -   
-US,American Samoa,2021-03, -   
-US,American Samoa,2021-04, -   
-US,American Samoa,2021-05, -   
-US,American Samoa,2021-06, -   
-US,American Samoa,2021-07, -   
-US,American Samoa,2021-08, -   
-US,American Samoa,2021-09, 12.00 
-US,American Samoa,2021-10, 96.00 
-US,American Samoa,2021-11, 143.00 
-US,American Samoa,2021-12, 322.00 
-US,American Samoa,2022-01, 516.00 
-US,American Samoa,2022-02," 1,575.00 "
-US,American Samoa,2022-03," 36,554.00 "
-US,American Samoa,2022-04," 129,286.00 "
-US,Arizona,2020-01, 6.00 
-US,Arizona,2020-02, 29.00 
-US,Arizona,2020-03," 6,783.00 "
-US,Arizona,2020-04," 128,753.00 "
-US,Arizona,2020-05," 417,640.00 "
-US,Arizona,2020-06," 1,294,975.00 "
-US,Arizona,2020-07," 4,103,132.00 "
-US,Arizona,2020-08," 5,950,207.00 "
-US,Arizona,2020-09," 6,319,715.00 "
-US,Arizona,2020-10," 7,141,160.00 "
-US,Arizona,2020-11," 8,435,286.00 "
-US,Arizona,2020-12," 13,273,679.00 "
-US,Arizona,2021-01," 20,393,424.00 "
-US,Arizona,2021-02," 22,250,257.00 "
-US,Arizona,2021-03," 25,797,716.00 "
-US,Arizona,2021-04," 25,567,822.00 "
-US,Arizona,2021-05," 27,054,387.00 "
-US,Arizona,2021-06," 26,637,712.00 "
-US,Arizona,2021-07," 28,137,932.00 "
-US,Arizona,2021-08," 30,036,830.00 "
-US,Arizona,2021-09," 31,702,901.00 "
-US,Arizona,2021-10," 35,077,978.00 "
-US,Arizona,2021-11," 36,605,385.00 "
-US,Arizona,2021-12," 41,114,969.00 "
-US,Arizona,2022-01," 49,955,467.00 "
-US,Arizona,2022-02," 54,448,587.00 "
-US,Arizona,2022-03," 61,664,125.00 "
-US,Arizona,2022-04," 50,359,823.00 "
-US,Arkansas,2020-01, -   
-US,Arkansas,2020-02, -   
-US,Arkansas,2020-03," 3,721.00 "
-US,Arkansas,2020-04," 52,677.00 "
-US,Arkansas,2020-05," 150,164.00 "
-US,Arkansas,2020-06," 402,154.00 "
-US,Arkansas,2020-07," 972,505.00 "
-US,Arkansas,2020-08," 1,633,912.00 "
-US,Arkansas,2020-09," 2,167,050.00 "
-US,Arkansas,2020-10," 3,025,302.00 "
-US,Arkansas,2020-11," 4,031,431.00 "
-US,Arkansas,2020-12," 5,960,217.00 "
-US,Arkansas,2021-01," 8,247,175.00 "
-US,Arkansas,2021-02," 8,718,837.00 "
-US,Arkansas,2021-03," 10,140,927.00 "
-US,Arkansas,2021-04," 9,990,989.00 "
-US,Arkansas,2021-05," 10,502,727.00 "
-US,Arkansas,2021-06," 10,342,559.00 "
-US,Arkansas,2021-07," 11,285,956.00 "
-US,Arkansas,2021-08," 13,065,966.00 "
-US,Arkansas,2021-09," 14,359,207.00 "
-US,Arkansas,2021-10," 15,679,023.00 "
-US,Arkansas,2021-11," 15,627,896.00 "
-US,Arkansas,2021-12," 16,826,185.00 "
-US,Arkansas,2022-01," 20,963,225.00 "
-US,Arkansas,2022-02," 22,573,689.00 "
-US,Arkansas,2022-03," 25,662,056.00 "
-US,Arkansas,2022-04," 20,849,251.00 "
-US,California,2020-01, 13.00 
-US,California,2020-02, 244.00 
-US,California,2020-03," 53,289.00 "
-US,California,2020-04," 854,565.00 "
-US,California,2020-05," 2,492,704.00 "
-US,California,2020-06," 4,972,506.00 "
-US,California,2020-07," 11,609,493.00 "
-US,California,2020-08," 19,293,627.00 "
-US,California,2020-09," 23,161,562.00 "
-US,California,2020-10," 27,240,941.00 "
-US,California,2020-11," 32,213,509.00 "
-US,California,2020-12," 55,733,127.00 "
-US,California,2021-01," 92,589,439.00 "
-US,California,2021-02," 98,974,133.00 "
-US,California,2021-03," 114,251,086.00 "
-US,California,2021-04," 113,168,181.00 "
-US,California,2021-05," 118,806,405.00 "
-US,California,2021-06," 116,127,508.00 "
-US,California,2021-07," 122,152,535.00 "
-US,California,2021-08," 131,777,543.00 "
-US,California,2021-09," 138,676,447.00 "
-US,California,2021-10," 149,878,919.00 "
-US,California,2021-11," 150,310,978.00 "
-US,California,2021-12," 161,894,570.00 "
-US,California,2022-01," 218,566,805.00 "
-US,California,2022-02," 246,636,373.00 "
-US,California,2022-03," 280,718,771.00 "
-US,California,2022-04," 228,771,786.00 "
-US,Colorado,2020-01, -   
-US,Colorado,2020-02, -   
-US,Colorado,2020-03," 18,579.00 "
-US,Colorado,2020-04," 264,414.00 "
-US,Colorado,2020-05," 662,304.00 "
-US,Colorado,2020-06," 886,864.00 "
-US,Colorado,2020-07," 1,213,687.00 "
-US,Colorado,2020-08," 1,636,988.00 "
-US,Colorado,2020-09," 1,896,041.00 "
-US,Colorado,2020-10," 2,637,741.00 "
-US,Colorado,2020-11," 5,023,534.00 "
-US,Colorado,2020-12," 9,086,576.00 "
-US,Colorado,2021-01," 11,481,062.00 "
-US,Colorado,2021-02," 11,573,317.00 "
-US,Colorado,2021-03," 13,810,806.00 "
-US,Colorado,2021-04," 14,590,987.00 "
-US,Colorado,2021-05," 16,433,069.00 "
-US,Colorado,2021-06," 16,545,319.00 "
-US,Colorado,2021-07," 17,535,074.00 "
-US,Colorado,2021-08," 18,406,553.00 "
-US,Colorado,2021-09," 19,330,171.00 "
-US,Colorado,2021-10," 21,885,481.00 "
-US,Colorado,2021-11," 23,708,582.00 "
-US,Colorado,2021-12," 26,901,271.00 "
-US,Colorado,2022-01," 34,294,310.00 "
-US,Colorado,2022-02," 36,153,210.00 "
-US,Colorado,2022-03," 41,212,688.00 "
-US,Colorado,2022-04," 34,045,687.00 "
-US,Connecticut,2020-01, -   
-US,Connecticut,2020-02, -   
-US,Connecticut,2020-03," 14,573.00 "
-US,Connecticut,2020-04," 466,219.00 "
-US,Connecticut,2020-05," 1,124,193.00 "
-US,Connecticut,2020-06," 1,348,657.00 "
-US,Connecticut,2020-07," 1,483,675.00 "
-US,Connecticut,2020-08," 1,585,462.00 "
-US,Connecticut,2020-09," 1,651,324.00 "
-US,Connecticut,2020-10," 1,961,272.00 "
-US,Connecticut,2020-11," 2,784,124.00 "
-US,Connecticut,2020-12," 4,793,649.00 "
-US,Connecticut,2021-01," 6,900,960.00 "
-US,Connecticut,2021-02," 7,518,722.00 "
-US,Connecticut,2021-03," 9,132,642.00 "
-US,Connecticut,2021-04," 9,809,247.00 "
-US,Connecticut,2021-05," 10,682,683.00 "
-US,Connecticut,2021-06," 10,455,337.00 "
-US,Connecticut,2021-07," 10,883,232.00 "
-US,Connecticut,2021-08," 11,268,515.00 "
-US,Connecticut,2021-09," 11,466,034.00 "
-US,Connecticut,2021-10," 12,310,808.00 "
-US,Connecticut,2021-11," 12,324,716.00 "
-US,Connecticut,2021-12," 14,150,773.00 "
-US,Connecticut,2022-01," 19,514,368.00 "
-US,Connecticut,2022-02," 20,004,481.00 "
-US,Connecticut,2022-03," 22,647,572.00 "
-US,Connecticut,2022-04," 18,609,339.00 "
-US,Delaware,2020-01, -   
-US,Delaware,2020-02, -   
-US,Delaware,2020-03," 1,844.00 "
-US,Delaware,2020-04," 67,466.00 "
-US,Delaware,2020-05," 229,083.00 "
-US,Delaware,2020-06," 312,601.00 "
-US,Delaware,2020-07," 410,198.00 "
-US,Delaware,2020-08," 503,506.00 "
-US,Delaware,2020-09," 572,135.00 "
-US,Delaware,2020-10," 706,558.00 "
-US,Delaware,2020-11," 883,967.00 "
-US,Delaware,2020-12," 1,466,659.00 "
-US,Delaware,2021-01," 2,135,494.00 "
-US,Delaware,2021-02," 2,317,309.00 "
-US,Delaware,2021-03," 2,815,506.00 "
-US,Delaware,2021-04," 3,000,969.00 "
-US,Delaware,2021-05," 3,318,997.00 "
-US,Delaware,2021-06," 3,281,533.00 "
-US,Delaware,2021-07," 3,421,377.00 "
-US,Delaware,2021-08," 3,567,960.00 "
-US,Delaware,2021-09," 3,797,367.00 "
-US,Delaware,2021-10," 4,321,484.00 "
-US,Delaware,2021-11," 4,455,662.00 "
-US,Delaware,2021-12," 5,091,823.00 "
-US,Delaware,2022-01," 6,874,293.00 "
-US,Delaware,2022-02," 7,095,898.00 "
-US,Delaware,2022-03," 8,006,138.00 "
-US,Delaware,2022-04," 6,503,842.00 "
-US,Diamond Princess,2020-01, -   
-US,Diamond Princess,2020-02, -   
-US,Diamond Princess,2020-03, 729.00 
-US,Diamond Princess,2020-04," 1,470.00 "
-US,Diamond Princess,2020-05," 1,519.00 "
-US,Diamond Princess,2020-06," 1,470.00 "
-US,Diamond Princess,2020-07," 1,519.00 "
-US,Diamond Princess,2020-08," 1,519.00 "
-US,Diamond Princess,2020-09," 1,470.00 "
-US,Diamond Princess,2020-10," 1,519.00 "
-US,Diamond Princess,2020-11," 1,470.00 "
-US,Diamond Princess,2020-12," 1,519.00 "
-US,Diamond Princess,2021-01," 1,519.00 "
-US,Diamond Princess,2021-02," 1,372.00 "
-US,Diamond Princess,2021-03," 1,519.00 "
-US,Diamond Princess,2021-04," 1,470.00 "
-US,Diamond Princess,2021-05," 1,519.00 "
-US,Diamond Princess,2021-06," 1,470.00 "
-US,Diamond Princess,2021-07," 1,519.00 "
-US,Diamond Princess,2021-08," 1,519.00 "
-US,Diamond Princess,2021-09," 1,470.00 "
-US,Diamond Princess,2021-10," 1,519.00 "
-US,Diamond Princess,2021-11," 1,470.00 "
-US,Diamond Princess,2021-12," 1,519.00 "
-US,Diamond Princess,2022-01," 1,519.00 "
-US,Diamond Princess,2022-02," 1,372.00 "
-US,Diamond Princess,2022-03," 1,519.00 "
-US,Diamond Princess,2022-04," 1,225.00 "
-US,District of Columbia,2020-01, -   
-US,District of Columbia,2020-02, -   
-US,District of Columbia,2020-03," 2,878.00 "
-US,District of Columbia,2020-04," 70,954.00 "
-US,District of Columbia,2020-05," 215,106.00 "
-US,District of Columbia,2020-06," 291,828.00 "
-US,District of Columbia,2020-07," 345,436.00 "
-US,District of Columbia,2020-08," 407,811.00 "
-US,District of Columbia,2020-09," 441,242.00 "
-US,District of Columbia,2020-10," 503,613.00 "
-US,District of Columbia,2020-11," 575,533.00 "
-US,District of Columbia,2020-12," 790,037.00 "
-US,District of Columbia,2021-01," 1,030,286.00 "
-US,District of Columbia,2021-02," 1,088,107.00 "
-US,District of Columbia,2021-03," 1,321,799.00 "
-US,District of Columbia,2021-04," 1,388,929.00 "
-US,District of Columbia,2021-05," 1,502,192.00 "
-US,District of Columbia,2021-06," 1,475,944.00 "
-US,District of Columbia,2021-07," 1,541,828.00 "
-US,District of Columbia,2021-08," 1,633,332.00 "
-US,District of Columbia,2021-09," 1,749,115.00 "
-US,District of Columbia,2021-10," 1,952,231.00 "
-US,District of Columbia,2021-11," 1,969,488.00 "
-US,District of Columbia,2021-12," 2,310,903.00 "
-US,District of Columbia,2022-01," 3,694,684.00 "
-US,District of Columbia,2022-02," 3,724,870.00 "
-US,District of Columbia,2022-03," 4,202,436.00 "
-US,District of Columbia,2022-04," 3,472,596.00 "
-US,Florida,2020-01, -   
-US,Florida,2020-02, -   
-US,Florida,2020-03," 33,497.00 "
-US,Florida,2020-04," 668,452.00 "
-US,Florida,2020-05," 1,396,266.00 "
-US,Florida,2020-06," 2,637,866.00 "
-US,Florida,2020-07," 9,746,886.00 "
-US,Florida,2020-08," 17,470,128.00 "
-US,Florida,2020-09," 20,108,587.00 "
-US,Florida,2020-10," 23,278,925.00 "
-US,Florida,2020-11," 26,828,872.00 "
-US,Florida,2020-12," 35,950,919.00 "
-US,Florida,2021-01," 47,886,722.00 "
-US,Florida,2021-02," 51,110,285.00 "
-US,Florida,2021-03," 61,554,303.00 "
-US,Florida,2021-04," 64,514,411.00 "
-US,Florida,2021-05," 70,924,763.00 "
-US,Florida,2021-06," 70,395,623.00 "
-US,Florida,2021-07," 75,953,211.00 "
-US,Florida,2021-08," 91,121,919.00 "
-US,Florida,2021-09," 104,089,489.00 "
-US,Florida,2021-10," 113,329,514.00 "
-US,Florida,2021-11," 111,320,630.00 "
-US,Florida,2021-12," 118,409,818.00 "
-US,Florida,2022-01," 154,472,528.00 "
-US,Florida,2022-02," 160,996,769.00 "
-US,Florida,2022-03," 181,889,429.00 "
-US,Florida,2022-04," 147,654,848.00 "
-US,Georgia,2020-01, -   
-US,Georgia,2020-02, -   
-US,Georgia,2020-03," 21,050.00 "
-US,Georgia,2020-04," 465,883.00 "
-US,Georgia,2020-05," 1,157,327.00 "
-US,Georgia,2020-06," 1,822,772.00 "
-US,Georgia,2020-07," 4,114,740.00 "
-US,Georgia,2020-08," 7,260,641.00 "
-US,Georgia,2020-09," 8,926,776.00 "
-US,Georgia,2020-10," 10,489,420.00 "
-US,Georgia,2020-11," 12,809,840.00 "
-US,Georgia,2020-12," 17,500,247.00 "
-US,Georgia,2021-01," 24,831,364.00 "
-US,Georgia,2021-02," 26,992,282.00 "
-US,Georgia,2021-03," 32,140,488.00 "
-US,Georgia,2021-04," 32,411,603.00 "
-US,Georgia,2021-05," 34,551,307.00 "
-US,Georgia,2021-06," 33,882,795.00 "
-US,Georgia,2021-07," 35,636,790.00 "
-US,Georgia,2021-08," 39,633,591.00 "
-US,Georgia,2021-09," 45,185,390.00 "
-US,Georgia,2021-10," 50,000,887.00 "
-US,Georgia,2021-11," 49,501,949.00 "
-US,Georgia,2021-12," 52,916,815.00 "
-US,Georgia,2022-01," 65,646,927.00 "
-US,Georgia,2022-02," 68,180,566.00 "
-US,Georgia,2022-03," 76,869,599.00 "
-US,Georgia,2022-04," 62,626,187.00 "
-US,Grand Princess,2020-01, -   
-US,Grand Princess,2020-02, -   
-US,Grand Princess,2020-03, 712.00 
-US,Grand Princess,2020-04," 3,090.00 "
-US,Grand Princess,2020-05," 3,193.00 "
-US,Grand Princess,2020-06," 3,090.00 "
-US,Grand Princess,2020-07," 3,193.00 "
-US,Grand Princess,2020-08," 3,193.00 "
-US,Grand Princess,2020-09," 3,090.00 "
-US,Grand Princess,2020-10," 3,193.00 "
-US,Grand Princess,2020-11," 3,090.00 "
-US,Grand Princess,2020-12," 3,193.00 "
-US,Grand Princess,2021-01," 3,193.00 "
-US,Grand Princess,2021-02," 2,884.00 "
-US,Grand Princess,2021-03," 3,193.00 "
-US,Grand Princess,2021-04," 3,090.00 "
-US,Grand Princess,2021-05," 3,193.00 "
-US,Grand Princess,2021-06," 3,090.00 "
-US,Grand Princess,2021-07," 3,193.00 "
-US,Grand Princess,2021-08," 3,193.00 "
-US,Grand Princess,2021-09," 3,090.00 "
-US,Grand Princess,2021-10," 3,193.00 "
-US,Grand Princess,2021-11," 3,090.00 "
-US,Grand Princess,2021-12," 3,193.00 "
-US,Grand Princess,2022-01," 3,193.00 "
-US,Grand Princess,2022-02," 2,884.00 "
-US,Grand Princess,2022-03," 3,193.00 "
-US,Grand Princess,2022-04," 2,575.00 "
-US,Guam,2020-01, -   
-US,Guam,2020-02, -   
-US,Guam,2020-03, 511.00 
-US,Guam,2020-04," 3,809.00 "
-US,Guam,2020-05," 4,858.00 "
-US,Guam,2020-06," 6,064.00 "
-US,Guam,2020-07," 9,821.00 "
-US,Guam,2020-08," 21,263.00 "
-US,Guam,2020-09," 59,481.00 "
-US,Guam,2020-10," 110,463.00 "
-US,Guam,2020-11," 178,845.00 "
-US,Guam,2020-12," 221,174.00 "
-US,Guam,2021-01," 231,484.00 "
-US,Guam,2021-02," 215,199.00 "
-US,Guam,2021-03," 240,949.00 "
-US,Guam,2021-04," 236,100.00 "
-US,Guam,2021-05," 250,617.00 "
-US,Guam,2021-06," 247,822.00 "
-US,Guam,2021-07," 262,278.00 "
-US,Guam,2021-08," 285,384.00 "
-US,Guam,2021-09," 388,119.00 "
-US,Guam,2021-10," 520,521.00 "
-US,Guam,2021-11," 566,737.00 "
-US,Guam,2021-12," 600,359.00 "
-US,Guam,2022-01," 760,410.00 "
-US,Guam,2022-02," 1,121,070.00 "
-US,Guam,2022-03," 1,438,000.00 "
-US,Guam,2022-04," 1,191,408.00 "
-US,Hawaii,2020-01, -   
-US,Hawaii,2020-02, -   
-US,Hawaii,2020-03," 1,320.00 "
-US,Hawaii,2020-04," 14,957.00 "
-US,Hawaii,2020-05," 19,741.00 "
-US,Hawaii,2020-06," 22,662.00 "
-US,Hawaii,2020-07," 41,972.00 "
-US,Hawaii,2020-08," 157,592.00 "
-US,Hawaii,2020-09," 328,183.00 "
-US,Hawaii,2020-10," 434,994.00 "
-US,Hawaii,2020-11," 504,871.00 "
-US,Hawaii,2020-12," 623,187.00 "
-US,Hawaii,2021-01," 765,480.00 "
-US,Hawaii,2021-02," 772,397.00 "
-US,Hawaii,2021-03," 912,703.00 "
-US,Hawaii,2021-04," 972,930.00 "
-US,Hawaii,2021-05," 1,092,491.00 "
-US,Hawaii,2021-06," 1,112,325.00 "
-US,Hawaii,2021-07," 1,219,212.00 "
-US,Hawaii,2021-08," 1,612,776.00 "
-US,Hawaii,2021-09," 2,189,458.00 "
-US,Hawaii,2021-10," 2,546,612.00 "
-US,Hawaii,2021-11," 2,581,023.00 "
-US,Hawaii,2021-12," 2,910,476.00 "
-US,Hawaii,2022-01," 5,281,135.00 "
-US,Hawaii,2022-02," 6,461,227.00 "
-US,Hawaii,2022-03," 7,389,684.00 "
-US,Hawaii,2022-04," 6,070,997.00 "
-US,Idaho,2020-01, -   
-US,Idaho,2020-02, -   
-US,Idaho,2020-03," 2,132.00 "
-US,Idaho,2020-04," 44,534.00 "
-US,Idaho,2020-05," 74,576.00 "
-US,Idaho,2020-06," 115,391.00 "
-US,Idaho,2020-07," 408,987.00 "
-US,Idaho,2020-08," 843,404.00 "
-US,Idaho,2020-09," 1,095,109.00 "
-US,Idaho,2020-10," 1,624,120.00 "
-US,Idaho,2020-11," 2,496,748.00 "
-US,Idaho,2020-12," 3,846,737.00 "
-US,Idaho,2021-01," 4,763,931.00 "
-US,Idaho,2021-02," 4,691,503.00 "
-US,Idaho,2021-03," 5,456,929.00 "
-US,Idaho,2021-04," 5,531,237.00 "
-US,Idaho,2021-05," 5,892,676.00 "
-US,Idaho,2021-06," 5,813,278.00 "
-US,Idaho,2021-07," 6,109,924.00 "
-US,Idaho,2021-08," 6,510,782.00 "
-US,Idaho,2021-09," 7,167,422.00 "
-US,Idaho,2021-10," 8,559,534.00 "
-US,Idaho,2021-11," 9,019,786.00 "
-US,Idaho,2021-12," 9,710,404.00 "
-US,Idaho,2022-01," 10,703,314.00 "
-US,Idaho,2022-02," 11,364,708.00 "
-US,Idaho,2022-03," 13,607,008.00 "
-US,Idaho,2022-04," 11,122,564.00 "
-US,Illinois,2020-01, 9.00 
-US,Illinois,2020-02, 58.00 
-US,Illinois,2020-03," 33,001.00 "
-US,Illinois,2020-04," 802,339.00 "
-US,Illinois,2020-05," 2,817,238.00 "
-US,Illinois,2020-06," 3,992,626.00 "
-US,Illinois,2020-07," 4,964,947.00 "
-US,Illinois,2020-08," 6,454,930.00 "
-US,Illinois,2020-09," 8,037,477.00 "
-US,Illinois,2020-10," 10,690,588.00 "
-US,Illinois,2020-11," 17,311,582.00 "
-US,Illinois,2020-12," 26,767,345.00 "
-US,Illinois,2021-01," 32,760,433.00 "
-US,Illinois,2021-02," 32,502,745.00 "
-US,Illinois,2021-03," 37,634,271.00 "
-US,Illinois,2021-04," 38,776,019.00 "
-US,Illinois,2021-05," 42,286,389.00 "
-US,Illinois,2021-06," 41,633,595.00 "
-US,Illinois,2021-07," 43,462,380.00 "
-US,Illinois,2021-08," 45,504,491.00 "
-US,Illinois,2021-09," 47,405,296.00 "
-US,Illinois,2021-10," 51,628,096.00 "
-US,Illinois,2021-11," 52,453,318.00 "
-US,Illinois,2021-12," 60,408,772.00 "
-US,Illinois,2022-01," 80,469,683.00 "
-US,Illinois,2022-02," 83,819,983.00 "
-US,Illinois,2022-03," 94,557,527.00 "
-US,Illinois,2022-04," 77,272,016.00 "
-US,Indiana,2020-01, -   
-US,Indiana,2020-02, -   
-US,Indiana,2020-03," 10,086.00 "
-US,Indiana,2020-04," 289,747.00 "
-US,Indiana,2020-05," 838,266.00 "
-US,Indiana,2020-06," 1,210,849.00 "
-US,Indiana,2020-07," 1,703,054.00 "
-US,Indiana,2020-08," 2,488,354.00 "
-US,Indiana,2020-09," 3,224,126.00 "
-US,Indiana,2020-10," 4,512,410.00 "
-US,Indiana,2020-11," 7,676,680.00 "
-US,Indiana,2020-12," 13,534,082.00 "
-US,Indiana,2021-01," 17,994,078.00 "
-US,Indiana,2021-02," 18,130,589.00 "
-US,Indiana,2021-03," 20,894,718.00 "
-US,Indiana,2021-04," 21,118,723.00 "
-US,Indiana,2021-05," 22,765,707.00 "
-US,Indiana,2021-06," 22,490,878.00 "
-US,Indiana,2021-07," 23,586,671.00 "
-US,Indiana,2021-08," 25,027,364.00 "
-US,Indiana,2021-09," 27,541,540.00 "
-US,Indiana,2021-10," 30,949,675.00 "
-US,Indiana,2021-11," 31,775,131.00 "
-US,Indiana,2021-12," 36,369,772.00 "
-US,Indiana,2022-01," 44,722,684.00 "
-US,Indiana,2022-02," 46,605,945.00 "
-US,Indiana,2022-03," 52,311,271.00 "
-US,Indiana,2022-04," 42,345,607.00 "
-US,Iowa,2020-01, -   
-US,Iowa,2020-02, -   
-US,Iowa,2020-03," 2,766.00 "
-US,Iowa,2020-04," 83,617.00 "
-US,Iowa,2020-05," 439,993.00 "
-US,Iowa,2020-06," 729,137.00 "
-US,Iowa,2020-07," 1,151,285.00 "
-US,Iowa,2020-08," 1,650,679.00 "
-US,Iowa,2020-09," 2,312,022.00 "
-US,Iowa,2020-10," 3,288,522.00 "
-US,Iowa,2020-11," 5,540,180.00 "
-US,Iowa,2020-12," 8,062,632.00 "
-US,Iowa,2021-01," 9,401,451.00 "
-US,Iowa,2021-02," 9,217,101.00 "
-US,Iowa,2021-03," 10,664,587.00 "
-US,Iowa,2021-04," 10,763,784.00 "
-US,Iowa,2021-05," 11,439,930.00 "
-US,Iowa,2021-06," 11,182,194.00 "
-US,Iowa,2021-07," 11,646,630.00 "
-US,Iowa,2021-08," 12,112,022.00 "
-US,Iowa,2021-09," 12,854,738.00 "
-US,Iowa,2021-10," 14,551,926.00 "
-US,Iowa,2021-11," 15,178,589.00 "
-US,Iowa,2021-12," 17,120,655.00 "
-US,Iowa,2022-01," 20,012,662.00 "
-US,Iowa,2022-02," 20,685,829.00 "
-US,Iowa,2022-03," 23,464,340.00 "
-US,Iowa,2022-04," 19,007,257.00 "
-US,Kansas,2020-01, -   
-US,Kansas,2020-02, -   
-US,Kansas,2020-03," 2,384.00 "
-US,Kansas,2020-04," 56,193.00 "
-US,Kansas,2020-05," 238,563.00 "
-US,Kansas,2020-06," 349,925.00 "
-US,Kansas,2020-07," 648,405.00 "
-US,Kansas,2020-08," 1,067,824.00 "
-US,Kansas,2020-09," 1,545,724.00 "
-US,Kansas,2020-10," 2,265,517.00 "
-US,Kansas,2020-11," 3,692,504.00 "
-US,Kansas,2020-12," 6,044,140.00 "
-US,Kansas,2021-01," 7,938,965.00 "
-US,Kansas,2021-02," 8,091,318.00 "
-US,Kansas,2021-03," 9,315,474.00 "
-US,Kansas,2021-04," 9,211,785.00 "
-US,Kansas,2021-05," 9,712,554.00 "
-US,Kansas,2021-06," 9,516,769.00 "
-US,Kansas,2021-07," 10,060,765.00 "
-US,Kansas,2021-08," 10,880,899.00 "
-US,Kansas,2021-09," 11,791,359.00 "
-US,Kansas,2021-10," 13,141,453.00 "
-US,Kansas,2021-11," 13,537,528.00 "
-US,Kansas,2021-12," 15,337,147.00 "
-US,Kansas,2022-01," 19,417,504.00 "
-US,Kansas,2022-02," 21,135,681.00 "
-US,Kansas,2022-03," 23,853,555.00 "
-US,Kansas,2022-04," 19,303,682.00 "
-US,Kentucky,2020-01, -   
-US,Kentucky,2020-02, -   
-US,Kentucky,2020-03," 3,412.00 "
-US,Kentucky,2020-04," 73,553.00 "
-US,Kentucky,2020-05," 230,298.00 "
-US,Kentucky,2020-06," 384,473.00 "
-US,Kentucky,2020-07," 678,552.00 "
-US,Kentucky,2020-08," 1,218,174.00 "
-US,Kentucky,2020-09," 1,760,913.00 "
-US,Kentucky,2020-10," 2,676,418.00 "
-US,Kentucky,2020-11," 4,224,498.00 "
-US,Kentucky,2020-12," 7,088,258.00 "
-US,Kentucky,2021-01," 9,924,537.00 "
-US,Kentucky,2021-02," 10,853,882.00 "
-US,Kentucky,2021-03," 12,928,476.00 "
-US,Kentucky,2021-04," 13,072,661.00 "
-US,Kentucky,2021-05," 14,021,186.00 "
-US,Kentucky,2021-06," 13,875,337.00 "
-US,Kentucky,2021-07," 14,608,150.00 "
-US,Kentucky,2021-08," 16,254,287.00 "
-US,Kentucky,2021-09," 19,206,045.00 "
-US,Kentucky,2021-10," 22,410,099.00 "
-US,Kentucky,2021-11," 22,951,798.00 "
-US,Kentucky,2021-12," 25,498,550.00 "
-US,Kentucky,2022-01," 30,973,077.00 "
-US,Kentucky,2022-02," 34,613,130.00 "
-US,Kentucky,2022-03," 40,179,026.00 "
-US,Kentucky,2022-04," 33,011,062.00 "
-US,Louisiana,2020-01, -   
-US,Louisiana,2020-02, -   
-US,Louisiana,2020-03," 28,834.00 "
-US,Louisiana,2020-04," 625,159.00 "
-US,Louisiana,2020-05," 1,058,228.00 "
-US,Louisiana,2020-06," 1,432,634.00 "
-US,Louisiana,2020-07," 2,693,146.00 "
-US,Louisiana,2020-08," 4,225,383.00 "
-US,Louisiana,2020-09," 4,777,864.00 "
-US,Louisiana,2020-10," 5,504,935.00 "
-US,Louisiana,2020-11," 6,222,999.00 "
-US,Louisiana,2020-12," 8,533,266.00 "
-US,Louisiana,2021-01," 11,214,867.00 "
-US,Louisiana,2021-02," 11,714,047.00 "
-US,Louisiana,2021-03," 13,580,984.00 "
-US,Louisiana,2021-04," 13,546,142.00 "
-US,Louisiana,2021-05," 14,424,607.00 "
-US,Louisiana,2021-06," 14,293,906.00 "
-US,Louisiana,2021-07," 15,543,705.00 "
-US,Louisiana,2021-08," 19,308,469.00 "
-US,Louisiana,2021-09," 21,566,484.00 "
-US,Louisiana,2021-10," 23,291,438.00 "
-US,Louisiana,2021-11," 22,963,406.00 "
-US,Louisiana,2021-12," 24,343,699.00 "
-US,Louisiana,2022-01," 30,732,569.00 "
-US,Louisiana,2022-02," 32,168,752.00 "
-US,Louisiana,2022-03," 36,160,826.00 "
-US,Louisiana,2022-04," 29,251,850.00 "
-US,Maine,2020-01, -   
-US,Maine,2020-02, -   
-US,Maine,2020-03," 2,086.00 "
-US,Maine,2020-04," 22,293.00 "
-US,Maine,2020-05," 52,159.00 "
-US,Maine,2020-06," 84,059.00 "
-US,Maine,2020-07," 112,032.00 "
-US,Maine,2020-08," 129,951.00 "
-US,Maine,2020-09," 148,340.00 "
-US,Maine,2020-10," 183,325.00 "
-US,Maine,2020-11," 274,047.00 "
-US,Maine,2020-12," 542,939.00 "
-US,Maine,2021-01," 1,009,208.00 "
-US,Maine,2021-02," 1,187,867.00 "
-US,Maine,2021-03," 1,472,340.00 "
-US,Maine,2021-04," 1,682,201.00 "
-US,Maine,2021-05," 2,025,473.00 "
-US,Maine,2021-06," 2,057,596.00 "
-US,Maine,2021-07," 2,155,577.00 "
-US,Maine,2021-08," 2,257,805.00 "
-US,Maine,2021-09," 2,474,529.00 "
-US,Maine,2021-10," 3,022,039.00 "
-US,Maine,2021-11," 3,373,596.00 "
-US,Maine,2021-12," 4,137,044.00 "
-US,Maine,2022-01," 4,973,626.00 "
-US,Maine,2022-02," 5,593,312.00 "
-US,Maine,2022-03," 7,212,520.00 "
-US,Maine,2022-04," 5,972,304.00 "
-US,Maryland,2020-01, -   
-US,Maryland,2020-02, -   
-US,Maryland,2020-03," 8,723.00 "
-US,Maryland,2020-04," 326,346.00 "
-US,Maryland,2020-05," 1,183,128.00 "
-US,Maryland,2020-06," 1,848,484.00 "
-US,Maryland,2020-07," 2,374,558.00 "
-US,Maryland,2020-08," 3,086,997.00 "
-US,Maryland,2020-09," 3,518,380.00 "
-US,Maryland,2020-10," 4,172,581.00 "
-US,Maryland,2020-11," 5,073,482.00 "
-US,Maryland,2020-12," 7,449,058.00 "
-US,Maryland,2021-01," 9,934,465.00 "
-US,Maryland,2021-02," 10,364,019.00 "
-US,Maryland,2021-03," 12,265,756.00 "
-US,Maryland,2021-04," 12,945,885.00 "
-US,Maryland,2021-05," 14,113,843.00 "
-US,Maryland,2021-06," 13,839,592.00 "
-US,Maryland,2021-07," 14,395,070.00 "
-US,Maryland,2021-08," 14,928,232.00 "
-US,Maryland,2021-09," 15,449,608.00 "
-US,Maryland,2021-10," 17,009,803.00 "
-US,Maryland,2021-11," 17,192,901.00 "
-US,Maryland,2021-12," 19,406,305.00 "
-US,Maryland,2022-01," 27,667,921.00 "
-US,Maryland,2022-02," 27,804,948.00 "
-US,Maryland,2022-03," 31,230,250.00 "
-US,Maryland,2022-04," 25,458,730.00 "
-US,Massachusetts,2020-01, 3.00 
-US,Massachusetts,2020-02, 53.00 
-US,Massachusetts,2020-03," 66,502.00 "
-US,Massachusetts,2020-04," 1,126,995.00 "
-US,Massachusetts,2020-05," 2,661,548.00 "
-US,Massachusetts,2020-06," 3,047,913.00 "
-US,Massachusetts,2020-07," 3,342,964.00 "
-US,Massachusetts,2020-08," 3,608,342.00 "
-US,Massachusetts,2020-09," 3,778,922.00 "
-US,Massachusetts,2020-10," 4,449,113.00 "
-US,Massachusetts,2020-11," 5,713,002.00 "
-US,Massachusetts,2020-12," 9,388,617.00 "
-US,Massachusetts,2021-01," 14,211,219.00 "
-US,Massachusetts,2021-02," 15,581,812.00 "
-US,Massachusetts,2021-03," 18,804,214.00 "
-US,Massachusetts,2021-04," 19,984,577.00 "
-US,Massachusetts,2021-05," 21,720,180.00 "
-US,Massachusetts,2021-06," 21,266,782.00 "
-US,Massachusetts,2021-07," 22,108,435.00 "
-US,Massachusetts,2021-08," 22,889,238.00 "
-US,Massachusetts,2021-09," 23,591,151.00 "
-US,Massachusetts,2021-10," 25,831,963.00 "
-US,Massachusetts,2021-11," 26,481,620.00 "
-US,Massachusetts,2021-12," 31,160,689.00 "
-US,Massachusetts,2022-01," 44,009,138.00 "
-US,Massachusetts,2022-02," 46,212,034.00 "
-US,Massachusetts,2022-03," 52,217,745.00 "
-US,Massachusetts,2022-04," 42,979,782.00 "
-US,Michigan,2020-01, -   
-US,Michigan,2020-02, -   
-US,Michigan,2020-03," 41,117.00 "
-US,Michigan,2020-04," 852,025.00 "
-US,Michigan,2020-05," 1,676,993.00 "
-US,Michigan,2020-06," 1,998,577.00 "
-US,Michigan,2020-07," 2,479,119.00 "
-US,Michigan,2020-08," 3,160,703.00 "
-US,Michigan,2020-09," 3,762,272.00 "
-US,Michigan,2020-10," 5,003,610.00 "
-US,Michigan,2020-11," 8,622,873.00 "
-US,Michigan,2020-12," 14,725,689.00 "
-US,Michigan,2021-01," 17,902,298.00 "
-US,Michigan,2021-02," 17,638,914.00 "
-US,Michigan,2021-03," 21,206,155.00 "
-US,Michigan,2021-04," 25,604,460.00 "
-US,Michigan,2021-05," 30,177,928.00 "
-US,Michigan,2021-06," 29,915,912.00 "
-US,Michigan,2021-07," 31,119,466.00 "
-US,Michigan,2021-08," 32,033,282.00 "
-US,Michigan,2021-09," 33,112,910.00 "
-US,Michigan,2021-10," 37,760,068.00 "
-US,Michigan,2021-11," 41,215,064.00 "
-US,Michigan,2021-12," 49,614,545.00 "
-US,Michigan,2022-01," 62,015,091.00 "
-US,Michigan,2022-02," 65,118,284.00 "
-US,Michigan,2022-03," 73,631,295.00 "
-US,Michigan,2022-04," 59,976,099.00 "
-US,Minnesota,2020-01, -   
-US,Minnesota,2020-02, -   
-US,Minnesota,2020-03," 4,439.00 "
-US,Minnesota,2020-04," 65,127.00 "
-US,Minnesota,2020-05," 469,276.00 "
-US,Minnesota,2020-06," 924,504.00 "
-US,Minnesota,2020-07," 1,387,465.00 "
-US,Minnesota,2020-08," 2,018,898.00 "
-US,Minnesota,2020-09," 2,607,218.00 "
-US,Minnesota,2020-10," 3,739,159.00 "
-US,Minnesota,2020-11," 6,849,584.00 "
-US,Minnesota,2020-12," 11,792,353.00 "
-US,Minnesota,2021-01," 13,723,942.00 "
-US,Minnesota,2021-02," 13,261,675.00 "
-US,Minnesota,2021-03," 15,509,201.00 "
-US,Minnesota,2021-04," 16,494,761.00 "
-US,Minnesota,2021-05," 18,369,072.00 "
-US,Minnesota,2021-06," 18,114,709.00 "
-US,Minnesota,2021-07," 18,846,690.00 "
-US,Minnesota,2021-08," 19,491,238.00 "
-US,Minnesota,2021-09," 20,332,101.00 "
-US,Minnesota,2021-10," 23,357,624.00 "
-US,Minnesota,2021-11," 25,595,463.00 "
-US,Minnesota,2021-12," 30,103,254.00 "
-US,Minnesota,2022-01," 35,908,989.00 "
-US,Minnesota,2022-02," 38,881,238.00 "
-US,Minnesota,2022-03," 44,116,611.00 "
-US,Minnesota,2022-04," 35,910,622.00 "
-US,Mississippi,2020-01, -   
-US,Mississippi,2020-02, -   
-US,Mississippi,2020-03," 5,779.00 "
-US,Mississippi,2020-04," 109,721.00 "
-US,Mississippi,2020-05," 344,106.00 "
-US,Mississippi,2020-06," 613,191.00 "
-US,Mississippi,2020-07," 1,278,358.00 "
-US,Mississippi,2020-08," 2,235,453.00 "
-US,Mississippi,2020-09," 2,734,173.00 "
-US,Mississippi,2020-10," 3,374,433.00 "
-US,Mississippi,2020-11," 4,059,206.00 "
-US,Mississippi,2020-12," 5,744,183.00 "
-US,Mississippi,2021-01," 7,705,630.00 "
-US,Mississippi,2021-02," 8,019,031.00 "
-US,Mississippi,2021-03," 9,323,406.00 "
-US,Mississippi,2021-04," 9,256,975.00 "
-US,Mississippi,2021-05," 9,763,821.00 "
-US,Mississippi,2021-06," 9,586,090.00 "
-US,Mississippi,2021-07," 10,199,462.00 "
-US,Mississippi,2021-08," 12,077,301.00 "
-US,Mississippi,2021-09," 14,024,295.00 "
-US,Mississippi,2021-10," 15,426,521.00 "
-US,Mississippi,2021-11," 15,283,585.00 "
-US,Mississippi,2021-12," 16,223,948.00 "
-US,Mississippi,2022-01," 19,834,962.00 "
-US,Mississippi,2022-02," 21,680,609.00 "
-US,Mississippi,2022-03," 24,578,964.00 "
-US,Mississippi,2022-04," 19,900,197.00 "
-US,Missouri,2020-01, -   
-US,Missouri,2020-02, -   
-US,Missouri,2020-03," 8,243.00 "
-US,Missouri,2020-04," 154,841.00 "
-US,Missouri,2020-05," 342,753.00 "
-US,Missouri,2020-06," 519,169.00 "
-US,Missouri,2020-07," 1,044,352.00 "
-US,Missouri,2020-08," 2,140,723.00 "
-US,Missouri,2020-09," 3,301,946.00 "
-US,Missouri,2020-10," 4,965,230.00 "
-US,Missouri,2020-11," 7,744,876.00 "
-US,Missouri,2020-12," 11,977,072.00 "
-US,Missouri,2021-01," 15,338,937.00 "
-US,Missouri,2021-02," 15,429,718.00 "
-US,Missouri,2021-03," 17,745,838.00 "
-US,Missouri,2021-04," 17,616,248.00 "
-US,Missouri,2021-05," 18,600,385.00 "
-US,Missouri,2021-06," 18,452,761.00 "
-US,Missouri,2021-07," 20,197,309.00 "
-US,Missouri,2021-08," 22,581,014.00 "
-US,Missouri,2021-09," 23,942,668.00 "
-US,Missouri,2021-10," 26,192,737.00 "
-US,Missouri,2021-11," 26,512,296.00 "
-US,Missouri,2021-12," 29,738,039.00 "
-US,Missouri,2022-01," 36,742,046.00 "
-US,Missouri,2022-02," 38,664,103.00 "
-US,Missouri,2022-03," 43,698,902.00 "
-US,Missouri,2022-04," 35,457,362.00 "
-US,Montana,2020-01, -   
-US,Montana,2020-02, -   
-US,Montana,2020-03," 1,129.00 "
-US,Montana,2020-04," 11,461.00 "
-US,Montana,2020-05," 14,580.00 "
-US,Montana,2020-06," 19,785.00 "
-US,Montana,2020-07," 70,538.00 "
-US,Montana,2020-08," 176,785.00 "
-US,Montana,2020-09," 292,908.00 "
-US,Montana,2020-10," 682,761.00 "
-US,Montana,2020-11," 1,436,108.00 "
-US,Montana,2020-12," 2,292,221.00 "
-US,Montana,2021-01," 2,740,156.00 "
-US,Montana,2021-02," 2,725,683.00 "
-US,Montana,2021-03," 3,170,488.00 "
-US,Montana,2021-04," 3,203,334.00 "
-US,Montana,2021-05," 3,427,644.00 "
-US,Montana,2021-06," 3,387,680.00 "
-US,Montana,2021-07," 3,557,473.00 "
-US,Montana,2021-08," 3,751,598.00 "
-US,Montana,2021-09," 4,144,778.00 "
-US,Montana,2021-10," 5,097,734.00 "
-US,Montana,2021-11," 5,557,073.00 "
-US,Montana,2021-12," 6,028,258.00 "
-US,Montana,2022-01," 6,686,787.00 "
-US,Montana,2022-02," 7,208,628.00 "
-US,Montana,2022-03," 8,418,183.00 "
-US,Montana,2022-04," 6,826,068.00 "
-US,Nebraska,2020-01, -   
-US,Nebraska,2020-02, -   
-US,Nebraska,2020-03," 1,158.00 "
-US,Nebraska,2020-04," 43,377.00 "
-US,Nebraska,2020-05," 304,274.00 "
-US,Nebraska,2020-06," 508,283.00 "
-US,Nebraska,2020-07," 691,057.00 "
-US,Nebraska,2020-08," 939,365.00 "
-US,Nebraska,2020-09," 1,186,691.00 "
-US,Nebraska,2020-10," 1,761,850.00 "
-US,Nebraska,2020-11," 3,001,791.00 "
-US,Nebraska,2020-12," 4,679,901.00 "
-US,Nebraska,2021-01," 5,594,996.00 "
-US,Nebraska,2021-02," 5,501,718.00 "
-US,Nebraska,2021-03," 6,358,430.00 "
-US,Nebraska,2021-04," 6,465,927.00 "
-US,Nebraska,2021-05," 6,886,335.00 "
-US,Nebraska,2021-06," 6,717,215.00 "
-US,Nebraska,2021-07," 7,005,331.00 "
-US,Nebraska,2021-08," 7,286,241.00 "
-US,Nebraska,2021-09," 7,668,120.00 "
-US,Nebraska,2021-10," 8,539,775.00 "
-US,Nebraska,2021-11," 8,928,662.00 "
-US,Nebraska,2021-12," 10,070,951.00 "
-US,Nebraska,2022-01," 12,070,952.00 "
-US,Nebraska,2022-02," 12,628,303.00 "
-US,Nebraska,2022-03," 14,784,841.00 "
-US,Nebraska,2022-04," 11,959,349.00 "
-US,Nevada,2020-01, -   
-US,Nevada,2020-02, -   
-US,Nevada,2020-03," 6,328.00 "
-US,Nevada,2020-04," 97,567.00 "
-US,Nevada,2020-05," 212,955.00 "
-US,Nevada,2020-06," 365,159.00 "
-US,Nevada,2020-07," 1,011,773.00 "
-US,Nevada,2020-08," 1,875,155.00 "
-US,Nevada,2020-09," 2,234,546.00 "
-US,Nevada,2020-10," 2,771,863.00 "
-US,Nevada,2020-11," 3,704,416.00 "
-US,Nevada,2020-12," 5,963,163.00 "
-US,Nevada,2021-01," 7,958,301.00 "
-US,Nevada,2021-02," 8,053,078.00 "
-US,Nevada,2021-03," 9,279,201.00 "
-US,Nevada,2021-04," 9,288,644.00 "
-US,Nevada,2021-05," 9,932,591.00 "
-US,Nevada,2021-06," 9,850,974.00 "
-US,Nevada,2021-07," 10,649,854.00 "
-US,Nevada,2021-08," 11,587,313.00 "
-US,Nevada,2021-09," 12,208,450.00 "
-US,Nevada,2021-10," 13,354,257.00 "
-US,Nevada,2021-11," 13,480,159.00 "
-US,Nevada,2021-12," 14,534,546.00 "
-US,Nevada,2022-01," 17,628,849.00 "
-US,Nevada,2022-02," 18,858,302.00 "
-US,Nevada,2022-03," 21,580,118.00 "
-US,Nevada,2022-04," 17,715,660.00 "
-US,New Hampshire,2020-01, -   
-US,New Hampshire,2020-02, -   
-US,New Hampshire,2020-03," 2,040.00 "
-US,New Hampshire,2020-04," 36,047.00 "
-US,New Hampshire,2020-05," 108,945.00 "
-US,New Hampshire,2020-06," 159,718.00 "
-US,New Hampshire,2020-07," 190,988.00 "
-US,New Hampshire,2020-08," 215,951.00 "
-US,New Hampshire,2020-09," 233,029.00 "
-US,New Hampshire,2020-10," 296,776.00 "
-US,New Hampshire,2020-11," 456,915.00 "
-US,New Hampshire,2020-12," 1,045,149.00 "
-US,New Hampshire,2021-01," 1,761,160.00 "
-US,New Hampshire,2021-02," 1,990,285.00 "
-US,New Hampshire,2021-03," 2,460,709.00 "
-US,New Hampshire,2021-04," 2,707,987.00 "
-US,New Hampshire,2021-05," 3,019,160.00 "
-US,New Hampshire,2021-06," 2,974,742.00 "
-US,New Hampshire,2021-07," 3,098,482.00 "
-US,New Hampshire,2021-08," 3,215,480.00 "
-US,New Hampshire,2021-09," 3,403,061.00 "
-US,New Hampshire,2021-10," 3,958,050.00 "
-US,New Hampshire,2021-11," 4,424,101.00 "
-US,New Hampshire,2021-12," 5,603,159.00 "
-US,New Hampshire,2022-01," 7,419,417.00 "
-US,New Hampshire,2022-02," 8,101,597.00 "
-US,New Hampshire,2022-03," 9,319,350.00 "
-US,New Hampshire,2022-04," 7,621,484.00 "
-US,New Jersey,2020-01, -   
-US,New Jersey,2020-02, -   
-US,New Jersey,2020-03," 92,434.00 "
-US,New Jersey,2020-04," 2,186,712.00 "
-US,New Jersey,2020-05," 4,477,514.00 "
-US,New Jersey,2020-06," 5,028,481.00 "
-US,New Jersey,2020-07," 5,518,455.00 "
-US,New Jersey,2020-08," 5,893,152.00 "
-US,New Jersey,2020-09," 6,072,160.00 "
-US,New Jersey,2020-10," 7,045,542.00 "
-US,New Jersey,2020-11," 9,136,804.00 "
-US,New Jersey,2020-12," 14,082,856.00 "
-US,New Jersey,2021-01," 19,147,564.00 "
-US,New Jersey,2021-02," 20,883,256.00 "
-US,New Jersey,2021-03," 26,272,466.00 "
-US,New Jersey,2021-04," 28,947,207.00 "
-US,New Jersey,2021-05," 31,314,056.00 "
-US,New Jersey,2021-06," 30,602,614.00 "
-US,New Jersey,2021-07," 31,904,594.00 "
-US,New Jersey,2021-08," 32,979,088.00 "
-US,New Jersey,2021-09," 33,745,664.00 "
-US,New Jersey,2021-10," 36,544,256.00 "
-US,New Jersey,2021-11," 36,687,262.00 "
-US,New Jersey,2021-12," 41,897,297.00 "
-US,New Jersey,2022-01," 60,002,200.00 "
-US,New Jersey,2022-02," 60,086,912.00 "
-US,New Jersey,2022-03," 67,714,719.00 "
-US,New Jersey,2022-04," 55,553,625.00 "
-US,New Mexico,2020-01, -   
-US,New Mexico,2020-02, -   
-US,New Mexico,2020-03," 1,847.00 "
-US,New Mexico,2020-04," 48,579.00 "
-US,New Mexico,2020-05," 177,805.00 "
-US,New Mexico,2020-06," 298,313.00 "
-US,New Mexico,2020-07," 504,135.00 "
-US,New Mexico,2020-08," 722,003.00 "
-US,New Mexico,2020-09," 815,678.00 "
-US,New Mexico,2020-10," 1,131,556.00 "
-US,New Mexico,2020-11," 2,072,560.00 "
-US,New Mexico,2020-12," 3,811,793.00 "
-US,New Mexico,2021-01," 4,991,706.00 "
-US,New Mexico,2021-02," 5,048,983.00 "
-US,New Mexico,2021-03," 5,848,479.00 "
-US,New Mexico,2021-04," 5,839,615.00 "
-US,New Mexico,2021-05," 6,223,253.00 "
-US,New Mexico,2021-06," 6,131,934.00 "
-US,New Mexico,2021-07," 6,429,934.00 "
-US,New Mexico,2021-08," 6,841,617.00 "
-US,New Mexico,2021-09," 7,291,633.00 "
-US,New Mexico,2021-10," 8,190,380.00 "
-US,New Mexico,2021-11," 8,869,139.00 "
-US,New Mexico,2021-12," 10,366,621.00 "
-US,New Mexico,2022-01," 12,705,075.00 "
-US,New Mexico,2022-02," 14,035,110.00 "
-US,New Mexico,2022-03," 15,981,527.00 "
-US,New Mexico,2022-04," 12,989,117.00 "
-US,New York,2020-01, -   
-US,New York,2020-02, -   
-US,New York,2020-03," 459,033.00 "
-US,New York,2020-04," 6,497,427.00 "
-US,New York,2020-05," 10,799,300.00 "
-US,New York,2020-06," 11,589,235.00 "
-US,New York,2020-07," 12,634,363.00 "
-US,New York,2020-08," 13,263,222.00 "
-US,New York,2020-09," 13,469,324.00 "
-US,New York,2020-10," 15,050,023.00 "
-US,New York,2020-11," 17,200,583.00 "
-US,New York,2020-12," 25,311,941.00 "
-US,New York,2021-01," 37,738,018.00 "
-US,New York,2021-02," 43,092,026.00 "
-US,New York,2021-03," 54,448,749.00 "
-US,New York,2021-04," 59,305,995.00 "
-US,New York,2021-05," 64,552,427.00 "
-US,New York,2021-06," 63,291,737.00 "
-US,New York,2021-07," 65,943,806.00 "
-US,New York,2021-08," 68,551,270.00 "
-US,New York,2021-09," 70,629,706.00 "
-US,New York,2021-10," 77,480,492.00 "
-US,New York,2021-11," 79,218,389.00 "
-US,New York,2021-12," 92,035,228.00 "
-US,New York,2022-01," 135,406,169.00 "
-US,New York,2022-02," 136,744,368.00 "
-US,New York,2022-03," 153,656,382.00 "
-US,New York,2022-04," 126,455,218.00 "
-US,North Carolina,2020-01, -   
-US,North Carolina,2020-02, -   
-US,North Carolina,2020-03," 10,039.00 "
-US,North Carolina,2020-04," 179,801.00 "
-US,North Carolina,2020-05," 595,911.00 "
-US,North Carolina,2020-06," 1,424,785.00 "
-US,North Carolina,2020-07," 2,990,075.00 "
-US,North Carolina,2020-08," 4,641,104.00 "
-US,North Carolina,2020-09," 5,804,386.00 "
-US,North Carolina,2020-10," 7,494,798.00 "
-US,North Carolina,2020-11," 9,488,482.00 "
-US,North Carolina,2020-12," 14,021,544.00 "
-US,North Carolina,2021-01," 20,448,423.00 "
-US,North Carolina,2021-02," 22,931,295.00 "
-US,North Carolina,2021-03," 27,522,903.00 "
-US,North Carolina,2021-04," 28,240,343.00 "
-US,North Carolina,2021-05," 30,658,999.00 "
-US,North Carolina,2021-06," 30,264,952.00 "
-US,North Carolina,2021-07," 31,788,536.00 "
-US,North Carolina,2021-08," 34,825,232.00 "
-US,North Carolina,2021-09," 39,359,183.00 "
-US,North Carolina,2021-10," 44,771,868.00 "
-US,North Carolina,2021-11," 45,209,336.00 "
-US,North Carolina,2021-12," 49,214,308.00 "
-US,North Carolina,2022-01," 63,502,974.00 "
-US,North Carolina,2022-02," 70,841,626.00 "
-US,North Carolina,2022-03," 80,987,095.00 "
-US,North Carolina,2022-04," 65,955,842.00 "
-US,North Dakota,2020-01, -   
-US,North Dakota,2020-02, -   
-US,North Dakota,2020-03, 768.00 
-US,North Dakota,2020-04," 15,777.00 "
-US,North Dakota,2020-05," 58,863.00 "
-US,North Dakota,2020-06," 94,172.00 "
-US,North Dakota,2020-07," 152,349.00 "
-US,North Dakota,2020-08," 277,850.00 "
-US,North Dakota,2020-09," 505,378.00 "
-US,North Dakota,2020-10," 990,962.00 "
-US,North Dakota,2020-11," 1,960,548.00 "
-US,North Dakota,2020-12," 2,727,698.00 "
-US,North Dakota,2021-01," 2,945,978.00 "
-US,North Dakota,2021-02," 2,758,854.00 "
-US,North Dakota,2021-03," 3,136,864.00 "
-US,North Dakota,2021-04," 3,160,235.00 "
-US,North Dakota,2021-05," 3,375,114.00 "
-US,North Dakota,2021-06," 3,307,693.00 "
-US,North Dakota,2021-07," 3,436,743.00 "
-US,North Dakota,2021-08," 3,531,537.00 "
-US,North Dakota,2021-09," 3,740,540.00 "
-US,North Dakota,2021-10," 4,375,111.00 "
-US,North Dakota,2021-11," 4,682,862.00 "
-US,North Dakota,2021-12," 5,226,477.00 "
-US,North Dakota,2022-01," 6,169,641.00 "
-US,North Dakota,2022-02," 6,569,980.00 "
-US,North Dakota,2022-03," 7,417,508.00 "
-US,North Dakota,2022-04," 6,008,230.00 "
-US,Northern Mariana Islands,2020-01, -   
-US,Northern Mariana Islands,2020-02, -   
-US,Northern Mariana Islands,2020-03, 4.00 
-US,Northern Mariana Islands,2020-04, 343.00 
-US,Northern Mariana Islands,2020-05, 581.00 
-US,Northern Mariana Islands,2020-06, 854.00 
-US,Northern Mariana Islands,2020-07," 1,088.00 "
-US,Northern Mariana Islands,2020-08," 1,565.00 "
-US,Northern Mariana Islands,2020-09," 1,883.00 "
-US,Northern Mariana Islands,2020-10," 2,528.00 "
-US,Northern Mariana Islands,2020-11," 3,029.00 "
-US,Northern Mariana Islands,2020-12," 3,544.00 "
-US,Northern Mariana Islands,2021-01," 3,963.00 "
-US,Northern Mariana Islands,2021-02," 3,816.00 "
-US,Northern Mariana Islands,2021-03," 4,713.00 "
-US,Northern Mariana Islands,2021-04," 4,841.00 "
-US,Northern Mariana Islands,2021-05," 5,398.00 "
-US,Northern Mariana Islands,2021-06," 5,490.00 "
-US,Northern Mariana Islands,2021-07," 5,782.00 "
-US,Northern Mariana Islands,2021-08," 6,705.00 "
-US,Northern Mariana Islands,2021-09," 7,686.00 "
-US,Northern Mariana Islands,2021-10," 8,824.00 "
-US,Northern Mariana Islands,2021-11," 14,134.00 "
-US,Northern Mariana Islands,2021-12," 64,872.00 "
-US,Northern Mariana Islands,2022-01," 123,276.00 "
-US,Northern Mariana Islands,2022-02," 212,782.00 "
-US,Northern Mariana Islands,2022-03," 326,934.00 "
-US,Northern Mariana Islands,2022-04," 279,796.00 "
-US,Ohio,2020-01, -   
-US,Ohio,2020-02, -   
-US,Ohio,2020-03," 12,091.00 "
-US,Ohio,2020-04," 287,175.00 "
-US,Ohio,2020-05," 847,463.00 "
-US,Ohio,2020-06," 1,279,995.00 "
-US,Ohio,2020-07," 2,204,114.00 "
-US,Ohio,2020-08," 3,343,490.00 "
-US,Ohio,2020-09," 4,190,394.00 "
-US,Ohio,2020-10," 5,591,170.00 "
-US,Ohio,2020-11," 9,233,749.00 "
-US,Ohio,2020-12," 17,895,406.00 "
-US,Ohio,2021-01," 25,171,154.00 "
-US,Ohio,2021-02," 26,258,115.00 "
-US,Ohio,2021-03," 30,773,162.00 "
-US,Ohio,2021-04," 31,421,750.00 "
-US,Ohio,2021-05," 33,790,138.00 "
-US,Ohio,2021-06," 33,224,014.00 "
-US,Ohio,2021-07," 34,648,858.00 "
-US,Ohio,2021-08," 36,173,600.00 "
-US,Ohio,2021-09," 39,659,430.00 "
-US,Ohio,2021-10," 46,154,452.00 "
-US,Ohio,2021-11," 48,455,621.00 "
-US,Ohio,2021-12," 56,765,035.00 "
-US,Ohio,2022-01," 72,614,393.00 "
-US,Ohio,2022-02," 73,656,604.00 "
-US,Ohio,2022-03," 82,594,836.00 "
-US,Ohio,2022-04," 66,984,903.00 "
-US,Oklahoma,2020-01, -   
-US,Oklahoma,2020-02, -   
-US,Oklahoma,2020-03," 3,054.00 "
-US,Oklahoma,2020-04," 67,773.00 "
-US,Oklahoma,2020-05," 160,426.00 "
-US,Oklahoma,2020-06," 277,700.00 "
-US,Oklahoma,2020-07," 738,401.00 "
-US,Oklahoma,2020-08," 1,492,788.00 "
-US,Oklahoma,2020-09," 2,178,611.00 "
-US,Oklahoma,2020-10," 3,263,613.00 "
-US,Oklahoma,2020-11," 4,705,959.00 "
-US,Oklahoma,2020-12," 7,621,868.00 "
-US,Oklahoma,2021-01," 10,758,501.00 "
-US,Oklahoma,2021-02," 11,541,313.00 "
-US,Oklahoma,2021-03," 13,446,327.00 "
-US,Oklahoma,2021-04," 13,328,936.00 "
-US,Oklahoma,2021-05," 13,978,779.00 "
-US,Oklahoma,2021-06," 13,655,732.00 "
-US,Oklahoma,2021-07," 14,451,549.00 "
-US,Oklahoma,2021-08," 15,967,301.00 "
-US,Oklahoma,2021-09," 17,589,509.00 "
-US,Oklahoma,2021-10," 19,570,517.00 "
-US,Oklahoma,2021-11," 19,658,755.00 "
-US,Oklahoma,2021-12," 21,247,195.00 "
-US,Oklahoma,2022-01," 25,678,891.00 "
-US,Oklahoma,2022-02," 28,180,546.00 "
-US,Oklahoma,2022-03," 31,862,184.00 "
-US,Oklahoma,2022-04," 25,914,251.00 "
-US,Oregon,2020-01, -   
-US,Oregon,2020-02, 1.00 
-US,Oregon,2020-03," 4,611.00 "
-US,Oregon,2020-04," 50,088.00 "
-US,Oregon,2020-05," 108,477.00 "
-US,Oregon,2020-06," 183,433.00 "
-US,Oregon,2020-07," 420,150.00 "
-US,Oregon,2020-08," 713,297.00 "
-US,Oregon,2020-09," 899,723.00 "
-US,Oregon,2020-10," 1,207,441.00 "
-US,Oregon,2020-11," 1,750,277.00 "
-US,Oregon,2020-12," 2,999,534.00 "
-US,Oregon,2021-01," 4,048,264.00 "
-US,Oregon,2021-02," 4,203,289.00 "
-US,Oregon,2021-03," 4,964,744.00 "
-US,Oregon,2021-04," 5,218,894.00 "
-US,Oregon,2021-05," 6,036,590.00 "
-US,Oregon,2021-06," 6,164,609.00 "
-US,Oregon,2021-07," 6,592,951.00 "
-US,Oregon,2021-08," 7,593,162.00 "
-US,Oregon,2021-09," 9,146,205.00 "
-US,Oregon,2021-10," 10,828,644.00 "
-US,Oregon,2021-11," 11,399,398.00 "
-US,Oregon,2021-12," 12,546,412.00 "
-US,Oregon,2022-01," 16,262,421.00 "
-US,Oregon,2022-02," 18,899,893.00 "
-US,Oregon,2022-03," 21,704,604.00 "
-US,Oregon,2022-04," 17,725,291.00 "
-US,Pennsylvania,2020-01, -   
-US,Pennsylvania,2020-02, -   
-US,Pennsylvania,2020-03," 24,412.00 "
-US,Pennsylvania,2020-04," 821,945.00 "
-US,Pennsylvania,2020-05," 1,985,343.00 "
-US,Pennsylvania,2020-06," 2,494,459.00 "
-US,Pennsylvania,2020-07," 3,190,546.00 "
-US,Pennsylvania,2020-08," 3,970,434.00 "
-US,Pennsylvania,2020-09," 4,540,046.00 "
-US,Pennsylvania,2020-10," 5,754,638.00 "
-US,Pennsylvania,2020-11," 8,438,306.00 "
-US,Pennsylvania,2020-12," 16,151,842.00 "
-US,Pennsylvania,2021-01," 23,614,488.00 "
-US,Pennsylvania,2021-02," 25,224,364.00 "
-US,Pennsylvania,2021-03," 30,479,058.00 "
-US,Pennsylvania,2021-04," 33,107,691.00 "
-US,Pennsylvania,2021-05," 37,066,974.00 "
-US,Pennsylvania,2021-06," 36,664,927.00 "
-US,Pennsylvania,2021-07," 38,155,255.00 "
-US,Pennsylvania,2021-08," 39,393,273.00 "
-US,Pennsylvania,2021-09," 41,298,959.00 "
-US,Pennsylvania,2021-10," 47,060,707.00 "
-US,Pennsylvania,2021-11," 49,686,571.00 "
-US,Pennsylvania,2021-12," 58,014,951.00 "
-US,Pennsylvania,2022-01," 74,713,402.00 "
-US,Pennsylvania,2022-02," 76,272,390.00 "
-US,Pennsylvania,2022-03," 85,909,992.00 "
-US,Pennsylvania,2022-04," 69,843,890.00 "
-US,Puerto Rico,2020-01, -   
-US,Puerto Rico,2020-02, -   
-US,Puerto Rico,2020-03, 982.00 
-US,Puerto Rico,2020-04," 25,584.00 "
-US,Puerto Rico,2020-05," 34,826.00 "
-US,Puerto Rico,2020-06," 44,006.00 "
-US,Puerto Rico,2020-07," 108,204.00 "
-US,Puerto Rico,2020-08," 347,276.00 "
-US,Puerto Rico,2020-09," 568,699.00 "
-US,Puerto Rico,2020-10," 886,241.00 "
-US,Puerto Rico,2020-11," 1,287,852.00 "
-US,Puerto Rico,2020-12," 2,002,842.00 "
-US,Puerto Rico,2021-01," 2,668,197.00 "
-US,Puerto Rico,2021-02," 2,729,910.00 "
-US,Puerto Rico,2021-03," 3,208,243.00 "
-US,Puerto Rico,2021-04," 3,597,224.00 "
-US,Puerto Rico,2021-05," 4,229,476.00 "
-US,Puerto Rico,2021-06," 4,184,516.00 "
-US,Puerto Rico,2021-07," 4,406,539.00 "
-US,Puerto Rico,2021-08," 4,930,054.00 "
-US,Puerto Rico,2021-09," 5,325,556.00 "
-US,Puerto Rico,2021-10," 5,691,556.00 "
-US,Puerto Rico,2021-11," 5,611,579.00 "
-US,Puerto Rico,2021-12," 6,334,307.00 "
-US,Puerto Rico,2022-01," 12,182,843.00 "
-US,Puerto Rico,2022-02," 13,121,545.00 "
-US,Puerto Rico,2022-03," 14,792,815.00 "
-US,Puerto Rico,2022-04," 12,333,091.00 "
-US,Rhode Island,2020-01, -   
-US,Rhode Island,2020-02, -   
-US,Rhode Island,2020-03," 2,566.00 "
-US,Rhode Island,2020-04," 118,406.00 "
-US,Rhode Island,2020-05," 381,262.00 "
-US,Rhode Island,2020-06," 481,310.00 "
-US,Rhode Island,2020-07," 549,884.00 "
-US,Rhode Island,2020-08," 635,058.00 "
-US,Rhode Island,2020-09," 698,781.00 "
-US,Rhode Island,2020-10," 871,329.00 "
-US,Rhode Island,2020-11," 1,314,015.00 "
-US,Rhode Island,2020-12," 2,303,209.00 "
-US,Rhode Island,2021-01," 3,208,106.00 "
-US,Rhode Island,2021-02," 3,394,694.00 "
-US,Rhode Island,2021-03," 4,085,755.00 "
-US,Rhode Island,2021-04," 4,297,329.00 "
-US,Rhode Island,2021-05," 4,662,994.00 "
-US,Rhode Island,2021-06," 4,568,395.00 "
-US,Rhode Island,2021-07," 4,747,455.00 "
-US,Rhode Island,2021-08," 4,909,137.00 "
-US,Rhode Island,2021-09," 5,026,212.00 "
-US,Rhode Island,2021-10," 5,465,112.00 "
-US,Rhode Island,2021-11," 5,543,857.00 "
-US,Rhode Island,2021-12," 6,459,080.00 "
-US,Rhode Island,2022-01," 9,280,109.00 "
-US,Rhode Island,2022-02," 9,855,905.00 "
-US,Rhode Island,2022-03," 11,116,758.00 "
-US,Rhode Island,2022-04," 9,124,726.00 "
-US,South Carolina,2020-01, -   
-US,South Carolina,2020-02, -   
-US,South Carolina,2020-03," 6,262.00 "
-US,South Carolina,2020-04," 112,934.00 "
-US,South Carolina,2020-05," 269,996.00 "
-US,South Carolina,2020-06," 635,285.00 "
-US,South Carolina,2020-07," 1,978,230.00 "
-US,South Carolina,2020-08," 3,278,566.00 "
-US,South Carolina,2020-09," 4,017,202.00 "
-US,South Carolina,2020-10," 5,027,463.00 "
-US,South Carolina,2020-11," 5,897,776.00 "
-US,South Carolina,2020-12," 8,095,910.00 "
-US,South Carolina,2021-01," 11,769,420.00 "
-US,South Carolina,2021-02," 13,575,079.00 "
-US,South Carolina,2021-03," 16,594,789.00 "
-US,South Carolina,2021-04," 16,989,314.00 "
-US,South Carolina,2021-05," 18,211,291.00 "
-US,South Carolina,2021-06," 17,854,108.00 "
-US,South Carolina,2021-07," 18,708,575.00 "
-US,South Carolina,2021-08," 20,733,368.00 "
-US,South Carolina,2021-09," 24,160,417.00 "
-US,South Carolina,2021-10," 27,353,270.00 "
-US,South Carolina,2021-11," 27,263,387.00 "
-US,South Carolina,2021-12," 29,031,722.00 "
-US,South Carolina,2022-01," 36,320,395.00 "
-US,South Carolina,2022-02," 40,189,739.00 "
-US,South Carolina,2022-03," 45,425,580.00 "
-US,South Carolina,2022-04," 36,759,332.00 "
-US,South Dakota,2020-01, -   
-US,South Dakota,2020-02, -   
-US,South Dakota,2020-03, 704.00 
-US,South Dakota,2020-04," 36,228.00 "
-US,South Dakota,2020-05," 118,918.00 "
-US,South Dakota,2020-06," 177,960.00 "
-US,South Dakota,2020-07," 240,095.00 "
-US,South Dakota,2020-08," 326,657.00 "
-US,South Dakota,2020-09," 529,111.00 "
-US,South Dakota,2020-10," 1,007,707.00 "
-US,South Dakota,2020-11," 1,938,994.00 "
-US,South Dakota,2020-12," 2,843,016.00 "
-US,South Dakota,2021-01," 3,244,540.00 "
-US,South Dakota,2021-02," 3,089,709.00 "
-US,South Dakota,2021-03," 3,565,684.00 "
-US,South Dakota,2021-04," 3,614,586.00 "
-US,South Dakota,2021-05," 3,831,482.00 "
-US,South Dakota,2021-06," 3,731,285.00 "
-US,South Dakota,2021-07," 3,869,048.00 "
-US,South Dakota,2021-08," 3,957,081.00 "
-US,South Dakota,2021-09," 4,162,440.00 "
-US,South Dakota,2021-10," 4,649,522.00 "
-US,South Dakota,2021-11," 4,816,181.00 "
-US,South Dakota,2021-12," 5,361,278.00 "
-US,South Dakota,2022-01," 6,328,717.00 "
-US,South Dakota,2022-02," 6,525,601.00 "
-US,South Dakota,2022-03," 7,336,919.00 "
-US,South Dakota,2022-04," 5,933,067.00 "
-US,Tennessee,2020-01, -   
-US,Tennessee,2020-02, -   
-US,Tennessee,2020-03," 13,685.00 "
-US,Tennessee,2020-04," 195,329.00 "
-US,Tennessee,2020-05," 543,177.00 "
-US,Tennessee,2020-06," 960,312.00 "
-US,Tennessee,2020-07," 2,249,954.00 "
-US,Tennessee,2020-08," 4,057,874.00 "
-US,Tennessee,2020-09," 5,245,584.00 "
-US,Tennessee,2020-10," 6,971,998.00 "
-US,Tennessee,2020-11," 9,328,863.00 "
-US,Tennessee,2020-12," 14,840,522.00 "
-US,Tennessee,2021-01," 20,706,180.00 "
-US,Tennessee,2021-02," 20,980,695.00 "
-US,Tennessee,2021-03," 24,438,955.00 "
-US,Tennessee,2021-04," 24,749,144.00 "
-US,Tennessee,2021-05," 26,428,233.00 "
-US,Tennessee,2021-06," 25,889,134.00 "
-US,Tennessee,2021-07," 27,165,928.00 "
-US,Tennessee,2021-08," 29,971,080.00 "
-US,Tennessee,2021-09," 34,869,491.00 "
-US,Tennessee,2021-10," 39,107,950.00 "
-US,Tennessee,2021-11," 38,978,020.00 "
-US,Tennessee,2021-12," 42,038,703.00 "
-US,Tennessee,2022-01," 51,615,035.00 "
-US,Tennessee,2022-02," 55,210,298.00 "
-US,Tennessee,2022-03," 62,501,278.00 "
-US,Tennessee,2022-04," 50,601,133.00 "
-US,Texas,2020-01, -   
-US,Texas,2020-02, -   
-US,Texas,2020-03," 21,333.00 "
-US,Texas,2020-04," 369,373.00 "
-US,Texas,2020-05," 1,209,742.00 "
-US,Texas,2020-06," 2,949,790.00 "
-US,Texas,2020-07," 9,094,549.00 "
-US,Texas,2020-08," 17,306,997.00 "
-US,Texas,2020-09," 21,606,639.00 "
-US,Texas,2020-10," 26,338,246.00 "
-US,Texas,2020-11," 31,951,160.00 "
-US,Texas,2020-12," 46,197,794.00 "
-US,Texas,2021-01," 65,807,240.00 "
-US,Texas,2021-02," 72,509,527.00 "
-US,Texas,2021-03," 85,890,518.00 "
-US,Texas,2021-04," 86,432,863.00 "
-US,Texas,2021-05," 91,943,427.00 "
-US,Texas,2021-06," 90,475,797.00 "
-US,Texas,2021-07," 95,481,236.00 "
-US,Texas,2021-08," 105,282,868.00 "
-US,Texas,2021-09," 117,003,017.00 "
-US,Texas,2021-10," 130,146,709.00 "
-US,Texas,2021-11," 129,579,715.00 "
-US,Texas,2021-12," 138,332,050.00 "
-US,Texas,2022-01," 170,852,283.00 "
-US,Texas,2022-02," 182,250,262.00 "
-US,Texas,2022-03," 207,118,683.00 "
-US,Texas,2022-04," 169,479,108.00 "
-US,Utah,2020-01, -   
-US,Utah,2020-02, -   
-US,Utah,2020-03," 5,370.00 "
-US,Utah,2020-04," 81,945.00 "
-US,Utah,2020-05," 221,285.00 "
-US,Utah,2020-06," 461,201.00 "
-US,Utah,2020-07," 984,909.00 "
-US,Utah,2020-08," 1,442,519.00 "
-US,Utah,2020-09," 1,829,235.00 "
-US,Utah,2020-10," 2,870,716.00 "
-US,Utah,2020-11," 4,661,343.00 "
-US,Utah,2020-12," 7,428,927.00 "
-US,Utah,2021-01," 9,842,356.00 "
-US,Utah,2021-02," 10,101,048.00 "
-US,Utah,2021-03," 11,749,982.00 "
-US,Utah,2021-04," 11,752,199.00 "
-US,Utah,2021-05," 12,471,363.00 "
-US,Utah,2021-06," 12,311,787.00 "
-US,Utah,2021-07," 13,106,739.00 "
-US,Utah,2021-08," 13,874,810.00 "
-US,Utah,2021-09," 14,611,047.00 "
-US,Utah,2021-10," 16,426,235.00 "
-US,Utah,2021-11," 17,268,418.00 "
-US,Utah,2021-12," 19,102,568.00 "
-US,Utah,2022-01," 23,683,685.00 "
-US,Utah,2022-02," 25,515,045.00 "
-US,Utah,2022-03," 28,704,339.00 "
-US,Utah,2022-04," 23,226,196.00 "
-US,Vermont,2020-01, -   
-US,Vermont,2020-02, -   
-US,Vermont,2020-03," 1,839.00 "
-US,Vermont,2020-04," 21,165.00 "
-US,Vermont,2020-05," 29,030.00 "
-US,Vermont,2020-06," 33,550.00 "
-US,Vermont,2020-07," 41,004.00 "
-US,Vermont,2020-08," 46,881.00 "
-US,Vermont,2020-09," 50,777.00 "
-US,Vermont,2020-10," 60,075.00 "
-US,Vermont,2020-11," 91,482.00 "
-US,Vermont,2020-12," 185,248.00 "
-US,Vermont,2021-01," 303,812.00 "
-US,Vermont,2021-02," 383,757.00 "
-US,Vermont,2021-03," 531,684.00 "
-US,Vermont,2021-04," 645,633.00 "
-US,Vermont,2021-05," 736,970.00 "
-US,Vermont,2021-06," 729,955.00 "
-US,Vermont,2021-07," 761,831.00 "
-US,Vermont,2021-08," 817,579.00 "
-US,Vermont,2021-09," 927,289.00 "
-US,Vermont,2021-10," 1,146,361.00 "
-US,Vermont,2021-11," 1,351,942.00 "
-US,Vermont,2021-12," 1,775,288.00 "
-US,Vermont,2022-01," 2,699,219.00 "
-US,Vermont,2022-02," 3,061,315.00 "
-US,Vermont,2022-03," 3,550,220.00 "
-US,Vermont,2022-04," 2,978,325.00 "
-US,Virgin Islands,2020-01, -   
-US,Virgin Islands,2020-02, -   
-US,Virgin Islands,2020-03, 205.00 
-US,Virgin Islands,2020-04," 1,485.00 "
-US,Virgin Islands,2020-05," 2,116.00 "
-US,Virgin Islands,2020-06," 2,221.00 "
-US,Virgin Islands,2020-07," 7,465.00 "
-US,Virgin Islands,2020-08," 23,572.00 "
-US,Virgin Islands,2020-09," 37,063.00 "
-US,Virgin Islands,2020-10," 41,411.00 "
-US,Virgin Islands,2020-11," 43,546.00 "
-US,Virgin Islands,2020-12," 56,653.00 "
-US,Virgin Islands,2021-01," 69,265.00 "
-US,Virgin Islands,2021-02," 70,987.00 "
-US,Virgin Islands,2021-03," 86,890.00 "
-US,Virgin Islands,2021-04," 90,525.00 "
-US,Virgin Islands,2021-05," 101,860.00 "
-US,Virgin Islands,2021-06," 111,476.00 "
-US,Virgin Islands,2021-07," 129,618.00 "
-US,Virgin Islands,2021-08," 164,818.00 "
-US,Virgin Islands,2021-09," 190,540.00 "
-US,Virgin Islands,2021-10," 217,870.00 "
-US,Virgin Islands,2021-11," 221,423.00 "
-US,Virgin Islands,2021-12," 245,533.00 "
-US,Virgin Islands,2022-01," 411,008.00 "
-US,Virgin Islands,2022-02," 425,391.00 "
-US,Virgin Islands,2022-03," 481,693.00 "
-US,Virgin Islands,2022-04," 396,281.00 "
-US,Virginia,2020-01, -   
-US,Virginia,2020-02, -   
-US,Virginia,2020-03," 6,847.00 "
-US,Virginia,2020-04," 223,912.00 "
-US,Virginia,2020-05," 926,151.00 "
-US,Virginia,2020-06," 1,644,315.00 "
-US,Virginia,2020-07," 2,330,822.00 "
-US,Virginia,2020-08," 3,291,423.00 "
-US,Virginia,2020-09," 4,069,642.00 "
-US,Virginia,2020-10," 5,085,677.00 "
-US,Virginia,2020-11," 6,195,771.00 "
-US,Virginia,2020-12," 9,076,350.00 "
-US,Virginia,2021-01," 13,357,007.00 "
-US,Virginia,2021-02," 15,308,866.00 "
-US,Virginia,2021-03," 18,535,629.00 "
-US,Virginia,2021-04," 19,242,413.00 "
-US,Virginia,2021-05," 20,752,253.00 "
-US,Virginia,2021-06," 20,342,775.00 "
-US,Virginia,2021-07," 21,250,074.00 "
-US,Virginia,2021-08," 22,501,365.00 "
-US,Virginia,2021-09," 24,564,027.00 "
-US,Virginia,2021-10," 27,930,814.00 "
-US,Virginia,2021-11," 28,428,334.00 "
-US,Virginia,2021-12," 31,589,889.00 "
-US,Virginia,2022-01," 42,030,538.00 "
-US,Virginia,2022-02," 44,970,330.00 "
-US,Virginia,2022-03," 51,347,047.00 "
-US,Virginia,2022-04," 42,017,255.00 "
-US,Washington,2020-01, 10.00 
-US,Washington,2020-02, 35.00 
-US,Washington,2020-03," 45,411.00 "
-US,Washington,2020-04," 325,296.00 "
-US,Washington,2020-05," 561,785.00 "
-US,Washington,2020-06," 814,596.00 "
-US,Washington,2020-07," 1,403,680.00 "
-US,Washington,2020-08," 2,095,186.00 "
-US,Washington,2020-09," 2,470,697.00 "
-US,Washington,2020-10," 3,087,840.00 "
-US,Washington,2020-11," 4,149,418.00 "
-US,Washington,2020-12," 6,618,129.00 "
-US,Washington,2021-01," 8,805,144.00 "
-US,Washington,2021-02," 9,187,567.00 "
-US,Washington,2021-03," 10,905,441.00 "
-US,Washington,2021-04," 11,499,794.00 "
-US,Washington,2021-05," 13,072,571.00 "
-US,Washington,2021-06," 13,353,402.00 "
-US,Washington,2021-07," 14,284,516.00 "
-US,Washington,2021-08," 15,987,996.00 "
-US,Washington,2021-09," 18,380,190.00 "
-US,Washington,2021-10," 21,535,818.00 "
-US,Washington,2021-11," 22,613,916.00 "
-US,Washington,2021-12," 24,887,528.00 "
-US,Washington,2022-01," 33,207,720.00 "
-US,Washington,2022-02," 39,128,358.00 "
-US,Washington,2022-03," 44,678,159.00 "
-US,Washington,2022-04," 36,765,055.00 "
-US,West Virginia,2020-01, -   
-US,West Virginia,2020-02, -   
-US,West Virginia,2020-03, 760.00 
-US,West Virginia,2020-04," 21,077.00 "
-US,West Virginia,2020-05," 47,180.00 "
-US,West Virginia,2020-06," 71,763.00 "
-US,West Virginia,2020-07," 144,666.00 "
-US,West Virginia,2020-08," 262,659.00 "
-US,West Virginia,2020-09," 394,692.00 "
-US,West Virginia,2020-10," 609,146.00 "
-US,West Virginia,2020-11," 1,046,823.00 "
-US,West Virginia,2020-12," 2,081,323.00 "
-US,West Virginia,2021-01," 3,300,070.00 "
-US,West Virginia,2021-02," 3,563,232.00 "
-US,West Virginia,2021-03," 4,227,093.00 "
-US,West Virginia,2021-04," 4,432,742.00 "
-US,West Virginia,2021-05," 4,900,759.00 "
-US,West Virginia,2021-06," 4,893,254.00 "
-US,West Virginia,2021-07," 5,118,969.00 "
-US,West Virginia,2021-08," 5,443,015.00 "
-US,West Virginia,2021-09," 6,481,278.00 "
-US,West Virginia,2021-10," 8,012,815.00 "
-US,West Virginia,2021-11," 8,520,439.00 "
-US,West Virginia,2021-12," 9,656,743.00 "
-US,West Virginia,2022-01," 12,004,530.00 "
-US,West Virginia,2022-02," 13,292,514.00 "
-US,West Virginia,2022-03," 15,352,655.00 "
-US,West Virginia,2022-04," 12,469,937.00 "
-US,Wisconsin,2020-01, -   
-US,Wisconsin,2020-02, -   
-US,Wisconsin,2020-03," 9,404.00 "
-US,Wisconsin,2020-04," 118,808.00 "
-US,Wisconsin,2020-05," 383,868.00 "
-US,Wisconsin,2020-06," 699,650.00 "
-US,Wisconsin,2020-07," 1,245,160.00 "
-US,Wisconsin,2020-08," 2,022,736.00 "
-US,Wisconsin,2020-09," 2,855,768.00 "
-US,Wisconsin,2020-10," 5,358,588.00 "
-US,Wisconsin,2020-11," 9,931,424.00 "
-US,Wisconsin,2020-12," 14,724,485.00 "
-US,Wisconsin,2021-01," 17,417,378.00 "
-US,Wisconsin,2021-02," 16,987,494.00 "
-US,Wisconsin,2021-03," 19,427,985.00 "
-US,Wisconsin,2021-04," 19,469,004.00 "
-US,Wisconsin,2021-05," 20,738,590.00 "
-US,Wisconsin,2021-06," 20,288,666.00 "
-US,Wisconsin,2021-07," 21,099,014.00 "
-US,Wisconsin,2021-08," 21,972,037.00 "
-US,Wisconsin,2021-09," 23,064,874.00 "
-US,Wisconsin,2021-10," 26,395,481.00 "
-US,Wisconsin,2021-11," 27,955,296.00 "
-US,Wisconsin,2021-12," 32,447,640.00 "
-US,Wisconsin,2022-01," 41,193,795.00 "
-US,Wisconsin,2022-02," 43,522,457.00 "
-US,Wisconsin,2022-03," 48,953,353.00 "
-US,Wisconsin,2022-04," 39,835,957.00 "
-US,Wyoming,2020-01, -   
-US,Wyoming,2020-02, -   
-US,Wyoming,2020-03, 716.00 
-US,Wyoming,2020-04," 9,826.00 "
-US,Wyoming,2020-05," 22,805.00 "
-US,Wyoming,2020-06," 33,714.00 "
-US,Wyoming,2020-07," 63,972.00 "
-US,Wyoming,2020-08," 102,415.00 "
-US,Wyoming,2020-09," 140,060.00 "
-US,Wyoming,2020-10," 279,238.00 "
-US,Wyoming,2020-11," 698,302.00 "
-US,Wyoming,2020-12," 1,239,260.00 "
-US,Wyoming,2021-01," 1,509,296.00 "
-US,Wyoming,2021-02," 1,491,294.00 "
-US,Wyoming,2021-03," 1,716,641.00 "
-US,Wyoming,2021-04," 1,716,152.00 "
-US,Wyoming,2021-05," 1,835,244.00 "
-US,Wyoming,2021-06," 1,839,362.00 "
-US,Wyoming,2021-07," 1,970,340.00 "
-US,Wyoming,2021-08," 2,152,271.00 "
-US,Wyoming,2021-09," 2,491,712.00 "
-US,Wyoming,2021-10," 3,014,071.00 "
-US,Wyoming,2021-11," 3,236,264.00 "
-US,Wyoming,2021-12," 3,515,362.00 "
-US,Wyoming,2022-01," 4,004,880.00 "
-US,Wyoming,2022-02," 4,272,079.00 "
-US,Wyoming,2022-03," 4,829,026.00 "
-US,Wyoming,2022-04," 3,907,134.00 "
+Country/Region,Province/State,Month,Confirmed
+Australia,Australian Capital Territory,2020-01,0
+Australia,Australian Capital Territory,2020-02,0
+Australia,Australian Capital Territory,2020-03,579
+Australia,Australian Capital Territory,2020-04,3028
+Australia,Australian Capital Territory,2020-05,3314
+Australia,Australian Capital Territory,2020-06,3235
+Australia,Australian Capital Territory,2020-07,3470
+Australia,Australian Capital Territory,2020-08,3503
+Australia,Australian Capital Territory,2020-09,3390
+Australia,Australian Capital Territory,2020-10,3514
+Australia,Australian Capital Territory,2020-11,3443
+Australia,Australian Capital Territory,2020-12,3639
+Australia,Australian Capital Territory,2021-01,3658
+Australia,Australian Capital Territory,2021-02,3304
+Australia,Australian Capital Territory,2021-03,3793
+Australia,Australian Capital Territory,2021-04,3692
+Australia,Australian Capital Territory,2021-05,3844
+Australia,Australian Capital Territory,2021-06,3720
+Australia,Australian Capital Territory,2021-07,3844
+Australia,Australian Capital Territory,2021-08,6607
+Australia,Australian Capital Territory,2021-09,20954
+Australia,Australian Capital Territory,2021-10,46670
+Australia,Australian Capital Territory,2021-11,59247
+Australia,Australian Capital Territory,2021-12,77470
+Australia,Australian Capital Territory,2022-01,684834
+Australia,Australian Capital Territory,2022-02,1201574
+Australia,Australian Capital Territory,2022-03,1980709
+Australia,Australian Capital Territory,2022-04,2254127
+Australia,New South Wales,2020-01,23
+Australia,New South Wales,2020-02,116
+Australia,New South Wales,2020-03,15757
+Australia,New South Wales,2020-04,84561
+Australia,New South Wales,2020-05,95130
+Australia,New South Wales,2020-06,94155
+Australia,New South Wales,2020-07,109877
+Australia,New South Wales,2020-08,122019
+Australia,New South Wales,2020-09,125176
+Australia,New South Wales,2020-10,134117
+Australia,New South Wales,2020-11,135076
+Australia,New South Wales,2020-12,146392
+Australia,New South Wales,2021-01,156463
+Australia,New South Wales,2021-02,143935
+Australia,New South Wales,2021-03,162604
+Australia,New South Wales,2021-04,161175
+Australia,New South Wales,2021-05,172090
+Australia,New South Wales,2021-06,169704
+Australia,New South Wales,2021-07,218148
+Australia,New South Wales,2021-08,499097
+Australia,New South Wales,2021-09,1437924
+Australia,New South Wales,2021-10,2195840
+Australia,New South Wales,2021-11,2365268
+Australia,New South Wales,2021-12,3353566
+Australia,New South Wales,2022-01,22772993
+Australia,New South Wales,2022-02,34037344
+Australia,New South Wales,2022-03,48070913
+Australia,New South Wales,2022-04,51622859
+Australia,Northern Territory,2020-01,0
+Australia,Northern Territory,2020-02,0
+Australia,Northern Territory,2020-03,126
+Australia,Northern Territory,2020-04,815
+Australia,Northern Territory,2020-05,897
+Australia,Northern Territory,2020-06,870
+Australia,Northern Territory,2020-07,955
+Australia,Northern Territory,2020-08,1023
+Australia,Northern Territory,2020-09,990
+Australia,Northern Territory,2020-10,1041
+Australia,Northern Territory,2020-11,1339
+Australia,Northern Territory,2020-12,2063
+Australia,Northern Territory,2021-01,2857
+Australia,Northern Territory,2021-02,2870
+Australia,Northern Territory,2021-03,3280
+Australia,Northern Territory,2021-04,3884
+Australia,Northern Territory,2021-05,5243
+Australia,Northern Territory,2021-06,5286
+Australia,Northern Territory,2021-07,5888
+Australia,Northern Territory,2021-08,6194
+Australia,Northern Territory,2021-09,6153
+Australia,Northern Territory,2021-10,6827
+Australia,Northern Territory,2021-11,7514
+Australia,Northern Territory,2021-12,11380
+Australia,Northern Territory,2022-01,234871
+Australia,Northern Territory,2022-02,866485
+Australia,Northern Territory,2022-03,1417124
+Australia,Northern Territory,2022-04,1398681
+Australia,Queensland,2020-01,6
+Australia,Queensland,2020-02,136
+Australia,Queensland,2020-03,6277
+Australia,Queensland,2020-04,29303
+Australia,Queensland,2020-05,32606
+Australia,Queensland,2020-06,31929
+Australia,Queensland,2020-07,33242
+Australia,Queensland,2020-08,34018
+Australia,Queensland,2020-09,34394
+Australia,Queensland,2020-10,36085
+Australia,Queensland,2020-11,35612
+Australia,Queensland,2020-12,38128
+Australia,Queensland,2021-01,39943
+Australia,Queensland,2021-02,36938
+Australia,Queensland,2021-03,43346
+Australia,Queensland,2021-04,45465
+Australia,Queensland,2021-05,49329
+Australia,Queensland,2021-06,49723
+Australia,Queensland,2021-07,54356
+Australia,Queensland,2021-08,60180
+Australia,Queensland,2021-09,60274
+Australia,Queensland,2021-10,64171
+Australia,Queensland,2021-11,63251
+Australia,Queensland,2021-12,119486
+Australia,Queensland,2022-01,6716565
+Australia,Queensland,2022-02,14106852
+Australia,Queensland,2022-03,20409168
+Australia,Queensland,2022-04,22087230
+Australia,South Australia,2020-01,0
+Australia,South Australia,2020-02,58
+Australia,South Australia,2020-03,2675
+Australia,South Australia,2020-04,12734
+Australia,South Australia,2020-05,13609
+Australia,South Australia,2020-06,13206
+Australia,South Australia,2020-07,13787
+Australia,South Australia,2020-08,14271
+Australia,South Australia,2020-09,13975
+Australia,South Australia,2020-10,14921
+Australia,South Australia,2020-11,16068
+Australia,South Australia,2020-12,17532
+Australia,South Australia,2021-01,18313
+Australia,South Australia,2021-02,16997
+Australia,South Australia,2021-03,19682
+Australia,South Australia,2021-04,20516
+Australia,South Australia,2021-05,23026
+Australia,South Australia,2021-06,23359
+Australia,South Australia,2021-07,25814
+Australia,South Australia,2021-08,26913
+Australia,South Australia,2021-09,26787
+Australia,South Australia,2021-10,28306
+Australia,South Australia,2021-11,27655
+Australia,South Australia,2021-12,78721
+Australia,South Australia,2022-01,2176645
+Australia,South Australia,2022-02,3688087
+Australia,South Australia,2022-03,6059154
+Australia,South Australia,2022-04,8305104
+Australia,Tasmania,2020-01,0
+Australia,Tasmania,2020-02,0
+Australia,Tasmania,2020-03,565
+Australia,Tasmania,2020-04,4666
+Australia,Tasmania,2020-05,7027
+Australia,Tasmania,2020-06,6840
+Australia,Tasmania,2020-07,7080
+Australia,Tasmania,2020-08,7120
+Australia,Tasmania,2020-09,6901
+Australia,Tasmania,2020-10,7130
+Australia,Tasmania,2020-11,6900
+Australia,Tasmania,2020-12,7225
+Australia,Tasmania,2021-01,7254
+Australia,Tasmania,2021-02,6552
+Australia,Tasmania,2021-03,7254
+Australia,Tasmania,2021-04,7020
+Australia,Tasmania,2021-05,7254
+Australia,Tasmania,2021-06,7020
+Australia,Tasmania,2021-07,7254
+Australia,Tasmania,2021-08,7282
+Australia,Tasmania,2021-09,7050
+Australia,Tasmania,2021-10,7334
+Australia,Tasmania,2021-11,7137
+Australia,Tasmania,2021-12,10055
+Australia,Tasmania,2022-01,546659
+Australia,Tasmania,2022-02,1034865
+Australia,Tasmania,2022-03,2030403
+Australia,Tasmania,2022-04,2859744
+Australia,Victoria,2020-01,9
+Australia,Victoria,2020-02,119
+Australia,Victoria,2020-03,6924
+Australia,Victoria,2020-04,37825
+Australia,Victoria,2020-05,47713
+Australia,Victoria,2020-06,54306
+Australia,Victoria,2020-07,173438
+Australia,Victoria,2020-08,508954
+Australia,Victoria,2020-09,596178
+Australia,Victoria,2020-10,629229
+Australia,Victoria,2020-11,610350
+Australia,Victoria,2020-12,630980
+Australia,Victoria,2021-01,633101
+Australia,Victoria,2021-02,573123
+Australia,Victoria,2021-03,634965
+Australia,Victoria,2021-04,614893
+Australia,Victoria,2021-05,637003
+Australia,Victoria,2021-06,620166
+Australia,Victoria,2021-07,644916
+Australia,Victoria,2021-08,661575
+Australia,Victoria,2021-09,845821
+Australia,Victoria,2021-10,2028205
+Australia,Victoria,2021-11,3212929
+Australia,Victoria,2021-12,4502254
+Australia,Victoria,2022-01,17913911
+Australia,Victoria,2022-02,27276523
+Australia,Victoria,2022-03,36006797
+Australia,Victoria,2022-04,35425452
+Australia,Western Australia,2020-01,0
+Australia,Western Australia,2020-02,2
+Australia,Western Australia,2020-03,2776
+Australia,Western Australia,2020-04,15274
+Australia,Western Australia,2020-05,17329
+Australia,Western Australia,2020-06,18070
+Australia,Western Australia,2020-07,19871
+Australia,Western Australia,2020-08,20183
+Australia,Western Australia,2020-09,19895
+Australia,Western Australia,2020-10,22327
+Australia,Western Australia,2020-11,23726
+Australia,Western Australia,2020-12,26087
+Australia,Western Australia,2021-01,27423
+Australia,Western Australia,2021-02,25471
+Australia,Western Australia,2021-03,28725
+Australia,Western Australia,2021-04,29065
+Australia,Western Australia,2021-05,31449
+Australia,Western Australia,2021-06,30597
+Australia,Western Australia,2021-07,32248
+Australia,Western Australia,2021-08,33041
+Australia,Western Australia,2021-09,32724
+Australia,Western Australia,2021-10,34407
+Australia,Western Australia,2021-11,33479
+Australia,Western Australia,2021-12,35033
+Australia,Western Australia,2022-01,40886
+Australia,Western Australia,2022-02,93325
+Australia,Western Australia,2022-03,2408190
+Australia,Western Australia,2022-04,6797690
+Canada,Alberta,2020-01,0
+Canada,Alberta,2020-02,0
+Canada,Alberta,2020-03,5662
+Canada,Alberta,2020-04,76102
+Canada,Alberta,2020-05,200503
+Canada,Alberta,2020-06,225082
+Canada,Alberta,2020-07,286502
+Canada,Alberta,2020-08,378646
+Canada,Alberta,2020-09,479121
+Canada,Alberta,2020-10,685933
+Canada,Alberta,2020-11,1224690
+Canada,Alberta,2020-12,2573776
+Canada,Alberta,2021-01,3559487
+Canada,Alberta,2021-02,3611874
+Canada,Alberta,2021-03,4338742
+Canada,Alberta,2021-04,5034774
+Canada,Alberta,2021-05,6677134
+Canada,Alberta,2021-06,6914142
+Canada,Alberta,2021-07,7217973
+Canada,Alberta,2021-08,7480455
+Canada,Alberta,2021-09,8236090
+Canada,Alberta,2021-10,9715887
+Canada,Alberta,2021-11,9899011
+Canada,Alberta,2021-12,10621958
+Canada,Alberta,2022-01,13511010
+Canada,Alberta,2022-02,14409057
+Canada,Alberta,2022-03,16510184
+Canada,Alberta,2022-04,13745113
+Canada,British Columbia,2020-01,4
+Canada,British Columbia,2020-02,128
+Canada,British Columbia,2020-03,9118
+Canada,British Columbia,2020-04,47020
+Canada,British Columbia,2020-05,74469
+Canada,British Columbia,2020-06,82436
+Canada,British Columbia,2020-07,99349
+Canada,British Columbia,2020-08,140512
+Canada,British Columbia,2020-09,223013
+Canada,British Columbia,2020-10,352954
+Canada,British Columbia,2020-11,684592
+Canada,British Columbia,2020-12,1342337
+Canada,British Columbia,2021-01,1863238
+Canada,British Columbia,2021-02,2062419
+Canada,British Columbia,2021-03,2765907
+Canada,British Columbia,2021-04,3459108
+Canada,British Columbia,2021-05,4285814
+Canada,British Columbia,2021-06,4391870
+Canada,British Columbia,2021-07,4602222
+Canada,British Columbia,2021-08,4862784
+Canada,British Columbia,2021-09,5293313
+Canada,British Columbia,2021-10,6101988
+Canada,British Columbia,2021-11,6379978
+Canada,British Columbia,2021-12,7073611
+Canada,British Columbia,2022-01,9113178
+Canada,British Columbia,2022-02,9503681
+Canada,British Columbia,2022-03,10939263
+Canada,British Columbia,2022-04,8966434
+Canada,Diamond Princess,2020-01,0
+Canada,Diamond Princess,2020-02,0
+Canada,Diamond Princess,2020-03,0
+Canada,Diamond Princess,2020-04,0
+Canada,Diamond Princess,2020-05,31
+Canada,Diamond Princess,2020-06,1
+Canada,Diamond Princess,2020-07,0
+Canada,Diamond Princess,2020-08,0
+Canada,Diamond Princess,2020-09,0
+Canada,Diamond Princess,2020-10,0
+Canada,Diamond Princess,2020-11,0
+Canada,Diamond Princess,2020-12,0
+Canada,Diamond Princess,2021-01,0
+Canada,Diamond Princess,2021-02,0
+Canada,Diamond Princess,2021-03,0
+Canada,Diamond Princess,2021-04,0
+Canada,Diamond Princess,2021-05,0
+Canada,Diamond Princess,2021-06,0
+Canada,Diamond Princess,2021-07,0
+Canada,Diamond Princess,2021-08,0
+Canada,Diamond Princess,2021-09,0
+Canada,Diamond Princess,2021-10,0
+Canada,Diamond Princess,2021-11,0
+Canada,Diamond Princess,2021-12,0
+Canada,Diamond Princess,2022-01,0
+Canada,Diamond Princess,2022-02,0
+Canada,Diamond Princess,2022-03,0
+Canada,Diamond Princess,2022-04,0
+Canada,Grand Princess,2020-01,0
+Canada,Grand Princess,2020-02,0
+Canada,Grand Princess,2020-03,184
+Canada,Grand Princess,2020-04,390
+Canada,Grand Princess,2020-05,403
+Canada,Grand Princess,2020-06,390
+Canada,Grand Princess,2020-07,403
+Canada,Grand Princess,2020-08,403
+Canada,Grand Princess,2020-09,390
+Canada,Grand Princess,2020-10,403
+Canada,Grand Princess,2020-11,390
+Canada,Grand Princess,2020-12,403
+Canada,Grand Princess,2021-01,403
+Canada,Grand Princess,2021-02,364
+Canada,Grand Princess,2021-03,403
+Canada,Grand Princess,2021-04,390
+Canada,Grand Princess,2021-05,403
+Canada,Grand Princess,2021-06,390
+Canada,Grand Princess,2021-07,403
+Canada,Grand Princess,2021-08,403
+Canada,Grand Princess,2021-09,390
+Canada,Grand Princess,2021-10,403
+Canada,Grand Princess,2021-11,390
+Canada,Grand Princess,2021-12,403
+Canada,Grand Princess,2022-01,403
+Canada,Grand Princess,2022-02,364
+Canada,Grand Princess,2022-03,403
+Canada,Grand Princess,2022-04,325
+Canada,Manitoba,2020-01,0
+Canada,Manitoba,2020-02,0
+Canada,Manitoba,2020-03,600
+Canada,Manitoba,2020-04,7106
+Canada,Manitoba,2020-05,8950
+Canada,Manitoba,2020-06,9225
+Canada,Manitoba,2020-07,10903
+Canada,Manitoba,2020-08,22952
+Canada,Manitoba,2020-09,45842
+Canada,Manitoba,2020-10,102160
+Canada,Manitoba,2020-11,335032
+Canada,Manitoba,2020-12,664825
+Canada,Manitoba,2021-01,844725
+Canada,Manitoba,2021-02,862767
+Canada,Manitoba,2021-03,1021544
+Canada,Manitoba,2021-04,1080279
+Canada,Manitoba,2021-05,1396482
+Canada,Manitoba,2021-06,1630373
+Canada,Manitoba,2021-07,1767606
+Canada,Manitoba,2021-08,1800463
+Canada,Manitoba,2021-09,1785227
+Canada,Manitoba,2021-10,1922598
+Canada,Manitoba,2021-11,1972845
+Canada,Manitoba,2021-12,2216942
+Canada,Manitoba,2022-01,3274068
+Canada,Manitoba,2022-02,3542704
+Canada,Manitoba,2022-03,4131779
+Canada,Manitoba,2022-04,3432517
+Canada,New Brunswick,2020-01,0
+Canada,New Brunswick,2020-02,0
+Canada,New Brunswick,2020-03,473
+Canada,New Brunswick,2020-04,3327
+Canada,New Brunswick,2020-05,3756
+Canada,New Brunswick,2020-06,4637
+Canada,New Brunswick,2020-07,5198
+Canada,New Brunswick,2020-08,5651
+Canada,New Brunswick,2020-09,5845
+Canada,New Brunswick,2020-10,8748
+Canada,New Brunswick,2020-11,11851
+Canada,New Brunswick,2020-12,17430
+Canada,New Brunswick,2021-01,28637
+Canada,New Brunswick,2021-02,38690
+Canada,New Brunswick,2021-03,46292
+Canada,New Brunswick,2021-04,52885
+Canada,New Brunswick,2021-05,64089
+Canada,New Brunswick,2021-06,68832
+Canada,New Brunswick,2021-07,72662
+Canada,New Brunswick,2021-08,79017
+Canada,New Brunswick,2021-09,97882
+Canada,New Brunswick,2021-10,172434
+Canada,New Brunswick,2021-11,219851
+Canada,New Brunswick,2021-12,322778
+Canada,New Brunswick,2022-01,705141
+Canada,New Brunswick,2022-02,928526
+Canada,New Brunswick,2022-03,1316012
+Canada,New Brunswick,2022-04,1389539
+Canada,Newfoundland and Labrador,2020-01,0
+Canada,Newfoundland and Labrador,2020-02,0
+Canada,Newfoundland and Labrador,2020-03,863
+Canada,Newfoundland and Labrador,2020-04,7179
+Canada,Newfoundland and Labrador,2020-05,8058
+Canada,Newfoundland and Labrador,2020-06,7830
+Canada,Newfoundland and Labrador,2020-07,8148
+Canada,Newfoundland and Labrador,2020-08,8297
+Canada,Newfoundland and Labrador,2020-09,8133
+Canada,Newfoundland and Labrador,2020-10,8810
+Canada,Newfoundland and Labrador,2020-11,9242
+Canada,Newfoundland and Labrador,2020-12,11371
+Canada,Newfoundland and Labrador,2021-01,12276
+Canada,Newfoundland and Labrador,2021-02,19360
+Canada,Newfoundland and Labrador,2021-03,31323
+Canada,Newfoundland and Labrador,2021-04,31197
+Canada,Newfoundland and Labrador,2021-05,37059
+Canada,Newfoundland and Labrador,2021-06,41102
+Canada,Newfoundland and Labrador,2021-07,43985
+Canada,Newfoundland and Labrador,2021-08,45034
+Canada,Newfoundland and Labrador,2021-09,47277
+Canada,Newfoundland and Labrador,2021-10,58590
+Canada,Newfoundland and Labrador,2021-11,60763
+Canada,Newfoundland and Labrador,2021-12,73759
+Canada,Newfoundland and Labrador,2022-01,369299
+Canada,Newfoundland and Labrador,2022-02,575938
+Canada,Newfoundland and Labrador,2022-03,970168
+Canada,Newfoundland and Labrador,2022-04,1029228
+Canada,Northwest Territories,2020-01,0
+Canada,Northwest Territories,2020-02,0
+Canada,Northwest Territories,2020-03,6
+Canada,Northwest Territories,2020-04,139
+Canada,Northwest Territories,2020-05,155
+Canada,Northwest Territories,2020-06,150
+Canada,Northwest Territories,2020-07,155
+Canada,Northwest Territories,2020-08,155
+Canada,Northwest Territories,2020-09,150
+Canada,Northwest Territories,2020-10,201
+Canada,Northwest Territories,2020-11,392
+Canada,Northwest Territories,2020-12,634
+Canada,Northwest Territories,2021-01,848
+Canada,Northwest Territories,2021-02,1188
+Canada,Northwest Territories,2021-03,1457
+Canada,Northwest Territories,2021-04,1520
+Canada,Northwest Territories,2021-05,3497
+Canada,Northwest Territories,2021-06,3840
+Canada,Northwest Territories,2021-07,3968
+Canada,Northwest Territories,2021-08,7358
+Canada,Northwest Territories,2021-09,21404
+Canada,Northwest Territories,2021-10,49494
+Canada,Northwest Territories,2021-11,59651
+Canada,Northwest Territories,2021-12,64670
+Canada,Northwest Territories,2022-01,121338
+Canada,Northwest Territories,2022-02,212567
+Canada,Northwest Territories,2022-03,302821
+Canada,Northwest Territories,2022-04,290958
+Canada,Nova Scotia,2020-01,0
+Canada,Nova Scotia,2020-02,0
+Canada,Nova Scotia,2020-03,931
+Canada,Nova Scotia,2020-04,17060
+Canada,Nova Scotia,2020-05,31814
+Canada,Nova Scotia,2020-06,31806
+Canada,Nova Scotia,2020-07,33051
+Canada,Nova Scotia,2020-08,33335
+Canada,Nova Scotia,2020-09,32584
+Canada,Nova Scotia,2020-10,33942
+Canada,Nova Scotia,2020-11,35071
+Canada,Nova Scotia,2020-12,44035
+Canada,Nova Scotia,2021-01,47942
+Canada,Nova Scotia,2021-02,44799
+Canada,Nova Scotia,2021-03,51988
+Canada,Nova Scotia,2021-04,56515
+Canada,Nova Scotia,2021-05,138916
+Canada,Nova Scotia,2021-06,172280
+Canada,Nova Scotia,2021-07,181983
+Canada,Nova Scotia,2021-08,184163
+Canada,Nova Scotia,2021-09,188490
+Canada,Nova Scotia,2021-10,219285
+Canada,Nova Scotia,2021-11,236071
+Canada,Nova Scotia,2021-12,345205
+Canada,Nova Scotia,2022-01,902477
+Canada,Nova Scotia,2022-02,1180012
+Canada,Nova Scotia,2022-03,1540752
+Canada,Nova Scotia,2022-04,1706823
+Canada,Nunavut,2020-01,0
+Canada,Nunavut,2020-02,0
+Canada,Nunavut,2020-03,0
+Canada,Nunavut,2020-04,0
+Canada,Nunavut,2020-05,0
+Canada,Nunavut,2020-06,0
+Canada,Nunavut,2020-07,0
+Canada,Nunavut,2020-08,0
+Canada,Nunavut,2020-09,0
+Canada,Nunavut,2020-10,0
+Canada,Nunavut,2020-11,1852
+Canada,Nunavut,2020-12,7565
+Canada,Nunavut,2021-01,8390
+Canada,Nunavut,2021-02,8969
+Canada,Nunavut,2021-03,11926
+Canada,Nunavut,2021-04,12626
+Canada,Nunavut,2021-05,18687
+Canada,Nunavut,2021-06,19625
+Canada,Nunavut,2021-07,20367
+Canada,Nunavut,2021-08,20367
+Canada,Nunavut,2021-09,19796
+Canada,Nunavut,2021-10,20782
+Canada,Nunavut,2021-11,20220
+Canada,Nunavut,2021-12,21329
+Canada,Nunavut,2022-01,36681
+Canada,Nunavut,2022-02,63248
+Canada,Nunavut,2022-03,101074
+Canada,Nunavut,2022-04,88039
+Canada,Ontario,2020-01,26
+Canada,Ontario,2020-02,202
+Canada,Ontario,2020-03,26325
+Canada,Ontario,2020-04,325924
+Canada,Ontario,2020-05,726869
+Canada,Ontario,2020-06,983666
+Canada,Ontario,2020-07,1170978
+Canada,Ontario,2020-08,1280004
+Canada,Ontario,2020-09,1417792
+Canada,Ontario,2020-10,2030590
+Canada,Ontario,2020-11,2955099
+Canada,Ontario,2020-12,4746538
+Canada,Ontario,2021-01,7365032
+Canada,Ontario,2021-02,8112092
+Canada,Ontario,2021-03,10167565
+Canada,Ontario,2021-04,12496308
+Canada,Ontario,2021-05,15901717
+Canada,Ontario,2021-06,16333114
+Canada,Ontario,2021-07,17103675
+Canada,Ontario,2021-08,17399564
+Canada,Ontario,2021-09,17456318
+Canada,Ontario,2021-10,18562948
+Canada,Ontario,2021-11,18410040
+Canada,Ontario,2021-12,20789025
+Canada,Ontario,2022-01,29721162
+Canada,Ontario,2022-02,30454564
+Canada,Ontario,2022-03,35424667
+Canada,Ontario,2022-04,30179492
+Canada,Prince Edward Island,2020-01,0
+Canada,Prince Edward Island,2020-02,0
+Canada,Prince Edward Island,2020-03,99
+Canada,Prince Edward Island,2020-04,747
+Canada,Prince Edward Island,2020-05,837
+Canada,Prince Edward Island,2020-06,810
+Canada,Prince Edward Island,2020-07,1055
+Canada,Prince Edward Island,2020-08,1258
+Canada,Prince Edward Island,2020-09,1630
+Canada,Prince Edward Island,2020-10,1941
+Canada,Prince Edward Island,2020-11,2030
+Canada,Prince Edward Island,2020-12,2681
+Canada,Prince Edward Island,2021-01,3241
+Canada,Prince Edward Island,2021-02,3207
+Canada,Prince Edward Island,2021-03,4491
+Canada,Prince Edward Island,2021-04,5008
+Canada,Prince Edward Island,2021-05,5909
+Canada,Prince Edward Island,2021-06,6168
+Canada,Prince Edward Island,2021-07,6442
+Canada,Prince Edward Island,2021-08,6752
+Canada,Prince Edward Island,2021-09,7797
+Canada,Prince Edward Island,2021-10,9562
+Canada,Prince Edward Island,2021-11,10037
+Canada,Prince Edward Island,2021-12,16004
+Canada,Prince Edward Island,2022-01,131949
+Canada,Prince Edward Island,2022-02,297963
+Canada,Prince Edward Island,2022-03,635666
+Canada,Prince Edward Island,2022-04,741544
+Canada,Quebec,2020-01,0
+Canada,Quebec,2020-02,7
+Canada,Quebec,2020-03,27346
+Canada,Quebec,2020-04,521776
+Canada,Quebec,2020-05,1310342
+Canada,Quebec,2020-06,1614848
+Canada,Quebec,2020-07,1772904
+Canada,Quebec,2020-08,1889695
+Canada,Quebec,2020-09,2016613
+Canada,Quebec,2020-10,2856518
+Canada,Quebec,2020-11,3760807
+Canada,Quebec,2020-12,5354891
+Canada,Quebec,2021-01,7427825
+Canada,Quebec,2021-02,7738297
+Canada,Quebec,2021-03,9267249
+Canada,Quebec,2021-04,9991642
+Canada,Quebec,2021-05,11250309
+Canada,Quebec,2021-06,11206820
+Canada,Quebec,2021-07,11663299
+Canada,Quebec,2021-08,11857783
+Canada,Quebec,2021-09,12003179
+Canada,Quebec,2021-10,12977609
+Canada,Quebec,2021-11,13078713
+Canada,Quebec,2021-12,15266836
+Canada,Quebec,2022-01,23951756
+Canada,Quebec,2022-02,25161202
+Canada,Quebec,2022-03,29187321
+Canada,Quebec,2022-04,25094458
+Canada,Saskatchewan,2020-01,0
+Canada,Saskatchewan,2020-02,0
+Canada,Saskatchewan,2020-03,1192
+Canada,Saskatchewan,2020-04,9017
+Canada,Saskatchewan,2020-05,17798
+Canada,Saskatchewan,2020-06,21023
+Canada,Saskatchewan,2020-07,29783
+Canada,Saskatchewan,2020-08,47070
+Canada,Saskatchewan,2020-09,52556
+Canada,Saskatchewan,2020-10,73193
+Canada,Saskatchewan,2020-11,160187
+Canada,Saskatchewan,2020-12,385123
+Canada,Saskatchewan,2021-01,614780
+Canada,Saskatchewan,2021-02,742292
+Canada,Saskatchewan,2021-03,961175
+Canada,Saskatchewan,2021-04,1123884
+Canada,Saskatchewan,2021-05,1373577
+Canada,Saskatchewan,2021-06,1440713
+Canada,Saskatchewan,2021-07,1531027
+Canada,Saskatchewan,2021-08,1601860
+Canada,Saskatchewan,2021-09,1818371
+Canada,Saskatchewan,2021-10,2279732
+Canada,Saskatchewan,2021-11,2388013
+Canada,Saskatchewan,2021-12,2550700
+Canada,Saskatchewan,2022-01,3119961
+Canada,Saskatchewan,2022-02,3487386
+Canada,Saskatchewan,2022-03,4013713
+Canada,Saskatchewan,2022-04,3339316
+Canada,Yukon,2020-01,0
+Canada,Yukon,2020-02,0
+Canada,Yukon,2020-03,23
+Canada,Yukon,2020-04,259
+Canada,Yukon,2020-05,341
+Canada,Yukon,2020-06,330
+Canada,Yukon,2020-07,379
+Canada,Yukon,2020-08,459
+Canada,Yukon,2020-09,450
+Canada,Yukon,2020-10,530
+Canada,Yukon,2020-11,878
+Canada,Yukon,2020-12,1785
+Canada,Yukon,2021-01,2125
+Canada,Yukon,2021-02,1991
+Canada,Yukon,2021-03,2240
+Canada,Yukon,2021-04,2300
+Canada,Yukon,2021-05,2582
+Canada,Yukon,2021-06,4790
+Canada,Yukon,2021-07,15426
+Canada,Yukon,2021-08,20237
+Canada,Yukon,2021-09,21520
+Canada,Yukon,2021-10,26052
+Canada,Yukon,2021-11,37558
+Canada,Yukon,2021-12,50057
+Canada,Yukon,2022-01,79104
+Canada,Yukon,2022-02,92787
+Canada,Yukon,2022-03,111984
+Canada,Yukon,2022-04,99599
+US,Alabama,2020-01,0
+US,Alabama,2020-02,0
+US,Alabama,2020-03,6735
+US,Alabama,2020-04,127476
+US,Alabama,2020-05,377501
+US,Alabama,2020-06,812738
+US,Alabama,2020-07,1938938
+US,Alabama,2020-08,3358162
+US,Alabama,2020-09,4214797
+US,Alabama,2020-10,5351525
+US,Alabama,2020-11,6594967
+US,Alabama,2020-12,9513716
+US,Alabama,2021-01,12918813
+US,Alabama,2021-02,13436108
+US,Alabama,2021-03,15701638
+US,Alabama,2021-04,15647349
+US,Alabama,2021-05,16644019
+US,Alabama,2021-06,16436393
+US,Alabama,2021-07,17403982
+US,Alabama,2021-08,19824481
+US,Alabama,2021-09,22697489
+US,Alabama,2021-10,25232343
+US,Alabama,2021-11,25199142
+US,Alabama,2021-12,26636596
+US,Alabama,2022-01,32662269
+US,Alabama,2022-02,35299657
+US,Alabama,2022-03,39968914
+US,Alabama,2022-04,32436562
+US,Alaska,2020-01,0
+US,Alaska,2020-02,0
+US,Alaska,2020-03,808
+US,Alaska,2020-04,8403
+US,Alaska,2020-05,12588
+US,Alaska,2020-06,23332
+US,Alaska,2020-07,68426
+US,Alaska,2020-08,156847
+US,Alaska,2020-09,222884
+US,Alaska,2020-10,370876
+US,Alaska,2020-11,725439
+US,Alaska,2020-12,1286130
+US,Alaska,2021-01,1592043
+US,Alaska,2021-02,1584216
+US,Alaska,2021-03,1883029
+US,Alaska,2021-04,1971363
+US,Alaska,2021-05,2152331
+US,Alaska,2021-06,2123004
+US,Alaska,2021-07,2255515
+US,Alaska,2021-08,2523878
+US,Alaska,2021-09,2992768
+US,Alaska,2021-10,3952314
+US,Alaska,2021-11,4379464
+US,Alaska,2021-12,4780751
+US,Alaska,2022-01,5663361
+US,Alaska,2022-02,6494968
+US,Alaska,2022-03,7558325
+US,Alaska,2022-04,6238302
+US,American Samoa,2020-01,0
+US,American Samoa,2020-02,0
+US,American Samoa,2020-03,0
+US,American Samoa,2020-04,0
+US,American Samoa,2020-05,0
+US,American Samoa,2020-06,0
+US,American Samoa,2020-07,0
+US,American Samoa,2020-08,0
+US,American Samoa,2020-09,0
+US,American Samoa,2020-10,0
+US,American Samoa,2020-11,0
+US,American Samoa,2020-12,0
+US,American Samoa,2021-01,0
+US,American Samoa,2021-02,0
+US,American Samoa,2021-03,0
+US,American Samoa,2021-04,0
+US,American Samoa,2021-05,0
+US,American Samoa,2021-06,0
+US,American Samoa,2021-07,0
+US,American Samoa,2021-08,0
+US,American Samoa,2021-09,12
+US,American Samoa,2021-10,96
+US,American Samoa,2021-11,143
+US,American Samoa,2021-12,322
+US,American Samoa,2022-01,516
+US,American Samoa,2022-02,1575
+US,American Samoa,2022-03,36554
+US,American Samoa,2022-04,129286
+US,Arizona,2020-01,6
+US,Arizona,2020-02,29
+US,Arizona,2020-03,6783
+US,Arizona,2020-04,128753
+US,Arizona,2020-05,417640
+US,Arizona,2020-06,1294975
+US,Arizona,2020-07,4103132
+US,Arizona,2020-08,5950207
+US,Arizona,2020-09,6319715
+US,Arizona,2020-10,7141160
+US,Arizona,2020-11,8435286
+US,Arizona,2020-12,13273679
+US,Arizona,2021-01,20393424
+US,Arizona,2021-02,22250257
+US,Arizona,2021-03,25797716
+US,Arizona,2021-04,25567822
+US,Arizona,2021-05,27054387
+US,Arizona,2021-06,26637712
+US,Arizona,2021-07,28137932
+US,Arizona,2021-08,30036830
+US,Arizona,2021-09,31702901
+US,Arizona,2021-10,35077978
+US,Arizona,2021-11,36605385
+US,Arizona,2021-12,41114969
+US,Arizona,2022-01,49955467
+US,Arizona,2022-02,54448587
+US,Arizona,2022-03,61664125
+US,Arizona,2022-04,50359823
+US,Arkansas,2020-01,0
+US,Arkansas,2020-02,0
+US,Arkansas,2020-03,3721
+US,Arkansas,2020-04,52677
+US,Arkansas,2020-05,150164
+US,Arkansas,2020-06,402154
+US,Arkansas,2020-07,972505
+US,Arkansas,2020-08,1633912
+US,Arkansas,2020-09,2167050
+US,Arkansas,2020-10,3025302
+US,Arkansas,2020-11,4031431
+US,Arkansas,2020-12,5960217
+US,Arkansas,2021-01,8247175
+US,Arkansas,2021-02,8718837
+US,Arkansas,2021-03,10140927
+US,Arkansas,2021-04,9990989
+US,Arkansas,2021-05,10502727
+US,Arkansas,2021-06,10342559
+US,Arkansas,2021-07,11285956
+US,Arkansas,2021-08,13065966
+US,Arkansas,2021-09,14359207
+US,Arkansas,2021-10,15679023
+US,Arkansas,2021-11,15627896
+US,Arkansas,2021-12,16826185
+US,Arkansas,2022-01,20963225
+US,Arkansas,2022-02,22573689
+US,Arkansas,2022-03,25662056
+US,Arkansas,2022-04,20849251
+US,California,2020-01,13
+US,California,2020-02,244
+US,California,2020-03,53289
+US,California,2020-04,854565
+US,California,2020-05,2492704
+US,California,2020-06,4972506
+US,California,2020-07,11609493
+US,California,2020-08,19293627
+US,California,2020-09,23161562
+US,California,2020-10,27240941
+US,California,2020-11,32213509
+US,California,2020-12,55733127
+US,California,2021-01,92589439
+US,California,2021-02,98974133
+US,California,2021-03,114251086
+US,California,2021-04,113168181
+US,California,2021-05,118806405
+US,California,2021-06,116127508
+US,California,2021-07,122152535
+US,California,2021-08,131777543
+US,California,2021-09,138676447
+US,California,2021-10,149878919
+US,California,2021-11,150310978
+US,California,2021-12,161894570
+US,California,2022-01,218566805
+US,California,2022-02,246636373
+US,California,2022-03,280718771
+US,California,2022-04,228771786
+US,Colorado,2020-01,0
+US,Colorado,2020-02,0
+US,Colorado,2020-03,18579
+US,Colorado,2020-04,264414
+US,Colorado,2020-05,662304
+US,Colorado,2020-06,886864
+US,Colorado,2020-07,1213687
+US,Colorado,2020-08,1636988
+US,Colorado,2020-09,1896041
+US,Colorado,2020-10,2637741
+US,Colorado,2020-11,5023534
+US,Colorado,2020-12,9086576
+US,Colorado,2021-01,11481062
+US,Colorado,2021-02,11573317
+US,Colorado,2021-03,13810806
+US,Colorado,2021-04,14590987
+US,Colorado,2021-05,16433069
+US,Colorado,2021-06,16545319
+US,Colorado,2021-07,17535074
+US,Colorado,2021-08,18406553
+US,Colorado,2021-09,19330171
+US,Colorado,2021-10,21885481
+US,Colorado,2021-11,23708582
+US,Colorado,2021-12,26901271
+US,Colorado,2022-01,34294310
+US,Colorado,2022-02,36153210
+US,Colorado,2022-03,41212688
+US,Colorado,2022-04,34045687
+US,Connecticut,2020-01,0
+US,Connecticut,2020-02,0
+US,Connecticut,2020-03,14573
+US,Connecticut,2020-04,466219
+US,Connecticut,2020-05,1124193
+US,Connecticut,2020-06,1348657
+US,Connecticut,2020-07,1483675
+US,Connecticut,2020-08,1585462
+US,Connecticut,2020-09,1651324
+US,Connecticut,2020-10,1961272
+US,Connecticut,2020-11,2784124
+US,Connecticut,2020-12,4793649
+US,Connecticut,2021-01,6900960
+US,Connecticut,2021-02,7518722
+US,Connecticut,2021-03,9132642
+US,Connecticut,2021-04,9809247
+US,Connecticut,2021-05,10682683
+US,Connecticut,2021-06,10455337
+US,Connecticut,2021-07,10883232
+US,Connecticut,2021-08,11268515
+US,Connecticut,2021-09,11466034
+US,Connecticut,2021-10,12310808
+US,Connecticut,2021-11,12324716
+US,Connecticut,2021-12,14150773
+US,Connecticut,2022-01,19514368
+US,Connecticut,2022-02,20004481
+US,Connecticut,2022-03,22647572
+US,Connecticut,2022-04,18609339
+US,Delaware,2020-01,0
+US,Delaware,2020-02,0
+US,Delaware,2020-03,1844
+US,Delaware,2020-04,67466
+US,Delaware,2020-05,229083
+US,Delaware,2020-06,312601
+US,Delaware,2020-07,410198
+US,Delaware,2020-08,503506
+US,Delaware,2020-09,572135
+US,Delaware,2020-10,706558
+US,Delaware,2020-11,883967
+US,Delaware,2020-12,1466659
+US,Delaware,2021-01,2135494
+US,Delaware,2021-02,2317309
+US,Delaware,2021-03,2815506
+US,Delaware,2021-04,3000969
+US,Delaware,2021-05,3318997
+US,Delaware,2021-06,3281533
+US,Delaware,2021-07,3421377
+US,Delaware,2021-08,3567960
+US,Delaware,2021-09,3797367
+US,Delaware,2021-10,4321484
+US,Delaware,2021-11,4455662
+US,Delaware,2021-12,5091823
+US,Delaware,2022-01,6874293
+US,Delaware,2022-02,7095898
+US,Delaware,2022-03,8006138
+US,Delaware,2022-04,6503842
+US,Diamond Princess,2020-01,0
+US,Diamond Princess,2020-02,0
+US,Diamond Princess,2020-03,729
+US,Diamond Princess,2020-04,1470
+US,Diamond Princess,2020-05,1519
+US,Diamond Princess,2020-06,1470
+US,Diamond Princess,2020-07,1519
+US,Diamond Princess,2020-08,1519
+US,Diamond Princess,2020-09,1470
+US,Diamond Princess,2020-10,1519
+US,Diamond Princess,2020-11,1470
+US,Diamond Princess,2020-12,1519
+US,Diamond Princess,2021-01,1519
+US,Diamond Princess,2021-02,1372
+US,Diamond Princess,2021-03,1519
+US,Diamond Princess,2021-04,1470
+US,Diamond Princess,2021-05,1519
+US,Diamond Princess,2021-06,1470
+US,Diamond Princess,2021-07,1519
+US,Diamond Princess,2021-08,1519
+US,Diamond Princess,2021-09,1470
+US,Diamond Princess,2021-10,1519
+US,Diamond Princess,2021-11,1470
+US,Diamond Princess,2021-12,1519
+US,Diamond Princess,2022-01,1519
+US,Diamond Princess,2022-02,1372
+US,Diamond Princess,2022-03,1519
+US,Diamond Princess,2022-04,1225
+US,District of Columbia,2020-01,0
+US,District of Columbia,2020-02,0
+US,District of Columbia,2020-03,2878
+US,District of Columbia,2020-04,70954
+US,District of Columbia,2020-05,215106
+US,District of Columbia,2020-06,291828
+US,District of Columbia,2020-07,345436
+US,District of Columbia,2020-08,407811
+US,District of Columbia,2020-09,441242
+US,District of Columbia,2020-10,503613
+US,District of Columbia,2020-11,575533
+US,District of Columbia,2020-12,790037
+US,District of Columbia,2021-01,1030286
+US,District of Columbia,2021-02,1088107
+US,District of Columbia,2021-03,1321799
+US,District of Columbia,2021-04,1388929
+US,District of Columbia,2021-05,1502192
+US,District of Columbia,2021-06,1475944
+US,District of Columbia,2021-07,1541828
+US,District of Columbia,2021-08,1633332
+US,District of Columbia,2021-09,1749115
+US,District of Columbia,2021-10,1952231
+US,District of Columbia,2021-11,1969488
+US,District of Columbia,2021-12,2310903
+US,District of Columbia,2022-01,3694684
+US,District of Columbia,2022-02,3724870
+US,District of Columbia,2022-03,4202436
+US,District of Columbia,2022-04,3472596
+US,Florida,2020-01,0
+US,Florida,2020-02,0
+US,Florida,2020-03,33497
+US,Florida,2020-04,668452
+US,Florida,2020-05,1396266
+US,Florida,2020-06,2637866
+US,Florida,2020-07,9746886
+US,Florida,2020-08,17470128
+US,Florida,2020-09,20108587
+US,Florida,2020-10,23278925
+US,Florida,2020-11,26828872
+US,Florida,2020-12,35950919
+US,Florida,2021-01,47886722
+US,Florida,2021-02,51110285
+US,Florida,2021-03,61554303
+US,Florida,2021-04,64514411
+US,Florida,2021-05,70924763
+US,Florida,2021-06,70395623
+US,Florida,2021-07,75953211
+US,Florida,2021-08,91121919
+US,Florida,2021-09,104089489
+US,Florida,2021-10,113329514
+US,Florida,2021-11,111320630
+US,Florida,2021-12,118409818
+US,Florida,2022-01,154472528
+US,Florida,2022-02,160996769
+US,Florida,2022-03,181889429
+US,Florida,2022-04,147654848
+US,Georgia,2020-01,0
+US,Georgia,2020-02,0
+US,Georgia,2020-03,21050
+US,Georgia,2020-04,465883
+US,Georgia,2020-05,1157327
+US,Georgia,2020-06,1822772
+US,Georgia,2020-07,4114740
+US,Georgia,2020-08,7260641
+US,Georgia,2020-09,8926776
+US,Georgia,2020-10,10489420
+US,Georgia,2020-11,12809840
+US,Georgia,2020-12,17500247
+US,Georgia,2021-01,24831364
+US,Georgia,2021-02,26992282
+US,Georgia,2021-03,32140488
+US,Georgia,2021-04,32411603
+US,Georgia,2021-05,34551307
+US,Georgia,2021-06,33882795
+US,Georgia,2021-07,35636790
+US,Georgia,2021-08,39633591
+US,Georgia,2021-09,45185390
+US,Georgia,2021-10,50000887
+US,Georgia,2021-11,49501949
+US,Georgia,2021-12,52916815
+US,Georgia,2022-01,65646927
+US,Georgia,2022-02,68180566
+US,Georgia,2022-03,76869599
+US,Georgia,2022-04,62626187
+US,Grand Princess,2020-01,0
+US,Grand Princess,2020-02,0
+US,Grand Princess,2020-03,712
+US,Grand Princess,2020-04,3090
+US,Grand Princess,2020-05,3193
+US,Grand Princess,2020-06,3090
+US,Grand Princess,2020-07,3193
+US,Grand Princess,2020-08,3193
+US,Grand Princess,2020-09,3090
+US,Grand Princess,2020-10,3193
+US,Grand Princess,2020-11,3090
+US,Grand Princess,2020-12,3193
+US,Grand Princess,2021-01,3193
+US,Grand Princess,2021-02,2884
+US,Grand Princess,2021-03,3193
+US,Grand Princess,2021-04,3090
+US,Grand Princess,2021-05,3193
+US,Grand Princess,2021-06,3090
+US,Grand Princess,2021-07,3193
+US,Grand Princess,2021-08,3193
+US,Grand Princess,2021-09,3090
+US,Grand Princess,2021-10,3193
+US,Grand Princess,2021-11,3090
+US,Grand Princess,2021-12,3193
+US,Grand Princess,2022-01,3193
+US,Grand Princess,2022-02,2884
+US,Grand Princess,2022-03,3193
+US,Grand Princess,2022-04,2575
+US,Guam,2020-01,0
+US,Guam,2020-02,0
+US,Guam,2020-03,511
+US,Guam,2020-04,3809
+US,Guam,2020-05,4858
+US,Guam,2020-06,6064
+US,Guam,2020-07,9821
+US,Guam,2020-08,21263
+US,Guam,2020-09,59481
+US,Guam,2020-10,110463
+US,Guam,2020-11,178845
+US,Guam,2020-12,221174
+US,Guam,2021-01,231484
+US,Guam,2021-02,215199
+US,Guam,2021-03,240949
+US,Guam,2021-04,236100
+US,Guam,2021-05,250617
+US,Guam,2021-06,247822
+US,Guam,2021-07,262278
+US,Guam,2021-08,285384
+US,Guam,2021-09,388119
+US,Guam,2021-10,520521
+US,Guam,2021-11,566737
+US,Guam,2021-12,600359
+US,Guam,2022-01,760410
+US,Guam,2022-02,1121070
+US,Guam,2022-03,1438000
+US,Guam,2022-04,1191408
+US,Hawaii,2020-01,0
+US,Hawaii,2020-02,0
+US,Hawaii,2020-03,1320
+US,Hawaii,2020-04,14957
+US,Hawaii,2020-05,19741
+US,Hawaii,2020-06,22662
+US,Hawaii,2020-07,41972
+US,Hawaii,2020-08,157592
+US,Hawaii,2020-09,328183
+US,Hawaii,2020-10,434994
+US,Hawaii,2020-11,504871
+US,Hawaii,2020-12,623187
+US,Hawaii,2021-01,765480
+US,Hawaii,2021-02,772397
+US,Hawaii,2021-03,912703
+US,Hawaii,2021-04,972930
+US,Hawaii,2021-05,1092491
+US,Hawaii,2021-06,1112325
+US,Hawaii,2021-07,1219212
+US,Hawaii,2021-08,1612776
+US,Hawaii,2021-09,2189458
+US,Hawaii,2021-10,2546612
+US,Hawaii,2021-11,2581023
+US,Hawaii,2021-12,2910476
+US,Hawaii,2022-01,5281135
+US,Hawaii,2022-02,6461227
+US,Hawaii,2022-03,7389684
+US,Hawaii,2022-04,6070997
+US,Idaho,2020-01,0
+US,Idaho,2020-02,0
+US,Idaho,2020-03,2132
+US,Idaho,2020-04,44534
+US,Idaho,2020-05,74576
+US,Idaho,2020-06,115391
+US,Idaho,2020-07,408987
+US,Idaho,2020-08,843404
+US,Idaho,2020-09,1095109
+US,Idaho,2020-10,1624120
+US,Idaho,2020-11,2496748
+US,Idaho,2020-12,3846737
+US,Idaho,2021-01,4763931
+US,Idaho,2021-02,4691503
+US,Idaho,2021-03,5456929
+US,Idaho,2021-04,5531237
+US,Idaho,2021-05,5892676
+US,Idaho,2021-06,5813278
+US,Idaho,2021-07,6109924
+US,Idaho,2021-08,6510782
+US,Idaho,2021-09,7167422
+US,Idaho,2021-10,8559534
+US,Idaho,2021-11,9019786
+US,Idaho,2021-12,9710404
+US,Idaho,2022-01,10703314
+US,Idaho,2022-02,11364708
+US,Idaho,2022-03,13607008
+US,Idaho,2022-04,11122564
+US,Illinois,2020-01,9
+US,Illinois,2020-02,58
+US,Illinois,2020-03,33001
+US,Illinois,2020-04,802339
+US,Illinois,2020-05,2817238
+US,Illinois,2020-06,3992626
+US,Illinois,2020-07,4964947
+US,Illinois,2020-08,6454930
+US,Illinois,2020-09,8037477
+US,Illinois,2020-10,10690588
+US,Illinois,2020-11,17311582
+US,Illinois,2020-12,26767345
+US,Illinois,2021-01,32760433
+US,Illinois,2021-02,32502745
+US,Illinois,2021-03,37634271
+US,Illinois,2021-04,38776019
+US,Illinois,2021-05,42286389
+US,Illinois,2021-06,41633595
+US,Illinois,2021-07,43462380
+US,Illinois,2021-08,45504491
+US,Illinois,2021-09,47405296
+US,Illinois,2021-10,51628096
+US,Illinois,2021-11,52453318
+US,Illinois,2021-12,60408772
+US,Illinois,2022-01,80469683
+US,Illinois,2022-02,83819983
+US,Illinois,2022-03,94557527
+US,Illinois,2022-04,77272016
+US,Indiana,2020-01,0
+US,Indiana,2020-02,0
+US,Indiana,2020-03,10086
+US,Indiana,2020-04,289747
+US,Indiana,2020-05,838266
+US,Indiana,2020-06,1210849
+US,Indiana,2020-07,1703054
+US,Indiana,2020-08,2488354
+US,Indiana,2020-09,3224126
+US,Indiana,2020-10,4512410
+US,Indiana,2020-11,7676680
+US,Indiana,2020-12,13534082
+US,Indiana,2021-01,17994078
+US,Indiana,2021-02,18130589
+US,Indiana,2021-03,20894718
+US,Indiana,2021-04,21118723
+US,Indiana,2021-05,22765707
+US,Indiana,2021-06,22490878
+US,Indiana,2021-07,23586671
+US,Indiana,2021-08,25027364
+US,Indiana,2021-09,27541540
+US,Indiana,2021-10,30949675
+US,Indiana,2021-11,31775131
+US,Indiana,2021-12,36369772
+US,Indiana,2022-01,44722684
+US,Indiana,2022-02,46605945
+US,Indiana,2022-03,52311271
+US,Indiana,2022-04,42345607
+US,Iowa,2020-01,0
+US,Iowa,2020-02,0
+US,Iowa,2020-03,2766
+US,Iowa,2020-04,83617
+US,Iowa,2020-05,439993
+US,Iowa,2020-06,729137
+US,Iowa,2020-07,1151285
+US,Iowa,2020-08,1650679
+US,Iowa,2020-09,2312022
+US,Iowa,2020-10,3288522
+US,Iowa,2020-11,5540180
+US,Iowa,2020-12,8062632
+US,Iowa,2021-01,9401451
+US,Iowa,2021-02,9217101
+US,Iowa,2021-03,10664587
+US,Iowa,2021-04,10763784
+US,Iowa,2021-05,11439930
+US,Iowa,2021-06,11182194
+US,Iowa,2021-07,11646630
+US,Iowa,2021-08,12112022
+US,Iowa,2021-09,12854738
+US,Iowa,2021-10,14551926
+US,Iowa,2021-11,15178589
+US,Iowa,2021-12,17120655
+US,Iowa,2022-01,20012662
+US,Iowa,2022-02,20685829
+US,Iowa,2022-03,23464340
+US,Iowa,2022-04,19007257
+US,Kansas,2020-01,0
+US,Kansas,2020-02,0
+US,Kansas,2020-03,2384
+US,Kansas,2020-04,56193
+US,Kansas,2020-05,238563
+US,Kansas,2020-06,349925
+US,Kansas,2020-07,648405
+US,Kansas,2020-08,1067824
+US,Kansas,2020-09,1545724
+US,Kansas,2020-10,2265517
+US,Kansas,2020-11,3692504
+US,Kansas,2020-12,6044140
+US,Kansas,2021-01,7938965
+US,Kansas,2021-02,8091318
+US,Kansas,2021-03,9315474
+US,Kansas,2021-04,9211785
+US,Kansas,2021-05,9712554
+US,Kansas,2021-06,9516769
+US,Kansas,2021-07,10060765
+US,Kansas,2021-08,10880899
+US,Kansas,2021-09,11791359
+US,Kansas,2021-10,13141453
+US,Kansas,2021-11,13537528
+US,Kansas,2021-12,15337147
+US,Kansas,2022-01,19417504
+US,Kansas,2022-02,21135681
+US,Kansas,2022-03,23853555
+US,Kansas,2022-04,19303682
+US,Kentucky,2020-01,0
+US,Kentucky,2020-02,0
+US,Kentucky,2020-03,3412
+US,Kentucky,2020-04,73553
+US,Kentucky,2020-05,230298
+US,Kentucky,2020-06,384473
+US,Kentucky,2020-07,678552
+US,Kentucky,2020-08,1218174
+US,Kentucky,2020-09,1760913
+US,Kentucky,2020-10,2676418
+US,Kentucky,2020-11,4224498
+US,Kentucky,2020-12,7088258
+US,Kentucky,2021-01,9924537
+US,Kentucky,2021-02,10853882
+US,Kentucky,2021-03,12928476
+US,Kentucky,2021-04,13072661
+US,Kentucky,2021-05,14021186
+US,Kentucky,2021-06,13875337
+US,Kentucky,2021-07,14608150
+US,Kentucky,2021-08,16254287
+US,Kentucky,2021-09,19206045
+US,Kentucky,2021-10,22410099
+US,Kentucky,2021-11,22951798
+US,Kentucky,2021-12,25498550
+US,Kentucky,2022-01,30973077
+US,Kentucky,2022-02,34613130
+US,Kentucky,2022-03,40179026
+US,Kentucky,2022-04,33011062
+US,Louisiana,2020-01,0
+US,Louisiana,2020-02,0
+US,Louisiana,2020-03,28834
+US,Louisiana,2020-04,625159
+US,Louisiana,2020-05,1058228
+US,Louisiana,2020-06,1432634
+US,Louisiana,2020-07,2693146
+US,Louisiana,2020-08,4225383
+US,Louisiana,2020-09,4777864
+US,Louisiana,2020-10,5504935
+US,Louisiana,2020-11,6222999
+US,Louisiana,2020-12,8533266
+US,Louisiana,2021-01,11214867
+US,Louisiana,2021-02,11714047
+US,Louisiana,2021-03,13580984
+US,Louisiana,2021-04,13546142
+US,Louisiana,2021-05,14424607
+US,Louisiana,2021-06,14293906
+US,Louisiana,2021-07,15543705
+US,Louisiana,2021-08,19308469
+US,Louisiana,2021-09,21566484
+US,Louisiana,2021-10,23291438
+US,Louisiana,2021-11,22963406
+US,Louisiana,2021-12,24343699
+US,Louisiana,2022-01,30732569
+US,Louisiana,2022-02,32168752
+US,Louisiana,2022-03,36160826
+US,Louisiana,2022-04,29251850
+US,Maine,2020-01,0
+US,Maine,2020-02,0
+US,Maine,2020-03,2086
+US,Maine,2020-04,22293
+US,Maine,2020-05,52159
+US,Maine,2020-06,84059
+US,Maine,2020-07,112032
+US,Maine,2020-08,129951
+US,Maine,2020-09,148340
+US,Maine,2020-10,183325
+US,Maine,2020-11,274047
+US,Maine,2020-12,542939
+US,Maine,2021-01,1009208
+US,Maine,2021-02,1187867
+US,Maine,2021-03,1472340
+US,Maine,2021-04,1682201
+US,Maine,2021-05,2025473
+US,Maine,2021-06,2057596
+US,Maine,2021-07,2155577
+US,Maine,2021-08,2257805
+US,Maine,2021-09,2474529
+US,Maine,2021-10,3022039
+US,Maine,2021-11,3373596
+US,Maine,2021-12,4137044
+US,Maine,2022-01,4973626
+US,Maine,2022-02,5593312
+US,Maine,2022-03,7212520
+US,Maine,2022-04,5972304
+US,Maryland,2020-01,0
+US,Maryland,2020-02,0
+US,Maryland,2020-03,8723
+US,Maryland,2020-04,326346
+US,Maryland,2020-05,1183128
+US,Maryland,2020-06,1848484
+US,Maryland,2020-07,2374558
+US,Maryland,2020-08,3086997
+US,Maryland,2020-09,3518380
+US,Maryland,2020-10,4172581
+US,Maryland,2020-11,5073482
+US,Maryland,2020-12,7449058
+US,Maryland,2021-01,9934465
+US,Maryland,2021-02,10364019
+US,Maryland,2021-03,12265756
+US,Maryland,2021-04,12945885
+US,Maryland,2021-05,14113843
+US,Maryland,2021-06,13839592
+US,Maryland,2021-07,14395070
+US,Maryland,2021-08,14928232
+US,Maryland,2021-09,15449608
+US,Maryland,2021-10,17009803
+US,Maryland,2021-11,17192901
+US,Maryland,2021-12,19406305
+US,Maryland,2022-01,27667921
+US,Maryland,2022-02,27804948
+US,Maryland,2022-03,31230250
+US,Maryland,2022-04,25458730
+US,Massachusetts,2020-01,3
+US,Massachusetts,2020-02,53
+US,Massachusetts,2020-03,66502
+US,Massachusetts,2020-04,1126995
+US,Massachusetts,2020-05,2661548
+US,Massachusetts,2020-06,3047913
+US,Massachusetts,2020-07,3342964
+US,Massachusetts,2020-08,3608342
+US,Massachusetts,2020-09,3778922
+US,Massachusetts,2020-10,4449113
+US,Massachusetts,2020-11,5713002
+US,Massachusetts,2020-12,9388617
+US,Massachusetts,2021-01,14211219
+US,Massachusetts,2021-02,15581812
+US,Massachusetts,2021-03,18804214
+US,Massachusetts,2021-04,19984577
+US,Massachusetts,2021-05,21720180
+US,Massachusetts,2021-06,21266782
+US,Massachusetts,2021-07,22108435
+US,Massachusetts,2021-08,22889238
+US,Massachusetts,2021-09,23591151
+US,Massachusetts,2021-10,25831963
+US,Massachusetts,2021-11,26481620
+US,Massachusetts,2021-12,31160689
+US,Massachusetts,2022-01,44009138
+US,Massachusetts,2022-02,46212034
+US,Massachusetts,2022-03,52217745
+US,Massachusetts,2022-04,42979782
+US,Michigan,2020-01,0
+US,Michigan,2020-02,0
+US,Michigan,2020-03,41117
+US,Michigan,2020-04,852025
+US,Michigan,2020-05,1676993
+US,Michigan,2020-06,1998577
+US,Michigan,2020-07,2479119
+US,Michigan,2020-08,3160703
+US,Michigan,2020-09,3762272
+US,Michigan,2020-10,5003610
+US,Michigan,2020-11,8622873
+US,Michigan,2020-12,14725689
+US,Michigan,2021-01,17902298
+US,Michigan,2021-02,17638914
+US,Michigan,2021-03,21206155
+US,Michigan,2021-04,25604460
+US,Michigan,2021-05,30177928
+US,Michigan,2021-06,29915912
+US,Michigan,2021-07,31119466
+US,Michigan,2021-08,32033282
+US,Michigan,2021-09,33112910
+US,Michigan,2021-10,37760068
+US,Michigan,2021-11,41215064
+US,Michigan,2021-12,49614545
+US,Michigan,2022-01,62015091
+US,Michigan,2022-02,65118284
+US,Michigan,2022-03,73631295
+US,Michigan,2022-04,59976099
+US,Minnesota,2020-01,0
+US,Minnesota,2020-02,0
+US,Minnesota,2020-03,4439
+US,Minnesota,2020-04,65127
+US,Minnesota,2020-05,469276
+US,Minnesota,2020-06,924504
+US,Minnesota,2020-07,1387465
+US,Minnesota,2020-08,2018898
+US,Minnesota,2020-09,2607218
+US,Minnesota,2020-10,3739159
+US,Minnesota,2020-11,6849584
+US,Minnesota,2020-12,11792353
+US,Minnesota,2021-01,13723942
+US,Minnesota,2021-02,13261675
+US,Minnesota,2021-03,15509201
+US,Minnesota,2021-04,16494761
+US,Minnesota,2021-05,18369072
+US,Minnesota,2021-06,18114709
+US,Minnesota,2021-07,18846690
+US,Minnesota,2021-08,19491238
+US,Minnesota,2021-09,20332101
+US,Minnesota,2021-10,23357624
+US,Minnesota,2021-11,25595463
+US,Minnesota,2021-12,30103254
+US,Minnesota,2022-01,35908989
+US,Minnesota,2022-02,38881238
+US,Minnesota,2022-03,44116611
+US,Minnesota,2022-04,35910622
+US,Mississippi,2020-01,0
+US,Mississippi,2020-02,0
+US,Mississippi,2020-03,5779
+US,Mississippi,2020-04,109721
+US,Mississippi,2020-05,344106
+US,Mississippi,2020-06,613191
+US,Mississippi,2020-07,1278358
+US,Mississippi,2020-08,2235453
+US,Mississippi,2020-09,2734173
+US,Mississippi,2020-10,3374433
+US,Mississippi,2020-11,4059206
+US,Mississippi,2020-12,5744183
+US,Mississippi,2021-01,7705630
+US,Mississippi,2021-02,8019031
+US,Mississippi,2021-03,9323406
+US,Mississippi,2021-04,9256975
+US,Mississippi,2021-05,9763821
+US,Mississippi,2021-06,9586090
+US,Mississippi,2021-07,10199462
+US,Mississippi,2021-08,12077301
+US,Mississippi,2021-09,14024295
+US,Mississippi,2021-10,15426521
+US,Mississippi,2021-11,15283585
+US,Mississippi,2021-12,16223948
+US,Mississippi,2022-01,19834962
+US,Mississippi,2022-02,21680609
+US,Mississippi,2022-03,24578964
+US,Mississippi,2022-04,19900197
+US,Missouri,2020-01,0
+US,Missouri,2020-02,0
+US,Missouri,2020-03,8243
+US,Missouri,2020-04,154841
+US,Missouri,2020-05,342753
+US,Missouri,2020-06,519169
+US,Missouri,2020-07,1044352
+US,Missouri,2020-08,2140723
+US,Missouri,2020-09,3301946
+US,Missouri,2020-10,4965230
+US,Missouri,2020-11,7744876
+US,Missouri,2020-12,11977072
+US,Missouri,2021-01,15338937
+US,Missouri,2021-02,15429718
+US,Missouri,2021-03,17745838
+US,Missouri,2021-04,17616248
+US,Missouri,2021-05,18600385
+US,Missouri,2021-06,18452761
+US,Missouri,2021-07,20197309
+US,Missouri,2021-08,22581014
+US,Missouri,2021-09,23942668
+US,Missouri,2021-10,26192737
+US,Missouri,2021-11,26512296
+US,Missouri,2021-12,29738039
+US,Missouri,2022-01,36742046
+US,Missouri,2022-02,38664103
+US,Missouri,2022-03,43698902
+US,Missouri,2022-04,35457362
+US,Montana,2020-01,0
+US,Montana,2020-02,0
+US,Montana,2020-03,1129
+US,Montana,2020-04,11461
+US,Montana,2020-05,14580
+US,Montana,2020-06,19785
+US,Montana,2020-07,70538
+US,Montana,2020-08,176785
+US,Montana,2020-09,292908
+US,Montana,2020-10,682761
+US,Montana,2020-11,1436108
+US,Montana,2020-12,2292221
+US,Montana,2021-01,2740156
+US,Montana,2021-02,2725683
+US,Montana,2021-03,3170488
+US,Montana,2021-04,3203334
+US,Montana,2021-05,3427644
+US,Montana,2021-06,3387680
+US,Montana,2021-07,3557473
+US,Montana,2021-08,3751598
+US,Montana,2021-09,4144778
+US,Montana,2021-10,5097734
+US,Montana,2021-11,5557073
+US,Montana,2021-12,6028258
+US,Montana,2022-01,6686787
+US,Montana,2022-02,7208628
+US,Montana,2022-03,8418183
+US,Montana,2022-04,6826068
+US,Nebraska,2020-01,0
+US,Nebraska,2020-02,0
+US,Nebraska,2020-03,1158
+US,Nebraska,2020-04,43377
+US,Nebraska,2020-05,304274
+US,Nebraska,2020-06,508283
+US,Nebraska,2020-07,691057
+US,Nebraska,2020-08,939365
+US,Nebraska,2020-09,1186691
+US,Nebraska,2020-10,1761850
+US,Nebraska,2020-11,3001791
+US,Nebraska,2020-12,4679901
+US,Nebraska,2021-01,5594996
+US,Nebraska,2021-02,5501718
+US,Nebraska,2021-03,6358430
+US,Nebraska,2021-04,6465927
+US,Nebraska,2021-05,6886335
+US,Nebraska,2021-06,6717215
+US,Nebraska,2021-07,7005331
+US,Nebraska,2021-08,7286241
+US,Nebraska,2021-09,7668120
+US,Nebraska,2021-10,8539775
+US,Nebraska,2021-11,8928662
+US,Nebraska,2021-12,10070951
+US,Nebraska,2022-01,12070952
+US,Nebraska,2022-02,12628303
+US,Nebraska,2022-03,14784841
+US,Nebraska,2022-04,11959349
+US,Nevada,2020-01,0
+US,Nevada,2020-02,0
+US,Nevada,2020-03,6328
+US,Nevada,2020-04,97567
+US,Nevada,2020-05,212955
+US,Nevada,2020-06,365159
+US,Nevada,2020-07,1011773
+US,Nevada,2020-08,1875155
+US,Nevada,2020-09,2234546
+US,Nevada,2020-10,2771863
+US,Nevada,2020-11,3704416
+US,Nevada,2020-12,5963163
+US,Nevada,2021-01,7958301
+US,Nevada,2021-02,8053078
+US,Nevada,2021-03,9279201
+US,Nevada,2021-04,9288644
+US,Nevada,2021-05,9932591
+US,Nevada,2021-06,9850974
+US,Nevada,2021-07,10649854
+US,Nevada,2021-08,11587313
+US,Nevada,2021-09,12208450
+US,Nevada,2021-10,13354257
+US,Nevada,2021-11,13480159
+US,Nevada,2021-12,14534546
+US,Nevada,2022-01,17628849
+US,Nevada,2022-02,18858302
+US,Nevada,2022-03,21580118
+US,Nevada,2022-04,17715660
+US,New Hampshire,2020-01,0
+US,New Hampshire,2020-02,0
+US,New Hampshire,2020-03,2040
+US,New Hampshire,2020-04,36047
+US,New Hampshire,2020-05,108945
+US,New Hampshire,2020-06,159718
+US,New Hampshire,2020-07,190988
+US,New Hampshire,2020-08,215951
+US,New Hampshire,2020-09,233029
+US,New Hampshire,2020-10,296776
+US,New Hampshire,2020-11,456915
+US,New Hampshire,2020-12,1045149
+US,New Hampshire,2021-01,1761160
+US,New Hampshire,2021-02,1990285
+US,New Hampshire,2021-03,2460709
+US,New Hampshire,2021-04,2707987
+US,New Hampshire,2021-05,3019160
+US,New Hampshire,2021-06,2974742
+US,New Hampshire,2021-07,3098482
+US,New Hampshire,2021-08,3215480
+US,New Hampshire,2021-09,3403061
+US,New Hampshire,2021-10,3958050
+US,New Hampshire,2021-11,4424101
+US,New Hampshire,2021-12,5603159
+US,New Hampshire,2022-01,7419417
+US,New Hampshire,2022-02,8101597
+US,New Hampshire,2022-03,9319350
+US,New Hampshire,2022-04,7621484
+US,New Jersey,2020-01,0
+US,New Jersey,2020-02,0
+US,New Jersey,2020-03,92434
+US,New Jersey,2020-04,2186712
+US,New Jersey,2020-05,4477514
+US,New Jersey,2020-06,5028481
+US,New Jersey,2020-07,5518455
+US,New Jersey,2020-08,5893152
+US,New Jersey,2020-09,6072160
+US,New Jersey,2020-10,7045542
+US,New Jersey,2020-11,9136804
+US,New Jersey,2020-12,14082856
+US,New Jersey,2021-01,19147564
+US,New Jersey,2021-02,20883256
+US,New Jersey,2021-03,26272466
+US,New Jersey,2021-04,28947207
+US,New Jersey,2021-05,31314056
+US,New Jersey,2021-06,30602614
+US,New Jersey,2021-07,31904594
+US,New Jersey,2021-08,32979088
+US,New Jersey,2021-09,33745664
+US,New Jersey,2021-10,36544256
+US,New Jersey,2021-11,36687262
+US,New Jersey,2021-12,41897297
+US,New Jersey,2022-01,60002200
+US,New Jersey,2022-02,60086912
+US,New Jersey,2022-03,67714719
+US,New Jersey,2022-04,55553625
+US,New Mexico,2020-01,0
+US,New Mexico,2020-02,0
+US,New Mexico,2020-03,1847
+US,New Mexico,2020-04,48579
+US,New Mexico,2020-05,177805
+US,New Mexico,2020-06,298313
+US,New Mexico,2020-07,504135
+US,New Mexico,2020-08,722003
+US,New Mexico,2020-09,815678
+US,New Mexico,2020-10,1131556
+US,New Mexico,2020-11,2072560
+US,New Mexico,2020-12,3811793
+US,New Mexico,2021-01,4991706
+US,New Mexico,2021-02,5048983
+US,New Mexico,2021-03,5848479
+US,New Mexico,2021-04,5839615
+US,New Mexico,2021-05,6223253
+US,New Mexico,2021-06,6131934
+US,New Mexico,2021-07,6429934
+US,New Mexico,2021-08,6841617
+US,New Mexico,2021-09,7291633
+US,New Mexico,2021-10,8190380
+US,New Mexico,2021-11,8869139
+US,New Mexico,2021-12,10366621
+US,New Mexico,2022-01,12705075
+US,New Mexico,2022-02,14035110
+US,New Mexico,2022-03,15981527
+US,New Mexico,2022-04,12989117
+US,New York,2020-01,0
+US,New York,2020-02,0
+US,New York,2020-03,459033
+US,New York,2020-04,6497427
+US,New York,2020-05,10799300
+US,New York,2020-06,11589235
+US,New York,2020-07,12634363
+US,New York,2020-08,13263222
+US,New York,2020-09,13469324
+US,New York,2020-10,15050023
+US,New York,2020-11,17200583
+US,New York,2020-12,25311941
+US,New York,2021-01,37738018
+US,New York,2021-02,43092026
+US,New York,2021-03,54448749
+US,New York,2021-04,59305995
+US,New York,2021-05,64552427
+US,New York,2021-06,63291737
+US,New York,2021-07,65943806
+US,New York,2021-08,68551270
+US,New York,2021-09,70629706
+US,New York,2021-10,77480492
+US,New York,2021-11,79218389
+US,New York,2021-12,92035228
+US,New York,2022-01,135406169
+US,New York,2022-02,136744368
+US,New York,2022-03,153656382
+US,New York,2022-04,126455218
+US,North Carolina,2020-01,0
+US,North Carolina,2020-02,0
+US,North Carolina,2020-03,10039
+US,North Carolina,2020-04,179801
+US,North Carolina,2020-05,595911
+US,North Carolina,2020-06,1424785
+US,North Carolina,2020-07,2990075
+US,North Carolina,2020-08,4641104
+US,North Carolina,2020-09,5804386
+US,North Carolina,2020-10,7494798
+US,North Carolina,2020-11,9488482
+US,North Carolina,2020-12,14021544
+US,North Carolina,2021-01,20448423
+US,North Carolina,2021-02,22931295
+US,North Carolina,2021-03,27522903
+US,North Carolina,2021-04,28240343
+US,North Carolina,2021-05,30658999
+US,North Carolina,2021-06,30264952
+US,North Carolina,2021-07,31788536
+US,North Carolina,2021-08,34825232
+US,North Carolina,2021-09,39359183
+US,North Carolina,2021-10,44771868
+US,North Carolina,2021-11,45209336
+US,North Carolina,2021-12,49214308
+US,North Carolina,2022-01,63502974
+US,North Carolina,2022-02,70841626
+US,North Carolina,2022-03,80987095
+US,North Carolina,2022-04,65955842
+US,North Dakota,2020-01,0
+US,North Dakota,2020-02,0
+US,North Dakota,2020-03,768
+US,North Dakota,2020-04,15777
+US,North Dakota,2020-05,58863
+US,North Dakota,2020-06,94172
+US,North Dakota,2020-07,152349
+US,North Dakota,2020-08,277850
+US,North Dakota,2020-09,505378
+US,North Dakota,2020-10,990962
+US,North Dakota,2020-11,1960548
+US,North Dakota,2020-12,2727698
+US,North Dakota,2021-01,2945978
+US,North Dakota,2021-02,2758854
+US,North Dakota,2021-03,3136864
+US,North Dakota,2021-04,3160235
+US,North Dakota,2021-05,3375114
+US,North Dakota,2021-06,3307693
+US,North Dakota,2021-07,3436743
+US,North Dakota,2021-08,3531537
+US,North Dakota,2021-09,3740540
+US,North Dakota,2021-10,4375111
+US,North Dakota,2021-11,4682862
+US,North Dakota,2021-12,5226477
+US,North Dakota,2022-01,6169641
+US,North Dakota,2022-02,6569980
+US,North Dakota,2022-03,7417508
+US,North Dakota,2022-04,6008230
+US,Northern Mariana Islands,2020-01,0
+US,Northern Mariana Islands,2020-02,0
+US,Northern Mariana Islands,2020-03,4
+US,Northern Mariana Islands,2020-04,343
+US,Northern Mariana Islands,2020-05,581
+US,Northern Mariana Islands,2020-06,854
+US,Northern Mariana Islands,2020-07,1088
+US,Northern Mariana Islands,2020-08,1565
+US,Northern Mariana Islands,2020-09,1883
+US,Northern Mariana Islands,2020-10,2528
+US,Northern Mariana Islands,2020-11,3029
+US,Northern Mariana Islands,2020-12,3544
+US,Northern Mariana Islands,2021-01,3963
+US,Northern Mariana Islands,2021-02,3816
+US,Northern Mariana Islands,2021-03,4713
+US,Northern Mariana Islands,2021-04,4841
+US,Northern Mariana Islands,2021-05,5398
+US,Northern Mariana Islands,2021-06,5490
+US,Northern Mariana Islands,2021-07,5782
+US,Northern Mariana Islands,2021-08,6705
+US,Northern Mariana Islands,2021-09,7686
+US,Northern Mariana Islands,2021-10,8824
+US,Northern Mariana Islands,2021-11,14134
+US,Northern Mariana Islands,2021-12,64872
+US,Northern Mariana Islands,2022-01,123276
+US,Northern Mariana Islands,2022-02,212782
+US,Northern Mariana Islands,2022-03,326934
+US,Northern Mariana Islands,2022-04,279796
+US,Ohio,2020-01,0
+US,Ohio,2020-02,0
+US,Ohio,2020-03,12091
+US,Ohio,2020-04,287175
+US,Ohio,2020-05,847463
+US,Ohio,2020-06,1279995
+US,Ohio,2020-07,2204114
+US,Ohio,2020-08,3343490
+US,Ohio,2020-09,4190394
+US,Ohio,2020-10,5591170
+US,Ohio,2020-11,9233749
+US,Ohio,2020-12,17895406
+US,Ohio,2021-01,25171154
+US,Ohio,2021-02,26258115
+US,Ohio,2021-03,30773162
+US,Ohio,2021-04,31421750
+US,Ohio,2021-05,33790138
+US,Ohio,2021-06,33224014
+US,Ohio,2021-07,34648858
+US,Ohio,2021-08,36173600
+US,Ohio,2021-09,39659430
+US,Ohio,2021-10,46154452
+US,Ohio,2021-11,48455621
+US,Ohio,2021-12,56765035
+US,Ohio,2022-01,72614393
+US,Ohio,2022-02,73656604
+US,Ohio,2022-03,82594836
+US,Ohio,2022-04,66984903
+US,Oklahoma,2020-01,0
+US,Oklahoma,2020-02,0
+US,Oklahoma,2020-03,3054
+US,Oklahoma,2020-04,67773
+US,Oklahoma,2020-05,160426
+US,Oklahoma,2020-06,277700
+US,Oklahoma,2020-07,738401
+US,Oklahoma,2020-08,1492788
+US,Oklahoma,2020-09,2178611
+US,Oklahoma,2020-10,3263613
+US,Oklahoma,2020-11,4705959
+US,Oklahoma,2020-12,7621868
+US,Oklahoma,2021-01,10758501
+US,Oklahoma,2021-02,11541313
+US,Oklahoma,2021-03,13446327
+US,Oklahoma,2021-04,13328936
+US,Oklahoma,2021-05,13978779
+US,Oklahoma,2021-06,13655732
+US,Oklahoma,2021-07,14451549
+US,Oklahoma,2021-08,15967301
+US,Oklahoma,2021-09,17589509
+US,Oklahoma,2021-10,19570517
+US,Oklahoma,2021-11,19658755
+US,Oklahoma,2021-12,21247195
+US,Oklahoma,2022-01,25678891
+US,Oklahoma,2022-02,28180546
+US,Oklahoma,2022-03,31862184
+US,Oklahoma,2022-04,25914251
+US,Oregon,2020-01,0
+US,Oregon,2020-02,1
+US,Oregon,2020-03,4611
+US,Oregon,2020-04,50088
+US,Oregon,2020-05,108477
+US,Oregon,2020-06,183433
+US,Oregon,2020-07,420150
+US,Oregon,2020-08,713297
+US,Oregon,2020-09,899723
+US,Oregon,2020-10,1207441
+US,Oregon,2020-11,1750277
+US,Oregon,2020-12,2999534
+US,Oregon,2021-01,4048264
+US,Oregon,2021-02,4203289
+US,Oregon,2021-03,4964744
+US,Oregon,2021-04,5218894
+US,Oregon,2021-05,6036590
+US,Oregon,2021-06,6164609
+US,Oregon,2021-07,6592951
+US,Oregon,2021-08,7593162
+US,Oregon,2021-09,9146205
+US,Oregon,2021-10,10828644
+US,Oregon,2021-11,11399398
+US,Oregon,2021-12,12546412
+US,Oregon,2022-01,16262421
+US,Oregon,2022-02,18899893
+US,Oregon,2022-03,21704604
+US,Oregon,2022-04,17725291
+US,Pennsylvania,2020-01,0
+US,Pennsylvania,2020-02,0
+US,Pennsylvania,2020-03,24412
+US,Pennsylvania,2020-04,821945
+US,Pennsylvania,2020-05,1985343
+US,Pennsylvania,2020-06,2494459
+US,Pennsylvania,2020-07,3190546
+US,Pennsylvania,2020-08,3970434
+US,Pennsylvania,2020-09,4540046
+US,Pennsylvania,2020-10,5754638
+US,Pennsylvania,2020-11,8438306
+US,Pennsylvania,2020-12,16151842
+US,Pennsylvania,2021-01,23614488
+US,Pennsylvania,2021-02,25224364
+US,Pennsylvania,2021-03,30479058
+US,Pennsylvania,2021-04,33107691
+US,Pennsylvania,2021-05,37066974
+US,Pennsylvania,2021-06,36664927
+US,Pennsylvania,2021-07,38155255
+US,Pennsylvania,2021-08,39393273
+US,Pennsylvania,2021-09,41298959
+US,Pennsylvania,2021-10,47060707
+US,Pennsylvania,2021-11,49686571
+US,Pennsylvania,2021-12,58014951
+US,Pennsylvania,2022-01,74713402
+US,Pennsylvania,2022-02,76272390
+US,Pennsylvania,2022-03,85909992
+US,Pennsylvania,2022-04,69843890
+US,Puerto Rico,2020-01,0
+US,Puerto Rico,2020-02,0
+US,Puerto Rico,2020-03,982
+US,Puerto Rico,2020-04,25584
+US,Puerto Rico,2020-05,34826
+US,Puerto Rico,2020-06,44006
+US,Puerto Rico,2020-07,108204
+US,Puerto Rico,2020-08,347276
+US,Puerto Rico,2020-09,568699
+US,Puerto Rico,2020-10,886241
+US,Puerto Rico,2020-11,1287852
+US,Puerto Rico,2020-12,2002842
+US,Puerto Rico,2021-01,2668197
+US,Puerto Rico,2021-02,2729910
+US,Puerto Rico,2021-03,3208243
+US,Puerto Rico,2021-04,3597224
+US,Puerto Rico,2021-05,4229476
+US,Puerto Rico,2021-06,4184516
+US,Puerto Rico,2021-07,4406539
+US,Puerto Rico,2021-08,4930054
+US,Puerto Rico,2021-09,5325556
+US,Puerto Rico,2021-10,5691556
+US,Puerto Rico,2021-11,5611579
+US,Puerto Rico,2021-12,6334307
+US,Puerto Rico,2022-01,12182843
+US,Puerto Rico,2022-02,13121545
+US,Puerto Rico,2022-03,14792815
+US,Puerto Rico,2022-04,12333091
+US,Rhode Island,2020-01,0
+US,Rhode Island,2020-02,0
+US,Rhode Island,2020-03,2566
+US,Rhode Island,2020-04,118406
+US,Rhode Island,2020-05,381262
+US,Rhode Island,2020-06,481310
+US,Rhode Island,2020-07,549884
+US,Rhode Island,2020-08,635058
+US,Rhode Island,2020-09,698781
+US,Rhode Island,2020-10,871329
+US,Rhode Island,2020-11,1314015
+US,Rhode Island,2020-12,2303209
+US,Rhode Island,2021-01,3208106
+US,Rhode Island,2021-02,3394694
+US,Rhode Island,2021-03,4085755
+US,Rhode Island,2021-04,4297329
+US,Rhode Island,2021-05,4662994
+US,Rhode Island,2021-06,4568395
+US,Rhode Island,2021-07,4747455
+US,Rhode Island,2021-08,4909137
+US,Rhode Island,2021-09,5026212
+US,Rhode Island,2021-10,5465112
+US,Rhode Island,2021-11,5543857
+US,Rhode Island,2021-12,6459080
+US,Rhode Island,2022-01,9280109
+US,Rhode Island,2022-02,9855905
+US,Rhode Island,2022-03,11116758
+US,Rhode Island,2022-04,9124726
+US,South Carolina,2020-01,0
+US,South Carolina,2020-02,0
+US,South Carolina,2020-03,6262
+US,South Carolina,2020-04,112934
+US,South Carolina,2020-05,269996
+US,South Carolina,2020-06,635285
+US,South Carolina,2020-07,1978230
+US,South Carolina,2020-08,3278566
+US,South Carolina,2020-09,4017202
+US,South Carolina,2020-10,5027463
+US,South Carolina,2020-11,5897776
+US,South Carolina,2020-12,8095910
+US,South Carolina,2021-01,11769420
+US,South Carolina,2021-02,13575079
+US,South Carolina,2021-03,16594789
+US,South Carolina,2021-04,16989314
+US,South Carolina,2021-05,18211291
+US,South Carolina,2021-06,17854108
+US,South Carolina,2021-07,18708575
+US,South Carolina,2021-08,20733368
+US,South Carolina,2021-09,24160417
+US,South Carolina,2021-10,27353270
+US,South Carolina,2021-11,27263387
+US,South Carolina,2021-12,29031722
+US,South Carolina,2022-01,36320395
+US,South Carolina,2022-02,40189739
+US,South Carolina,2022-03,45425580
+US,South Carolina,2022-04,36759332
+US,South Dakota,2020-01,0
+US,South Dakota,2020-02,0
+US,South Dakota,2020-03,704
+US,South Dakota,2020-04,36228
+US,South Dakota,2020-05,118918
+US,South Dakota,2020-06,177960
+US,South Dakota,2020-07,240095
+US,South Dakota,2020-08,326657
+US,South Dakota,2020-09,529111
+US,South Dakota,2020-10,1007707
+US,South Dakota,2020-11,1938994
+US,South Dakota,2020-12,2843016
+US,South Dakota,2021-01,3244540
+US,South Dakota,2021-02,3089709
+US,South Dakota,2021-03,3565684
+US,South Dakota,2021-04,3614586
+US,South Dakota,2021-05,3831482
+US,South Dakota,2021-06,3731285
+US,South Dakota,2021-07,3869048
+US,South Dakota,2021-08,3957081
+US,South Dakota,2021-09,4162440
+US,South Dakota,2021-10,4649522
+US,South Dakota,2021-11,4816181
+US,South Dakota,2021-12,5361278
+US,South Dakota,2022-01,6328717
+US,South Dakota,2022-02,6525601
+US,South Dakota,2022-03,7336919
+US,South Dakota,2022-04,5933067
+US,Tennessee,2020-01,0
+US,Tennessee,2020-02,0
+US,Tennessee,2020-03,13685
+US,Tennessee,2020-04,195329
+US,Tennessee,2020-05,543177
+US,Tennessee,2020-06,960312
+US,Tennessee,2020-07,2249954
+US,Tennessee,2020-08,4057874
+US,Tennessee,2020-09,5245584
+US,Tennessee,2020-10,6971998
+US,Tennessee,2020-11,9328863
+US,Tennessee,2020-12,14840522
+US,Tennessee,2021-01,20706180
+US,Tennessee,2021-02,20980695
+US,Tennessee,2021-03,24438955
+US,Tennessee,2021-04,24749144
+US,Tennessee,2021-05,26428233
+US,Tennessee,2021-06,25889134
+US,Tennessee,2021-07,27165928
+US,Tennessee,2021-08,29971080
+US,Tennessee,2021-09,34869491
+US,Tennessee,2021-10,39107950
+US,Tennessee,2021-11,38978020
+US,Tennessee,2021-12,42038703
+US,Tennessee,2022-01,51615035
+US,Tennessee,2022-02,55210298
+US,Tennessee,2022-03,62501278
+US,Tennessee,2022-04,50601133
+US,Texas,2020-01,0
+US,Texas,2020-02,0
+US,Texas,2020-03,21333
+US,Texas,2020-04,369373
+US,Texas,2020-05,1209742
+US,Texas,2020-06,2949790
+US,Texas,2020-07,9094549
+US,Texas,2020-08,17306997
+US,Texas,2020-09,21606639
+US,Texas,2020-10,26338246
+US,Texas,2020-11,31951160
+US,Texas,2020-12,46197794
+US,Texas,2021-01,65807240
+US,Texas,2021-02,72509527
+US,Texas,2021-03,85890518
+US,Texas,2021-04,86432863
+US,Texas,2021-05,91943427
+US,Texas,2021-06,90475797
+US,Texas,2021-07,95481236
+US,Texas,2021-08,105282868
+US,Texas,2021-09,117003017
+US,Texas,2021-10,130146709
+US,Texas,2021-11,129579715
+US,Texas,2021-12,138332050
+US,Texas,2022-01,170852283
+US,Texas,2022-02,182250262
+US,Texas,2022-03,207118683
+US,Texas,2022-04,169479108
+US,Utah,2020-01,0
+US,Utah,2020-02,0
+US,Utah,2020-03,5370
+US,Utah,2020-04,81945
+US,Utah,2020-05,221285
+US,Utah,2020-06,461201
+US,Utah,2020-07,984909
+US,Utah,2020-08,1442519
+US,Utah,2020-09,1829235
+US,Utah,2020-10,2870716
+US,Utah,2020-11,4661343
+US,Utah,2020-12,7428927
+US,Utah,2021-01,9842356
+US,Utah,2021-02,10101048
+US,Utah,2021-03,11749982
+US,Utah,2021-04,11752199
+US,Utah,2021-05,12471363
+US,Utah,2021-06,12311787
+US,Utah,2021-07,13106739
+US,Utah,2021-08,13874810
+US,Utah,2021-09,14611047
+US,Utah,2021-10,16426235
+US,Utah,2021-11,17268418
+US,Utah,2021-12,19102568
+US,Utah,2022-01,23683685
+US,Utah,2022-02,25515045
+US,Utah,2022-03,28704339
+US,Utah,2022-04,23226196
+US,Vermont,2020-01,0
+US,Vermont,2020-02,0
+US,Vermont,2020-03,1839
+US,Vermont,2020-04,21165
+US,Vermont,2020-05,29030
+US,Vermont,2020-06,33550
+US,Vermont,2020-07,41004
+US,Vermont,2020-08,46881
+US,Vermont,2020-09,50777
+US,Vermont,2020-10,60075
+US,Vermont,2020-11,91482
+US,Vermont,2020-12,185248
+US,Vermont,2021-01,303812
+US,Vermont,2021-02,383757
+US,Vermont,2021-03,531684
+US,Vermont,2021-04,645633
+US,Vermont,2021-05,736970
+US,Vermont,2021-06,729955
+US,Vermont,2021-07,761831
+US,Vermont,2021-08,817579
+US,Vermont,2021-09,927289
+US,Vermont,2021-10,1146361
+US,Vermont,2021-11,1351942
+US,Vermont,2021-12,1775288
+US,Vermont,2022-01,2699219
+US,Vermont,2022-02,3061315
+US,Vermont,2022-03,3550220
+US,Vermont,2022-04,2978325
+US,Virgin Islands,2020-01,0
+US,Virgin Islands,2020-02,0
+US,Virgin Islands,2020-03,205
+US,Virgin Islands,2020-04,1485
+US,Virgin Islands,2020-05,2116
+US,Virgin Islands,2020-06,2221
+US,Virgin Islands,2020-07,7465
+US,Virgin Islands,2020-08,23572
+US,Virgin Islands,2020-09,37063
+US,Virgin Islands,2020-10,41411
+US,Virgin Islands,2020-11,43546
+US,Virgin Islands,2020-12,56653
+US,Virgin Islands,2021-01,69265
+US,Virgin Islands,2021-02,70987
+US,Virgin Islands,2021-03,86890
+US,Virgin Islands,2021-04,90525
+US,Virgin Islands,2021-05,101860
+US,Virgin Islands,2021-06,111476
+US,Virgin Islands,2021-07,129618
+US,Virgin Islands,2021-08,164818
+US,Virgin Islands,2021-09,190540
+US,Virgin Islands,2021-10,217870
+US,Virgin Islands,2021-11,221423
+US,Virgin Islands,2021-12,245533
+US,Virgin Islands,2022-01,411008
+US,Virgin Islands,2022-02,425391
+US,Virgin Islands,2022-03,481693
+US,Virgin Islands,2022-04,396281
+US,Virginia,2020-01,0
+US,Virginia,2020-02,0
+US,Virginia,2020-03,6847
+US,Virginia,2020-04,223912
+US,Virginia,2020-05,926151
+US,Virginia,2020-06,1644315
+US,Virginia,2020-07,2330822
+US,Virginia,2020-08,3291423
+US,Virginia,2020-09,4069642
+US,Virginia,2020-10,5085677
+US,Virginia,2020-11,6195771
+US,Virginia,2020-12,9076350
+US,Virginia,2021-01,13357007
+US,Virginia,2021-02,15308866
+US,Virginia,2021-03,18535629
+US,Virginia,2021-04,19242413
+US,Virginia,2021-05,20752253
+US,Virginia,2021-06,20342775
+US,Virginia,2021-07,21250074
+US,Virginia,2021-08,22501365
+US,Virginia,2021-09,24564027
+US,Virginia,2021-10,27930814
+US,Virginia,2021-11,28428334
+US,Virginia,2021-12,31589889
+US,Virginia,2022-01,42030538
+US,Virginia,2022-02,44970330
+US,Virginia,2022-03,51347047
+US,Virginia,2022-04,42017255
+US,Washington,2020-01,10
+US,Washington,2020-02,35
+US,Washington,2020-03,45411
+US,Washington,2020-04,325296
+US,Washington,2020-05,561785
+US,Washington,2020-06,814596
+US,Washington,2020-07,1403680
+US,Washington,2020-08,2095186
+US,Washington,2020-09,2470697
+US,Washington,2020-10,3087840
+US,Washington,2020-11,4149418
+US,Washington,2020-12,6618129
+US,Washington,2021-01,8805144
+US,Washington,2021-02,9187567
+US,Washington,2021-03,10905441
+US,Washington,2021-04,11499794
+US,Washington,2021-05,13072571
+US,Washington,2021-06,13353402
+US,Washington,2021-07,14284516
+US,Washington,2021-08,15987996
+US,Washington,2021-09,18380190
+US,Washington,2021-10,21535818
+US,Washington,2021-11,22613916
+US,Washington,2021-12,24887528
+US,Washington,2022-01,33207720
+US,Washington,2022-02,39128358
+US,Washington,2022-03,44678159
+US,Washington,2022-04,36765055
+US,West Virginia,2020-01,0
+US,West Virginia,2020-02,0
+US,West Virginia,2020-03,760
+US,West Virginia,2020-04,21077
+US,West Virginia,2020-05,47180
+US,West Virginia,2020-06,71763
+US,West Virginia,2020-07,144666
+US,West Virginia,2020-08,262659
+US,West Virginia,2020-09,394692
+US,West Virginia,2020-10,609146
+US,West Virginia,2020-11,1046823
+US,West Virginia,2020-12,2081323
+US,West Virginia,2021-01,3300070
+US,West Virginia,2021-02,3563232
+US,West Virginia,2021-03,4227093
+US,West Virginia,2021-04,4432742
+US,West Virginia,2021-05,4900759
+US,West Virginia,2021-06,4893254
+US,West Virginia,2021-07,5118969
+US,West Virginia,2021-08,5443015
+US,West Virginia,2021-09,6481278
+US,West Virginia,2021-10,8012815
+US,West Virginia,2021-11,8520439
+US,West Virginia,2021-12,9656743
+US,West Virginia,2022-01,12004530
+US,West Virginia,2022-02,13292514
+US,West Virginia,2022-03,15352655
+US,West Virginia,2022-04,12469937
+US,Wisconsin,2020-01,0
+US,Wisconsin,2020-02,0
+US,Wisconsin,2020-03,9404
+US,Wisconsin,2020-04,118808
+US,Wisconsin,2020-05,383868
+US,Wisconsin,2020-06,699650
+US,Wisconsin,2020-07,1245160
+US,Wisconsin,2020-08,2022736
+US,Wisconsin,2020-09,2855768
+US,Wisconsin,2020-10,5358588
+US,Wisconsin,2020-11,9931424
+US,Wisconsin,2020-12,14724485
+US,Wisconsin,2021-01,17417378
+US,Wisconsin,2021-02,16987494
+US,Wisconsin,2021-03,19427985
+US,Wisconsin,2021-04,19469004
+US,Wisconsin,2021-05,20738590
+US,Wisconsin,2021-06,20288666
+US,Wisconsin,2021-07,21099014
+US,Wisconsin,2021-08,21972037
+US,Wisconsin,2021-09,23064874
+US,Wisconsin,2021-10,26395481
+US,Wisconsin,2021-11,27955296
+US,Wisconsin,2021-12,32447640
+US,Wisconsin,2022-01,41193795
+US,Wisconsin,2022-02,43522457
+US,Wisconsin,2022-03,48953353
+US,Wisconsin,2022-04,39835957
+US,Wyoming,2020-01,0
+US,Wyoming,2020-02,0
+US,Wyoming,2020-03,716
+US,Wyoming,2020-04,9826
+US,Wyoming,2020-05,22805
+US,Wyoming,2020-06,33714
+US,Wyoming,2020-07,63972
+US,Wyoming,2020-08,102415
+US,Wyoming,2020-09,140060
+US,Wyoming,2020-10,279238
+US,Wyoming,2020-11,698302
+US,Wyoming,2020-12,1239260
+US,Wyoming,2021-01,1509296
+US,Wyoming,2021-02,1491294
+US,Wyoming,2021-03,1716641
+US,Wyoming,2021-04,1716152
+US,Wyoming,2021-05,1835244
+US,Wyoming,2021-06,1839362
+US,Wyoming,2021-07,1970340
+US,Wyoming,2021-08,2152271
+US,Wyoming,2021-09,2491712
+US,Wyoming,2021-10,3014071
+US,Wyoming,2021-11,3236264
+US,Wyoming,2021-12,3515362
+US,Wyoming,2022-01,4004880
+US,Wyoming,2022-02,4272079
+US,Wyoming,2022-03,4829026
+US,Wyoming,2022-04,3907134
